@@ -1,0 +1,7 @@
+{
+  "theme": "obsidian",
+  "accentColor": "#ff5291",
+  "enabledCssSnippets": [
+    "custom-highlight"
+  ]
+}
