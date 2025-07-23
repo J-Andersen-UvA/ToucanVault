@@ -1,0 +1,1 @@
+- maak filmpje real life en avatar synced
