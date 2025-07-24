@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PineapplePipeline/3Dopname gloss safety.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Dopname gloss safety"
+              "title": "Untitled"
             }
           },
           {
@@ -233,8 +233,9 @@
   },
   "active": "06436e61e3066580",
   "lastOpenFiles": [
-    "ToDo/PineapplePipelineTodo.md",
     "PineapplePipeline/3Dopname gloss safety.md",
+    "Untitled.md",
+    "ToDo/PineapplePipelineTodo.md",
     "Unreal/UE Plugin & Live‑Coding Setup.md",
     "Unreal/Azure Kinect Component & Functionality.md",
     "Unreal/Blueprint callable C++ and variables from bp in C++.md",
