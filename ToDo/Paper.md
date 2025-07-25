@@ -1,4 +1,3 @@
 #ToDo 
-- Feedback verwerken
-- Acknowledgements refereren naar ZonMW en NWO
 - Poster Afmaken
+- Floris feedback wachten en inleveren
