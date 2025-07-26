@@ -24,5 +24,5 @@ Distance
 
 
 TODO:
-Make 1 LLM control ship (make player write backstory)
+Make 1 LLM control ship
 Make 1 LLM control environment
