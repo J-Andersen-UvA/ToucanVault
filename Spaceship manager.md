@@ -24,4 +24,5 @@ Distance
 
 
 TODO:
-Remove flocking behavior from captain. 
+Make 1 LLM control ship (make player write backstory)
+Make 1 LLM control environment
