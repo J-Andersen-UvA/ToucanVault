@@ -19,3 +19,9 @@ The Lemmings move around based on flock behavior, hopefully this will add more d
 
 #### Relevator
 Distance
+
+
+
+
+TODO:
+Remove flocking behavior from captain. 
