@@ -22,7 +22,11 @@ Distance
 
 
 
+---
+#### Environment controlled by a separate LLM?
+Not that fun, feels like you have little control over the gaming element that is supposed to be controlled by the player.
 
 TODO:
-Make 1 LLM control ship
-Make 1 LLM control environment
+if not:
+Make sensors detectable by ship
+Make obstacles and see if we can make ship fly around it using sensors
