@@ -34,6 +34,9 @@ Maybe we can:
 - Shoot stuff
 The main direction and speed is controlled by the dumb LLM and we can do our best to help
 
+Or maybe we can:
+- Type into a chatbox short flying instructions and hit prompt
+
 TODO:
 if not:
 Make sensors detectable by ship
