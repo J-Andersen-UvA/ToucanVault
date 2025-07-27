@@ -24,7 +24,15 @@ Distance
 
 ---
 #### Environment controlled by a separate LLM?
-Not that fun, feels like you have little control over the gaming element that is supposed to be controlled by the player.
+**Not that fun**, feels like you have little control over the gaming element that is supposed to be controlled by the player.
+
+---
+#### Control ship in conjunction with LLM?
+Maybe we can:
+- Reduce speed
+- Nudge ship in slight different direction
+- Shoot stuff
+The main direction and speed is controlled by the dumb LLM and we can do our best to help
 
 TODO:
 if not:
