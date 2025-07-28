@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaceship manager.md",
+                "file": "PineapplePipeline/3Dopname gloss safety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spaceship manager"
+              "title": "3Dopname gloss safety"
             }
           },
           {
@@ -247,8 +247,9 @@
   },
   "active": "78bff7e50a43892c",
   "lastOpenFiles": [
-    "Gestalte.md",
+    "Untitled.md",
     "Spaceship manager.md",
+    "Gestalte.md",
     "PineapplePipeline/3Dopname gloss safety.md",
     "ToDo/PineapplePipelineTodo.md",
     "ToDo/Paper.md",
