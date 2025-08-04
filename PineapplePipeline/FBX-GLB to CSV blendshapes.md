@@ -10,4 +10,4 @@ Het moet bruikbaar zijn voor onderzoek
 Heeft RPM mapping van alle blendshapes?
 Welke mappings hadden een weight?
 Zijn alle blendshapes nodig, zitten er onbelangrijke tussen die niet gebruikt worden?
-
+Headpitch wordt gedropped.
