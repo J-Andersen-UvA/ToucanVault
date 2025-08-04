@@ -1,0 +1,2 @@
+#ToDo
+Om te voorkomen dat de iPhone in de pipeline verplicht is de files te laten versturen, bedacht ik mij dat we de informatie terug kunnen halen van het gezicht van RPM. We kunnen de blendshapes uit lezen en per frame weer terug schrijven naar een CSV zoals we die kennen. Op frame basis zou het misschien niet overeenkomen omdat Unreal Engine niet synced is met de iPhone. Maar als we dit plotten zou dezelfde grafiek eruit moeten komen. 
