@@ -6,7 +6,7 @@
       {
         "id": "c5785c82df144e99",
         "type": "tabs",
-        "dimension": 52.3014440433213,
+        "dimension": 51.38081395348837,
         "children": [
           {
             "id": "b760ef334d56af5c",
@@ -98,7 +98,7 @@
       {
         "id": "288cfe555defd3a4",
         "type": "tabs",
-        "dimension": 47.6985559566787,
+        "dimension": 48.61918604651162,
         "children": [
           {
             "id": "16ca4a8e1edb9677",
@@ -255,7 +255,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,8 +269,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16ca4a8e1edb9677",
+  "active": "8a3f2a251fb309c2",
   "lastOpenFiles": [
+    "Images/SettingColorTextureAzure.png",
     "PineapplePipeline/FBX-GLB to CSV blendshapes.md",
     "Gestalte.md",
     "Spaceship manager.md",
@@ -284,7 +285,6 @@
     "ToDo",
     "PineapplePipeline",
     "Templates/Blue.md",
-    "Images/SettingColorTextureAzure.png",
     "Images",
     "Unreal",
     "Templates/Red.md",
