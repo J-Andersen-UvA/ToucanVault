@@ -11,3 +11,6 @@ Heeft RPM mapping van alle blendshapes?
 Welke mappings hadden een weight?
 Zijn alle blendshapes nodig, zitten er onbelangrijke tussen die niet gebruikt worden?
 Headpitch wordt gedropped.
+
+## Writing during recording
+To prevent having to remap rpm to arkit, I will simply write the values as they come from the llf application during a recording using some cpp.
