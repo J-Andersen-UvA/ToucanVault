@@ -10,9 +10,9 @@ We ran into so many issues just because of the placement of the build and other 
 		└── Source/
 		    ├── MyPlugin/                 # Runtime module
 		    │   ├── Public/               # Exposed headers
-		    │   │   └── MyPluginModule.h
+		    │   │   └── MyPluginComponent.h
 		    │   └── Private/              # Implementation files
-		    │   │   └── MyPluginModule.cpp
+		    │   │   └── MyPluginComponent.cpp
 		    │   ├── MyPlugin.cpp
 		    │   └── MyPlugin.Build.cs
 		    │
