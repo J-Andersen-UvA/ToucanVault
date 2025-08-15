@@ -12,7 +12,12 @@ We can hook into the tick and other places by doing something like:
 ```python
 self.slate_post_tick_handle = unreal.register_slate_post_tick_callback(self.tick)
 ```
+[Failed to connect to Unreal Engine [Troubleshooting] · nils-soderman/vscode-unreal-python Wiki](https://github.com/nils-soderman/vscode-unreal-python/wiki/Failed-to-connect-to-Unreal-Engine-%5BTroubleshooting%5D)
 
+PIE and editor:
+```markdown
+if you want to poke the **runtime** actor while PIE is running, yes—use the **PIE world**, not the editor world. `EditorLevelLibrary.get_all_level_actors()` only sees the **editor** world (the “authoring” copy). In PIE, actors are duplicated into a separate **play** world.
+```
 ### 2) Remote Control API
 The benefit is that we can call UFUNCTIONs from an external Python process. So we don't need the Python script to hook into Unreal. This eliminates freezes due to handling python in an update function and it also helps with the overhead that comes with changing codebases to fit Unreal Engine.
 
