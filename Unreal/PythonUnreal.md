@@ -25,10 +25,18 @@ The benefit is that we can call UFUNCTIONs from an external Python process. So w
 
 **External Python example:**
 ```python
-import requests
-URL = "http://127.0.0.1:30010/remote/preset/MyPreset/function/UpdateSign"
-payload = {"Parameters": {"Sign": "HELLO", "Confidence": 0.92}}
-requests.put(URL, json=payload, timeout=2).raise_for_status()
+import requests, urllib.parse as up
+
+HOST, PORT      = "127.0.0.1", 30010
+PRESET_NAME     = "SignBridge" # the tab name of your RC preset
+FUNC_LABEL      = "RC Update Sign" # exact label as seen in the panel
+
+def call(sign="HELLO", confidence=0.92):
+    url = f"http://{HOST}:{PORT}/remote/preset/{up.quote(PRESET_NAME, safe='')}/function/{up.quote(FUNC_LABEL, safe='')}"
+    payload = {"Parameters": {"Sign": sign, "Confidence": confidence}}
+    r = requests.put(url, json=payload, timeout=3)
+    print("HTTP", r.status_code, r.text)
+    r.raise_for_status()
 ```
 
 **! Important !**
