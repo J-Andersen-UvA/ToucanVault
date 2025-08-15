@@ -13,13 +13,12 @@ We can hook into the tick and other places by doing something like:
 self.slate_post_tick_handle = unreal.register_slate_post_tick_callback(self.tick)
 ```
 [Failed to connect to Unreal Engine [Troubleshooting] · nils-soderman/vscode-unreal-python Wiki](https://github.com/nils-soderman/vscode-unreal-python/wiki/Failed-to-connect-to-Unreal-Engine-%5BTroubleshooting%5D)
-
 ### 2) Remote Control API
 The benefit is that we can call UFUNCTIONs from an external Python process. So we don't need the Python script to hook into Unreal. This eliminates freezes due to handling python in an update function and it also helps with the overhead that comes with changing codebases to fit Unreal Engine.
 
 **UE Setup (once):**
 1. Enable **Remote Control API** plugin.
-2. Window → **Remote Control** → create **Preset**.
+2. Create **Remote Control Preset** in content browser.
 3. Add your actor/component and **Expose** the function (e.g., `UpdateSign(Sign, Confidence)`).
 4. Ensure **Remote Control** server is enabled (Project Settings → Remote Control).
 
