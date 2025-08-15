@@ -19,7 +19,8 @@ The benefit is that we can call UFUNCTIONs from an external Python process. So w
 **UE Setup (once):**
 1. Enable **Remote Control API** plugin.
 2. Create **Remote Control Preset** in content browser.
-3. Add your actor/component and **Expose** the function (e.g., `UpdateSign(Sign, Confidence)`).
+3. Add your actor/component and **Expose** the function or expose through the new expose button (e.g., `UpdateSign(Sign, Confidence)`).
+![[RemoteControlExpose.png]]
 4. Ensure **Remote Control** server is enabled (Project Settings → Remote Control).
 
 **External Python example:**

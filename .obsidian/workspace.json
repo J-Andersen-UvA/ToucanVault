@@ -283,8 +283,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16ca4a8e1edb9677",
+  "active": "83cef800de0d06f7",
   "lastOpenFiles": [
+    "Images/RemoteControlExpose.png",
+    "Images/Screenshot 2025-08-15 141715.png",
     "Unreal/PythonUnreal.md",
     "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
     "Unreal/Blueprint callable C++, variables from bp in C++ and Events-delegates.md",
