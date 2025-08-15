@@ -6,7 +6,7 @@
       {
         "id": "c5785c82df144e99",
         "type": "tabs",
-        "dimension": 59.520348837209305,
+        "dimension": 46.875,
         "children": [
           {
             "id": "b760ef334d56af5c",
@@ -84,26 +84,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Blueprint callable C++, variables from bp in C++ and Events-delegates.md",
+                "file": "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blueprint callable C++, variables from bp in C++ and Events-delegates"
-            }
-          },
-          {
-            "id": "52f84324a44a8e88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unreal/UE Plugin & Live‑Coding Setup.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UE Plugin & Live‑Coding Setup"
+              "title": "UE Interlanguage communication (Cpp, Python, Blueprint)"
             }
           },
           {
@@ -121,12 +107,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "288cfe555defd3a4",
         "type": "tabs",
-        "dimension": 40.479651162790695,
+        "dimension": 53.125,
         "children": [
           {
             "id": "16ca4a8e1edb9677",
@@ -297,14 +283,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52f84324a44a8e88",
+  "active": "16ca4a8e1edb9677",
   "lastOpenFiles": [
     "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
+    "Unreal/Blueprint callable C++, variables from bp in C++ and Events-delegates.md",
+    "Unreal/UE Plugin & Live‑Coding Setup.md",
     "Unreal/UE build issues.md",
     "Unreal/PythonUnreal.md",
-    "Unreal/Blueprint callable C++, variables from bp in C++ and Events-delegates.md",
     "Unreal/Azure Kinect Component & Functionality.md",
-    "Unreal/UE Plugin & Live‑Coding Setup.md",
     "PineapplePipeline/FBX-GLB to CSV blendshapes.md",
     "PineapplePipeline/3Dopname gloss safety.md",
     "Images/SettingColorTextureAzure.png",
