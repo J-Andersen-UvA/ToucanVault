@@ -31,6 +31,9 @@ payload = {"Parameters": {"Sign": "HELLO", "Confidence": 0.92}}
 requests.put(URL, json=payload, timeout=2).raise_for_status()
 ```
 
+**! Important !**
+Remote control API is still in beta, I had troubles getting the functions from components into the Remote Control Presets. You can work around this by using wrappers in either Blueprints or in Cpp _within_ the owning actor.
+![[WrapperComponentFunction.png]]
 ### 3) OSC
 **UE Setup:**
 1. Enable **OSC** plugin.
