@@ -98,12 +98,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
+                "file": "Unreal/UE Plugin & Live‑Coding Setup.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UE Interlanguage communication (Cpp, Python, Blueprint)"
+              "title": "UE Plugin & Live‑Coding Setup"
             }
           },
           {
@@ -299,14 +299,14 @@
   },
   "active": "52f84324a44a8e88",
   "lastOpenFiles": [
+    "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
+    "Unreal/UE build issues.md",
     "Unreal/PythonUnreal.md",
     "Unreal/Blueprint callable C++, variables from bp in C++ and Events-delegates.md",
-    "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
+    "Unreal/Azure Kinect Component & Functionality.md",
     "Unreal/UE Plugin & Live‑Coding Setup.md",
-    "Unreal/UE build issues.md",
     "PineapplePipeline/FBX-GLB to CSV blendshapes.md",
     "PineapplePipeline/3Dopname gloss safety.md",
-    "Unreal/Azure Kinect Component & Functionality.md",
     "Images/SettingColorTextureAzure.png",
     "Gestalte.md",
     "Spaceship manager.md",
