@@ -1,4 +1,32 @@
 #3dopname #pineapplepipeline
+
+
+# 29-09-2025
+
+Idpv één json file met alle opname paden en statusen, kiezen we ervoor om alles lokaal in een enkele folder op te slaan. Die folder ziet er als volgt uit:
+```
+root folder (datum)
+└── subfolder (glossname of ID)
+     ├── metadata
+	 |    └── status file (overzicht van alle aanwezige bestanden)
+     ├── shogun_live
+     |    ├── mcp        
+     |    └── flir   
+     ├── shogun_post
+     |    ├── fbx      
+     |    └── csv     
+     ├── unreal     
+	 |    ├── retargeted fbx     
+	 |    └── live link face csv
+	 └── obs          
+		 ├── camera_hoek1.mkv
+		 ├── camera_hoek2.mkv
+		 └── ...
+```
+Op die manier weten we gelijk wat er bij een bepaalde gloss hoort omdat het in dezelfde folder zit. Daarnaast kunnen we de metadata file ook sturen naar de server zodat die weet of namen anders zijn geworden bij een gloss. Lastly, kunnen we ook dit soort folders makkelijker zippen en sturen. Moet er achteraf nog iets opnieuw opgestuurd worden, dan kan dat als kompleet pakket.
+
+# 25-07-2025
+
 Momenteel hebben we issues op de server dat we niet altijd weten of files echt opgenomen zijn ja of nee. Deze problemen kunnen komen door de volgende punten, ik neem hier de privilege om namen te geven aan de problemen:
 - **Gloss name mismatch**
 	Naam komt niet overeen van een geuploade file en de daadwerkelijke gloss 
