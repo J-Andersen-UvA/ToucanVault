@@ -1,6 +1,31 @@
 #3dopname #pineapplepipeline
 
 
+# 08-10-2025
+
+*Notities na het overleg:*
+We hebben besproken wat verder gedaan moet worden qua gloss safety. Gomer en ik praten elkaar voorbij, maar we bedoelen uiteindelijk wel hetzelfde. We willen weten waar de verantwoordelijkheden liggen qua lokaal en server. In mijn ogen is het log bestand (waar de  opnames die lokaal aanwezig zijn in staan) de hoofdverantwoordelijkheid van lokaal. Alle files worden al verstuurd naar de server direct na opnames, maar er zijn situaties waar "drops" voorkomen ookal is er een ack naar lokaal gestuurd. Daarom vraag ik mij af, wat aan de kant van de server er in die gevallen moet gebeuren? Gaat de server checken of de bestanden in het log bestand ook aanwezig zijn op de server? Wat als er 1 file mist? Gaan we dan automatisch vragen aan de Vicon computer of hij het weer op kan sturen? Of gaan we voor die opnames het weer op "niet opgenmomen" zetten voor de missende files ookal zijn de opnames lokaal wel aanwezig? Of willen we bijvoorbeeld, wanneer het log bestand kompleet gevuld wordt (inclusief shogun post), het hele pakket met opnames nogmaals naar de server sturen? Zijn we dan bang voor dubbele files of opslag?
+Voor de rest is het wat mij betreft aan de kant van lokaal afgebakend, ik probeer alleen te kijken hoe we hiermee verder willen.
+
+*Chatgpt versie:*
+**Situatie:**  
+Lokaal wordt na elke opname een logbestand bijgehouden van wat er is opgenomen. Alle bestanden worden direct doorgestuurd naar de server, maar er zijn situaties waarin de server wel een ACK terugstuurt terwijl er uiteindelijk één of meer bestanden ontbreken (“drops”).
+
+**Vraagstuk:**  
+Wat is in die gevallen de verantwoordelijkheid van de server?
+
+- Moet de server checken of de bestanden in het logbestand ook daadwerkelijk aanwezig zijn?
+- En als er iets mist:
+    - Probeert de server de file opnieuw op te vragen bij de Vicon-computer?
+    - Of zet de server die opname op “niet opgenomen” ondanks dat lokaal alles er wel is?
+- Of kiezen we ervoor dat lokaal, zodra het log compleet is (inclusief Shogun Post), het hele pakket nogmaals naar de server stuurt als een back-up?
+    - In dat geval: hoe gaan we om met dubbele bestanden en opslag?
+
+**Mijn standpunt:**  
+Aan de lokale kant is het proces al goed afgebakend. De open vraag is vooral:
+
+> Hoe willen we aan de serverkant omgaan met de validatie en eventuele herstelactie bij ontbrekende bestanden?
+
 # 29-09-2025
 
 Idpv één json file met alle opname paden en statusen, kiezen we ervoor om alles lokaal in een enkele folder op te slaan. Die folder ziet er als volgt uit:
