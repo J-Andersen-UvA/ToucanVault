@@ -58,3 +58,8 @@ With the plugin in place and the ability to modify and recompile quickly, we can
 "Plugins": [ { "Name": "LiveLink", "Enabled": true } ]
 ```
 Also don't forget to clean and build.
+
+
+# Help where are my blueprint nodes!
+#Blueprint #TroubleShooting 
+If your uplugin file marks the Type as editor: Unreal will only load it as an _editor-only_ DLL. Editor modules don’t participate in the normal runtime reflection pipeline that Blueprints use for callable nodes; they’re meant for tooling (menus, windows) and can be entirely excluded from gameplay. In short: **Editor** = tools/UI only; **Runtime** = reflected, Blueprint-visible, usable in game and in editor.
