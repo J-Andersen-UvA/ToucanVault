@@ -79,6 +79,18 @@
             }
           },
           {
+            "id": "7cab0e4c8c6d8ead",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
+          },
+          {
             "id": "2caf1dbc220e1fc2",
             "type": "leaf",
             "state": {
@@ -93,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "288cfe555defd3a4",
@@ -272,7 +284,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8a3f2a251fb309c2",
+  "active": "7cab0e4c8c6d8ead",
   "lastOpenFiles": [
     "Unreal/UE Plugin & Live‑Coding Setup.md",
     "Unreal/UE build and blueprint issues.md",
