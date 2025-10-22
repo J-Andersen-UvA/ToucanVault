@@ -1,4 +1,4 @@
-#UEPlugin #UnrealEngine 
+ #UEPlugin #UnrealEngine 
 1. **`.uplugin` & `.uproject` Configuration**
     
     - Create your plugin descriptor (`MyPlugin.uplugin`), declaring one or more modules (e.g. runtime vs. editor-only).
@@ -10,9 +10,9 @@ We ran into so many issues just because of the placement of the build and other 
 		└── Source/
 		    ├── MyPlugin/                 # Runtime module
 		    │   ├── Public/               # Exposed headers
-		    │   │   └── MyPluginModule.h
+		    │   │   └── MyPluginComponent.h
 		    │   └── Private/              # Implementation files
-		    │   │   └── MyPluginModule.cpp
+		    │   │   └── MyPluginComponent.cpp
 		    │   ├── MyPlugin.cpp
 		    │   └── MyPlugin.Build.cs
 		    │
@@ -50,4 +50,16 @@ For some reason the loading of the plugin and reloading after changes works bett
 
 ## Making blueprint callable C++ code
 With the plugin in place and the ability to modify and recompile quickly, we can make functions in C++ that are callable from blueprints:
-[[Blueprint callable C++ and variables from bp in C++]]
+[[Blueprint callable C++, variables from bp in C++ and Events-delegates]]
+
+## If a plugin relies on another plugin
+**Check your plugin descriptor** (`myplugin.uplugin`) to ensure it has the other plugin's module listed, example:
+```json
+"Plugins": [ { "Name": "LiveLink", "Enabled": true } ]
+```
+Also don't forget to clean and build.
+
+
+# Help where are my blueprint nodes!
+#Blueprint #TroubleShooting 
+If your uplugin file marks the Type as editor: Unreal will only load it as an _editor-only_ DLL. Editor modules don’t participate in the normal runtime reflection pipeline that Blueprints use for callable nodes; they’re meant for tooling (menus, windows) and can be entirely excluded from gameplay. In short: **Editor** = tools/UI only; **Runtime** = reflected, Blueprint-visible, usable in game and in editor.

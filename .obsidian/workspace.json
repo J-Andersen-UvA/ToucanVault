@@ -6,15 +6,15 @@
       {
         "id": "c5785c82df144e99",
         "type": "tabs",
-        "dimension": 52.3014440433213,
+        "dimension": 57.77616279069767,
         "children": [
           {
-            "id": "b760ef334d56af5c",
+            "id": "7cab0e4c8c6d8ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/Azure Kinect Component & Functionality.md",
+                "file": "Useful Commands.md",
                 "mode": "source",
                 "source": false
               },
@@ -77,21 +77,24 @@
               "icon": "lucide-file",
               "title": "PineapplePipelineTodo"
             }
+              "title": "Useful Commands"
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "288cfe555defd3a4",
         "type": "tabs",
-        "dimension": 47.6985559566787,
+        "dimension": 42.22383720930233,
         "children": [
           {
             "id": "16ca4a8e1edb9677",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -225,16 +228,27 @@
               "icon": "lucide-list",
               "title": "Outline of UE Plugin & Live‑Coding Setup"
             }
+          },
+          {
+            "id": "9384770d91661282",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -245,29 +259,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78bff7e50a43892c",
+  "active": "7cab0e4c8c6d8ead",
   "lastOpenFiles": [
-    "Spaceship manager.md",
-    "Images/excavator.gif",
-    "Art for factory game.md",
-    "Images/excavator.aseprite",
-    "Images/assembler.aseprite",
-    "Images/pointerArrow.gif",
-    "Images/pointerArrow.aseprite",
-    "Images/furnace.gif",
-    "Images/furnace.aseprite",
-    "Gestalte.md",
-    "PineapplePipeline/3Dopname gloss safety.md",
+    "Unreal/Plugins/Auto make plugin folder.md",
+    "Useful Commands.md",
     "ToDo/PineapplePipelineTodo.md",
-    "ToDo/Paper.md",
-    "Unreal/UE Plugin & Live‑Coding Setup.md",
+    "Unreal/UE build and blueprint issues.md",
+    "PineapplePipeline/3Dopname gloss safety.md",
     "Unreal/Azure Kinect Component & Functionality.md",
-    "Unreal/Blueprint callable C++ and variables from bp in C++.md",
+    "Unreal/UE Plugin & Live‑Coding Setup.md",
+    "Unreal/Blueprint callable C++, variables from bp in C++ and Events-delegates.md",
+    "Unreal/PythonUnreal.md",
+    "Unreal/Custom Buttons and dropdown menus.md",
+    "Unreal/Plugins/Reusing plugins and git.md",
+    "Unreal/Renaming Blendshapes Morphtargets.md",
+    "Unreal/Plugins",
     "ToDo/Poster presentatie.md",
+    "PineapplePipeline/FBX-GLB to CSV blendshapes.md",
+    "ToDo/Paper.md",
+    "Images/WrapperComponentFunction.png",
+    "Images/RemoteControlExpose.png",
+    "Images/Screenshot 2025-08-15 141715.png",
+    "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
+    "Images/SettingColorTextureAzure.png",
+    "Gestalte.md",
+    "Spaceship manager.md",
     "ToDo",
     "PineapplePipeline",
     "Templates/Blue.md",
-    "Images/SettingColorTextureAzure.png",
     "Images",
     "Unreal",
     "Templates/Red.md",
