@@ -1,0 +1,1 @@
+![[excavator.gif]]![[furnace.gif]]![[pointerArrow.gif]]

@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PineapplePipeline/3Dopname gloss safety.md",
+                "file": "Art for factory game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3Dopname gloss safety"
+              "title": "Art for factory game"
             }
           },
           {
@@ -247,8 +247,15 @@
   },
   "active": "78bff7e50a43892c",
   "lastOpenFiles": [
-    "Untitled.md",
     "Spaceship manager.md",
+    "Images/excavator.gif",
+    "Art for factory game.md",
+    "Images/excavator.aseprite",
+    "Images/assembler.aseprite",
+    "Images/pointerArrow.gif",
+    "Images/pointerArrow.aseprite",
+    "Images/furnace.gif",
+    "Images/furnace.aseprite",
     "Gestalte.md",
     "PineapplePipeline/3Dopname gloss safety.md",
     "ToDo/PineapplePipelineTodo.md",
