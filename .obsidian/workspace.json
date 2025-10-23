@@ -201,8 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cab0e4c8c6d8ead",
+  "active": "83cef800de0d06f7",
   "lastOpenFiles": [
+    "Useful Commands.md",
+    "conflict-files-obsidian-git.md",
+    "Paper notes.md",
     "Images/pointerArrow.gif",
     "Images/pointerArrow.aseprite",
     "Images/furnace.gif",
@@ -212,7 +215,6 @@
     "Images/assembler.aseprite",
     "Art for factory game.md",
     "Unreal/Plugins/Auto make plugin folder.md",
-    "Useful Commands.md",
     "ToDo/PineapplePipelineTodo.md",
     "Unreal/UE build and blueprint issues.md",
     "PineapplePipeline/3Dopname gloss safety.md",
