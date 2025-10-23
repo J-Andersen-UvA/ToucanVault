@@ -40,8 +40,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "80a7aee65c5f7c1d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,6 +204,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,6 +217,7 @@
   },
   "active": "83cef800de0d06f7",
   "lastOpenFiles": [
+    "Paper notes.md",
     "Useful Commands.md",
     "conflict-files-obsidian-git.md",
     "Paper notes.md",
