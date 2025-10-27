@@ -11,6 +11,8 @@ mklink /D "C:\Path\To\LinkName" "C:\Path\To\TargetFolder"
 # file <linkName> <originalFile>
 mklink "C:\Path\To\LinkName.txt" "C:\Path\To\TargetFile.txt"
 ```
+*After changing a name, you will need to do this again. You cannot change a symlink*
+
 
 Touch in windows:
 ```bash
