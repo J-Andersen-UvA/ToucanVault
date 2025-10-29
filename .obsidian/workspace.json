@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unreal/UE build and blueprint issues.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UE build and blueprint issues"
+              "title": "todo"
             }
           }
         ]
@@ -203,11 +203,14 @@
   },
   "active": "7cab0e4c8c6d8ead",
   "lastOpenFiles": [
+    "Screenshot 2025-10-29 162911 1.png",
+    "Screenshot 2025-10-29 162911.png",
+    "Useful Commands.md",
+    "todo.md",
+    "Unreal/UE build and blueprint issues.md",
     "Unreal/UE Plugin & Live‑Coding Setup.md",
     "Unreal/Azure Kinect Component & Functionality.md",
     "Unreal/UE Interlanguage communication (Cpp, Python, Blueprint).md",
-    "Unreal/UE build and blueprint issues.md",
-    "Useful Commands.md",
     "Untitled.base",
     "Untitled 1.base",
     "Unreal/Level Sequence tick and frames.md",
@@ -244,7 +247,6 @@
     "Templates/Blue.md",
     "Images",
     "Templates/Red.md",
-    "Templates/Green.md",
     "Untitled.canvas"
   ]
 }
