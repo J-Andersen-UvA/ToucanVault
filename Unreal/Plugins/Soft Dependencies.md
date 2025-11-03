@@ -12,17 +12,8 @@ example:
   }
 ]
 ```
-
 #### 2. In `.Build.cs`
 example:
-```cpp
-// Optional module reference
-if (ModuleExists("MidiMapper"))
-{
-    PrivateDependencyModuleNames.Add("MidiMapper");
-}
-```
-or:
 ```cpp
 PrivateDependencyModuleNames.AddRange(
     new string[] { "Projects" }
