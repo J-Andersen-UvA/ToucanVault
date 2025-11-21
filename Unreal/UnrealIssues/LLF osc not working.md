@@ -1,0 +1,2 @@
+#TroubleShooting #LiveLinkFace
+Could be because a response target is set on the iphone and it dies in the statemachine because it is not getting an ack. We found this out by sending recordingstarts, but it did not record at some point because it says it is not recording on the iphone logs. Then we turned off the response target on the iphone and it started working.
