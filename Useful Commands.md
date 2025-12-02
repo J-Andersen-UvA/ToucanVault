@@ -26,4 +26,16 @@ init-plugin.ps1
 That script init-plugin.ps1 is added to the environment variable PATH.
 Run it in the root folder of the plugin, it uses the name of that folder.
 Here is the actual command: [[Auto make plugin folder]]
- 
+
+Count unique folders minus the last part:
+```shell
+# Get all subfolder names
+$folders = Get-ChildItem -Directory | Select-Object -ExpandProperty Name
+
+# Strip the final underscore + digits, get unique list, then count
+$uniqueCount = ($folders | ForEach-Object {
+    $_ -replace "_\d+$",""
+} | Sort-Object -Unique).Count
+
+$uniqueCount
+```
