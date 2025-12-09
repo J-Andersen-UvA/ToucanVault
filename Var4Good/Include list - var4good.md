@@ -1,7 +1,8 @@
 #var4good 
 What is important to teach the students:
 1. How to motion capture.
-2. How to implement the animations in unity.
+2. Animations and how to process them
+3. How to implement the animations in unity.
 
 The presentation therefore needs to be build out of these two parts.
 
@@ -18,3 +19,16 @@ The presentation therefore needs to be build out of these two parts.
 - How does motion capturing humans work?
 	- Labelling passive markers
 	- Solving into a skeleton
+	- Motion capturing a face
+
+---
+## Animations and how to process them
+- Skeletal animations (skeletons, meshes, weightpainting)
+- Blendshapes (extremes, use cases)
+- Why process animations
+- Marker based post processing
+- Retargeting
+- Additive animation editing
+	- Original method
+	- Rigs
+	- 
