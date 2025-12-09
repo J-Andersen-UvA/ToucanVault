@@ -29,11 +29,12 @@ The presentation therefore needs to be build out of these two parts.
 - Marker based post processing
 - Retargeting
 	- What is retargeting and why
-	- retargeting in Unity ([[Unity retargeting]])
-	- 
+	- retargeting in Unity explained ([[Unity retargeting]])
 - Additive animation editing
 	- Original method
 	- Custom Rigs
 ---
 ## How to implement the animations in unity
-- rootmotion
+- Importing animations
+- Retargeting animations
+- Rootmotion
