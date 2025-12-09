@@ -31,7 +31,8 @@ The presentation therefore needs to be build out of these two parts.
 	- What is retargeting and why
 	- retargeting in Unity explained ([[Unity retargeting]])
 - Additive animation editing
-	- Original method
+	- Original method (keyframe hell)
+	- Additive animation editing
 	- Custom Rigs
 ---
 ## How to implement the animations in unity
