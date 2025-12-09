@@ -28,7 +28,12 @@ The presentation therefore needs to be build out of these two parts.
 - Why process animations
 - Marker based post processing
 - Retargeting
+	- What is retargeting and why
+	- retargeting in Unity ([[Unity retargeting]])
+	- 
 - Additive animation editing
 	- Original method
-	- Rigs
-	- 
+	- Custom Rigs
+---
+## How to implement the animations in unity
+- rootmotion
