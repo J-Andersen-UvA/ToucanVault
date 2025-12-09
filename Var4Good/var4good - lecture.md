@@ -36,8 +36,8 @@ The presentation therefore needs to be build out of these two parts.
 	- Custom Rigs
 ---
 ## How to implement the animations in unity
-- Importing avatar
-- Importing animations
+- Importing avatar (normals calculate)
+- Importing animations (dont forget ctrl+d)
 	- Skeletal
 	- Blendshapes
 - Retargeting animations (select same humanoid, the anim needs to copy from avatar)
