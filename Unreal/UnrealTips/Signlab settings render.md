@@ -12,9 +12,11 @@
 - exr output
 - H.264 MP4
 - Anti-aliasing
-	- Spatial Sample Count: 8
+	- Spatial Sample Count: 1
 	- Override Anti Aliasing: True
-	- Method: FAA
+	- Method: TSR
+- Console Variables:
+	- r.ScreenPercentage 200.0
 - Output
 	- 1080x1080
 	- 60fps
