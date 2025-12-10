@@ -32,4 +32,4 @@ Nu hebben we in totaal:
 - locatie en orientatie van de grond
 - een manier om markers te zien en te tracken in 3 dimensies
 
-Om een <span class="blue">persoon te tracken</span> moeten we een constelatie hebben
+Hoe zorgen we nu dat we een <span class="blue">persoon kunnen tracken</span>. De markers vertellen ons nog niet wie ze zijn, dus kunnen we niet simpelweg een marker neerzetten op een lichaamsdeel om dat te tracken. De markers moeten op de een of andere manier een identificatie krijgen. Deze fase heet de <span class="blue">labelling</span> fase. Door de markers in een vooraf afgesproken constelatie te plaatsen kan het Vicon systeem de relatieve locaties tussen de markers gebruiken om te labelen. Nu weten we welke marker welke is, het enige wat nog te doen is de markers om te schrijven naar een systeem dat bekend is voor animaties. Avatars in moderne animaties worden vaak aangestuurd door een onderliggend <span class="blue">skelet</span>. Dit skelet kan Vicon berekenen aan de hand van de gelabelde markers in de <span class="blue">solving</span> fase. Door de la
