@@ -9,6 +9,7 @@ The presentation therefore needs to be build out of these two parts.
 ---
 ## How to motion capture
 - What is motion capturing?
+	- 
 - Why motion capture?
 - How does motion capturing markers work?
 	- Active - versus passivetracking, marker versus markerless
