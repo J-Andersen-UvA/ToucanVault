@@ -35,6 +35,7 @@ The presentation therefore needs to be build out of these two parts.
 	- Original method (keyframe hell)
 	- Additive animation editing
 	- Custom Rigs
+- Mixamo
 ---
 ## How to implement the animations in unity
 - Importing avatar (normals calculate)
