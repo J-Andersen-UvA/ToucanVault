@@ -42,6 +42,8 @@ It takes some getting used to the Character Creator 5, but its basically a big a
 
 The blendshapes are very detailed on the realistic avatars. Especially the CC5 blendshapes. But they don't have the exact names from the ARKit, but the ARKit blendshapes are all present, so we could remap. The CC4 Extended blendshapes are more similar to the ARKit blendshapes, naming wise and visually.
 
+There is a learning curve to using Character Creator.
+
 ---
 
 **fortnite character**
@@ -50,6 +52,15 @@ Currently UEFN does not have an avatar creator
 ---
 
 **MeshyAI**
+Creates avatars using prompts.
+Issues I have with AI avatars:
+1. Require tokens and waiting for the server to provide the avatar, so takes a while to get them.
+2. Mesh often requires rigging a skeleton and then weightpainting, etc.
+3. NO blendshapes and therefore no facial expressions. I would have to do this by hand for each avatar...
+4. The amount of polygons sometimes is just unusable.. ![[Pasted image 20260106145848.png|400]]
+5. Control only through prompt and images.
+6. No separate eye mesh, will need to create that by hand if we want eyes to be animated.
+7. 
 
 ---
 

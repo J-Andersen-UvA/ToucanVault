@@ -39,3 +39,9 @@ $uniqueCount = ($folders | ForEach-Object {
 
 $uniqueCount
 ```
+
+Smaller images in obsidian:
+use `|` and then the size
+```
+![[imagelocation|400]]
+```
