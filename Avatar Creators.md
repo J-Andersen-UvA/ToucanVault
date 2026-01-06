@@ -60,7 +60,8 @@ Issues I have with AI avatars:
 4. The amount of polygons sometimes is just unusable.. ![[Pasted image 20260106145848.png|400]]
 5. Control only through prompt and images.
 6. No separate eye mesh, will need to create that by hand if we want eyes to be animated.
-7. 
+![[Pasted image 20260106152811.png|500]]![[Pasted image 20260106153108.png|500]]
+
 
 ---
 
