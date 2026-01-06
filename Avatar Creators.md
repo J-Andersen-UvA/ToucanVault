@@ -30,6 +30,14 @@ Export methods explored:
 3. Working blendshapes on all relevant meshes, and even the names are intact
 ```
 
+```
+1. unreal engine 5 template export from reallusion
+	a. Don't embed textures
+	b. Delete hidden faces
+	c. Bake diffuse and specular for hair
+2. Using the Reallusion Unreal Engine Auto setup plugin import FBX into Unreal
+
+```
 It takes some getting used to the Character Creator 5, but its basically a big asset store. Makes me think of the Sims. Head hair and facial hair looks good in BabylonJS.
 
 The blendshapes are very detailed on the realistic avatars. Especially the CC5 blendshapes. But they don't have the exact names from the ARKit, but the ARKit blendshapes are all present, so we could remap. The CC4 Extended blendshapes are more similar to the ARKit blendshapes, naming wise and visually.
