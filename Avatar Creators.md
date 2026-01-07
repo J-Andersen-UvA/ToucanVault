@@ -68,3 +68,5 @@ Issues I have with AI avatars:
 **hunyuan3d**
 
 ---
+
+**VRoid**
