@@ -17,8 +17,8 @@ Video tutorial (5.7):
 	c. Bake diffuse and specular for hair
 2. Using the Reallusion Unreal Engine Auto setup plugin import FBX into Unreal
 ```
-I had an issue with with some avatars not importing into unreal (crashing it). It was fixed by giving the avatar a beard, i will dive deaper into the issue.
-Trying the following without a beard:
-![[Pasted image 20260108153054.png]]
-*Note that i have dissabeld the bake and diffuse setting*
-^it did not work
+I had an issue with with some avatars not importing into unreal (crashing it). It was fixed by giving the avatar a beard, i will dive deaper into the issue:
+![[Pasted image 20260108170654.png]]
+Workaround:
+Import with a beard, give the beard a transparent material.
+
