@@ -44,6 +44,8 @@ The blendshapes are very detailed on the realistic avatars. Especially the CC5 b
 
 There is a learning curve to using Character Creator.
 
+Could not get all mustache movements working with the blendshapes in unreal. It works in CC, but not in UE?
+
 ---
 
 **fortnite character**
