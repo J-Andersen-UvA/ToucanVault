@@ -18,3 +18,7 @@ Video tutorial (5.7):
 2. Using the Reallusion Unreal Engine Auto setup plugin import FBX into Unreal
 ```
 I had an issue with with some avatars not importing into unreal (crashing it). It was fixed by giving the avatar a beard, i will dive deaper into the issue.
+Trying the following without a beard:
+![[Pasted image 20260108153054.png]]
+*Note that i have dissabeld the bake and diffuse setting*
+^it did not work
