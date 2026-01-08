@@ -40,7 +40,7 @@ Export methods explored:
 ```
 It takes some getting used to the Character Creator 5, but its basically a big asset store. Makes me think of the Sims. Head hair and facial hair looks good in BabylonJS.
 
-The blendshapes are very detailed on the realistic avatars. Especially the CC5 blendshapes. But they don't have the exact names from the ARKit, but the ARKit blendshapes are all present, so we could remap. The CC4 Extended blendshapes are more similar to the ARKit blendshapes, naming wise and visually.
+The blendshapes are very detailed on the realistic avatars. Especially the CC5 blendshapes. But they don't have the exact names from the ARKit, but the ARKit blendshapes are all present, so we can remap. An added benefit of the extra blendshapes is that it enables us to post process the face animations much more. We should be able to get more realistic facial expression for the post processing animation, although i suspect that without a good custom rig it will take a lot of time.
 
 There is a learning curve to using Character Creator.
 
