@@ -27,9 +27,5 @@ Import with a beard, give the beard a transparent material.
 - Could it be that I first import an avatar with a beard, then i try another one without, then it cleans the dictionary of its values but not its keys, so therefore its missing a value for the beard key and then it points to null and therefore gets a mem error?
 
 
-
-
-1. try fresh project with failing avatar, does it import?
-2. try jolene project but add beard to jolene
-3. Make video for the thread
-4. Do not search matching materials? Other material settings
+1. try fresh project with failing avatar, does it import? (it does not)
+2. try jolene project but add beard to jolene (crash)
