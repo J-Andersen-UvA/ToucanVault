@@ -1,0 +1,5 @@
+- [ ] How well does it work in the vicon pipeline
+- [ ] How well does it work in babylonjs
+- [ ] How do the cartoon characters look
+- [ ] How clean of a retarget can we make between RPM and CC
+- [ ] How much is the total cost?
