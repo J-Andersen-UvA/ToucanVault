@@ -26,4 +26,8 @@ Import with a beard, give the beard a transparent material.
 - More RAM? (thats what support told me)
 - Could it be that I first import an avatar with a beard, then i try another one without, then it cleans the dictionary of its values but not its keys, so therefore its missing a value for the beard key and then it points to null and therefore gets a mem error?
 
-New avatar with all stuff renamed (clothing and name in the CC scene)
+
+
+
+1. try fresh project with failing avatar, does it import?
+2. try jolene project but add beard to jolene
