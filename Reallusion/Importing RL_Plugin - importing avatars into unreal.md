@@ -32,3 +32,5 @@ Import with a beard, give the beard a transparent material.
 3. use livelink?
 4. try older version?
 
+What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online Manual - Digital Human Setups](https://manual.reallusion.com/CC_and_IC_Auto_Setup_Plugin/ENU/CC_and_iC_Auto_Setup/1.2/02_for_Unreal/Digital-Human-Setups.htm)
+
