@@ -29,8 +29,12 @@ Import with a beard, give the beard a transparent material.
 
 1. try fresh project with failing avatar, does it import? (it does not)
 2. try jolene project but add beard to jolene (crash)
-3. use livelink?
+3. use livelink? (yesss)
 4. try older version?
 
 What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online Manual - Digital Human Setups](https://manual.reallusion.com/CC_and_IC_Auto_Setup_Plugin/ENU/CC_and_iC_Auto_Setup/1.2/02_for_Unreal/Digital-Human-Setups.htm)
 
+### Using iClone LiveLink
+1. In CC export to iClone (whilst iClone is open)
+2. In iClone transfer file when the avatar is loaded and UE is open
+3. It should now import into UE
