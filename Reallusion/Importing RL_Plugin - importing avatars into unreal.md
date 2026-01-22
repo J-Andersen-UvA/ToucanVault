@@ -30,3 +30,5 @@ Import with a beard, give the beard a transparent material.
 1. try fresh project with failing avatar, does it import? (it does not)
 2. try jolene project but add beard to jolene (crash)
 3. use livelink?
+4. try older version?
+
