@@ -39,3 +39,8 @@ What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online 
 1. In CC export to iClone (whilst iClone is open)
 2. In iClone transfer file when the avatar is loaded and UE is open
 3. It should now import into UE
+
+
+### Materials by hand
+[Character Creator 3 Tutorial - Importing CC3 Characters to Unreal](https://www.youtube.com/watch?v=ZSBrR8L2lsA)
+
