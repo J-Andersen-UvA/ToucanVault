@@ -5,4 +5,6 @@ Make sure to export the avatar with a t-pose
 <span class="red">Why does the T-posed version have only 3 spine bones and the a-posed has 5.</span>
 
 I think its time to move the retargeting to unreal instead of shogun post.
-- [ ] [Custom Vicon Actor for Unreal Engine Retargeting](https://www.youtube.com/watch?v=Vw_Zm0r319g)
+- [x] [Custom Vicon Actor for Unreal Engine Retargeting](https://www.youtube.com/watch?v=Vw_Zm0r319g)
+- [x] [Vicon to Unreal 5.6 LiveLink... New, Easy and Instant!](https://www.youtube.com/watch?v=MorFv6_jN1Y)
+- [ ] Retarget UEVicon -> Reallusion or whatever using the IK retargeter of UE
