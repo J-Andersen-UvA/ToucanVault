@@ -47,6 +47,8 @@ There is a learning curve to using Character Creator.
 
 Could not get all mustache movements working with the blendshapes in unreal. It works in CC, but not in UE?
 
+More information about importing: [[Importing RL_Plugin - importing avatars into unreal]]
+
 ---
 
 **fortnite character**
@@ -69,7 +71,13 @@ Issues I have with AI avatars:
 ---
 
 **hunyuan3d**
+I'm not going to bother with another AI based avatar creator.
 
 ---
 
 **VRoid**
+It's kind of a marketplace for people to share their avatars. They aren't very complicated, and some lack blendshapes.
+
+---
+
+**Daz3d**

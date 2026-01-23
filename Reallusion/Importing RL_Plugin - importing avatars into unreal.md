@@ -22,15 +22,16 @@ I had an issue with with some avatars not importing into unreal (crashing it). I
 Workaround:
 Import with a beard, give the beard a transparent material.
 
+*It doesn't seem that consistent as I thought at first, sometimes its the beard sometimes its something else...*
+
 ## Potential explanations on why its failing?
 - More RAM? (thats what support told me)
 - Could it be that I first import an avatar with a beard, then i try another one without, then it cleans the dictionary of its values but not its keys, so therefore its missing a value for the beard key and then it points to null and therefore gets a mem error?
 
 
 1. try fresh project with failing avatar, does it import? (it does not)
-2. try jolene project but add beard to jolene (crash)
-3. use livelink? (yesss)
-4. try older version?
+2. use livelink transfer through iClone? (seems to work, even with failing avatars)
+3. try older version? (they said that it failed since 5.6, so it will be worth trying this pipeline through 5.5 (and then moving the avatar to 5.7 -.-))
 
 What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online Manual - Digital Human Setups](https://manual.reallusion.com/CC_and_IC_Auto_Setup_Plugin/ENU/CC_and_iC_Auto_Setup/1.2/02_for_Unreal/Digital-Human-Setups.htm)
 
@@ -38,6 +39,3 @@ What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online 
 1. In CC export to iClone (whilst iClone is open)
 2. In iClone transfer file when the avatar is loaded and UE is open
 3. It should now import into UE
-![[Pasted image 20260122163526.png]]![[Pasted image 20260122163639.png]]
-![[Pasted image 20260122163648.png]]
-![[Pasted image 20260122163725.png]]

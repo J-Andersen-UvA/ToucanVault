@@ -1,3 +1,6 @@
+- [ ] What does the import-export pipeline look like [[Importing RL_Plugin - importing avatars into unreal]]
+	- [x] CC -> iClone -> UE
+	- [ ] CC -> UE5.5
 - [ ] How well does it work in the vicon pipeline
 - [ ] How well does it work in babylonjs
 - [ ] How do the cartoon characters look
