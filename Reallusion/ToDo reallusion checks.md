@@ -12,3 +12,5 @@
 - [ ] How do the cartoon characters look
 - [ ] How clean of a retarget can we make between RPM and CC
 - [ ] How much is the total cost?
+- [ ] Cartoony avatar?
+
