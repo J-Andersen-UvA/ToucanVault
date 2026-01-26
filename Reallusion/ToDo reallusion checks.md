@@ -9,8 +9,10 @@
 	Because we save the original csv of the iPhone, we can use the map created with the ARKitCurveMapper. If we want to retarget directly from RPM glassesGuy blendshape names, we can make a new map with the curvemapper and use the animation blueprint to read out the original values from the animation.
 	- [x] Recording motions through pypipeline
 	It works just fine as soon as we change all the values to the new avatar. Only the <span class="blue">forward</span> has changed, so we might need to add that to the export settings so we don't accidentally export into the wrong direction.
-	- [ ] 
+	- How well it works with the export is explained in the babylonjs part
 - [ ] How well does it work in babylonjs
+	Blendshapes work as long as you get the fbx and then take it through the <span class="blue">npm</span> converter.
+	Getting hair working is a lot harder.
 - [ ] How do the cartoon characters look
 - [ ] How clean of a retarget can we make between RPM and CC
 - [ ] How much is the total cost?
