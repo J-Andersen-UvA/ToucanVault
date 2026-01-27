@@ -45,3 +45,8 @@ use `|` and then the size
 ```
 ![[imagelocation|400]]
 ```
+
+Node package executor serve folder:
+```
+ npx http-server
+```
