@@ -46,3 +46,11 @@ What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online 
 
 ## New Plugin
 It seems the JSON is broken on the broken characters. The old plugin still imported the characters, and then crashed UE. The new one doesn't even recognize the fbx we are trying to import as a Reallusion character.
+
+
+**Cannot move skeleton**
+Failed attempts to fix:
+- export embeded texture and not embeded, fixed the not embeded with the embeded json
+- removed: "Constraint": {}, from json
+Successful attempt:
+- There was a Post processing animation blueprint by CC.
