@@ -44,3 +44,5 @@ What do the shaders do: [Character Creator and iClone Auto Setup Plug-in Online 
 ### Materials by hand
 [Character Creator 3 Tutorial - Importing CC3 Characters to Unreal](https://www.youtube.com/watch?v=ZSBrR8L2lsA)
 
+## New Plugin
+It seems the JSON is broken on the broken characters. The old plugin still imported the characters, and then crashed UE. The new one doesn't even recognize the fbx we are trying to import as a Reallusion character.
