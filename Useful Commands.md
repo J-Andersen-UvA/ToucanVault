@@ -50,3 +50,9 @@ Node package executor serve folder:
 ```
  npx http-server
 ```
+
+npm
+```
+cd C:\Users\VICON\Downloads\ChrissBlender\CCBabylon          
+npm run dev
+```
