@@ -53,6 +53,5 @@ Node package executor serve folder:
 
 npm
 ```
-cd C:\Users\VICON\Downloads\ChrissBlender\CCBabylon          
 npm run dev
 ```
