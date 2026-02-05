@@ -25,4 +25,4 @@ Step 2. Processing input
 Step 3. Processing output
 - [ ] Export tool out of unreal or by hand?
 	- [ ] Update overview
-- [ ] Exported fbx anims to signCollect
+	- [ ] Export into ue folder with extra attached name or extra folder (CC)? Discuss with gomer what he wants for rclone
