@@ -5,8 +5,8 @@ Step 1. Gathering the input
 	- [x] Create hardlinks of the mcps in a single folder, for use in shogun post
 - [ ] Use automatic mcp -> fbx script (refresh how it worked)
 	- [x] Use X2D to resolve dropped frames? <span class="red">Nah, just fill with interpolation</span>
-	- [ ] Autoskeleton for fingers?
-	- [x] Use auto fill gaps
+	- [x] Autoskeleton for fingers? <span class="blue">Yes with SetMainFingerConstraints.hsl</span>
+	- [x] Use auto fill gaps? <span class="blue">Yes, with AutoFillThenSolve.hsl</span>
 	- [x] Solve
 	- [x] Run conversion to fbx
 	- [x] Update overview along the way? <span class="red">No, we will do it afterwards</span>
