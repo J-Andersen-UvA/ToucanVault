@@ -3,7 +3,7 @@ Step 1. Gathering the input
 	- [x] Do we want to do the following in a script, or are we going to do single folder with symlinks. <span class="blue">In a script resulting in a csv we can reference</span>
 	- [x] Compile all vicon mcp files that dont have an fbx file yet.\
 	- [x] Create hardlinks of the mcps in a single folder, for use in shogun post
-- [ ] Use automatic mcp -> fbx script (refresh how it worked)
+- [x] Use automatic mcp -> fbx script (refresh how it worked)
 	- [x] Use X2D to resolve dropped frames? <span class="red">Nah, just fill with interpolation</span>
 	- [x] Autoskeleton for fingers? <span class="blue">Yes with SetMainFingerConstraints.hsl</span>
 	- [x] Use auto fill gaps? <span class="blue">Yes, with AutoFillThenSolve.hsl</span>
