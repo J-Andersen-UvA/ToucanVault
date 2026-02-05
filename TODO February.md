@@ -1,7 +1,8 @@
 Step 1. Gathering the input
 - [ ] Compile overview
 	- [x] Do we want to do the following in a script, or are we going to do single folder with symlinks. <span class="blue">In a script resulting in a csv we can reference</span>
-	- [x] Compile all vicon mcp files that dont have an fbx file yet.
+	- [x] Compile all vicon mcp files that dont have an fbx file yet.\
+- [ ] Create hardlinks of the mcps in a single folder, for use in shogun post
 - [ ] Use automatic mcp -> fbx script (refresh how it worked)
 	- [ ] Update overview along the way
 - [ ] New project 5.7 (reallusion project kan ook)
