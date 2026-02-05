@@ -25,4 +25,5 @@ Step 2. Processing input
 Step 3. Processing output
 - [ ] Export tool out of unreal or by hand?
 	- [ ] Update overview
+		- [ ] Do we need to rename the retargeted_animation_fbx field, or add a key to that field "avatar:"
 	- [ ] Export into ue folder with extra attached name or extra folder (CC)? Discuss with gomer what he wants for rclone
