@@ -4,6 +4,11 @@ Step 1. Gathering the input
 	- [x] Compile all vicon mcp files that dont have an fbx file yet.\
 	- [x] Create hardlinks of the mcps in a single folder, for use in shogun post
 - [ ] Use automatic mcp -> fbx script (refresh how it worked)
+	- [ ] Use X2D to resolve dropped frames
+	- [ ] Autoskeleton for fingers?
+	- [ ] Use auto fill gaps
+	- [ ] Solve
+	- [ ] Run conversion
 	- [ ] Update overview along the way
 - [ ] New project 5.7 (reallusion project kan ook)
 - [ ] Basic fbx loader script maken die Vicon skeleton gebruikt
