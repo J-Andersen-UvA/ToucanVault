@@ -4,12 +4,15 @@ Step 1. Gathering the input
 	- [x] Compile all vicon mcp files that dont have an fbx file yet.\
 	- [x] Create hardlinks of the mcps in a single folder, for use in shogun post
 - [ ] Use automatic mcp -> fbx script (refresh how it worked)
-	- [ ] Use X2D to resolve dropped frames
+	- [x] Use X2D to resolve dropped frames? <span class="red">Nah, just fill with interpolation</span>
 	- [ ] Autoskeleton for fingers?
-	- [ ] Use auto fill gaps
-	- [ ] Solve
-	- [ ] Run conversion
-	- [ ] Update overview along the way
+	- [x] Use auto fill gaps
+	- [x] Solve
+	- [x] Run conversion to fbx
+	- [x] Update overview along the way? <span class="red">No, we will do it afterwards</span>
+- [ ] Move Fbx to shogun_post folders
+	- [ ] Move
+	- [ ] Update metadata
 - [ ] New project 5.7 (reallusion project kan ook)
 - [ ] Basic fbx loader script maken die Vicon skeleton gebruikt
 	- [ ] Hou ook in UE bij in een file waar we zijn met retargeting etc (status)
