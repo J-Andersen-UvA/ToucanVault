@@ -13,7 +13,7 @@ Step 1. Gathering the input
 - [ ] Move Fbx to shogun_post folders
 	- [ ] Move
 	- [ ] Update metadata
-- [ ] New project 5.7 (reallusion project kan ook)
+- [x] New project 5.7 (reallusion project kan ook)
 - [ ] Basic fbx loader script maken die Vicon skeleton gebruikt
 	- [ ] Hou ook in UE bij in een file waar we zijn met retargeting etc (status)
 - [ ] Basic CSV loader script?
