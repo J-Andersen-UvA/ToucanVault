@@ -1,3 +1,16 @@
+
+### Implement new pipeline for recording
+- [ ] Recording project to 5.7
+- [ ] Shogun Live -> UE Vicon avatar
+- [ ] Retargets UE Vicon
+	- [ ] RPM
+	- [ ] CC
+- [ ] Implement in UEpython script
+	- [ ] New branch?
+	- [ ] Add RPM + CC to takerecorder
+	- [ ] Export stuff for CC to new folder
+
+### Old anims to new avatar:
 Step 1. Gathering the input
 - [x] Compile overview
 	- [x] Do we want to do the following in a script, or are we going to do single folder with symlinks. <span class="blue">In a script resulting in a csv we can reference</span>
