@@ -1,12 +1,12 @@
 
 ### Implement new pipeline for recording
 - [ ] Recording project to 5.7
-- [ ] Shogun Live -> UE Vicon avatar
+- [x] Shogun Live -> UE Vicon avatar
 - [ ] Retargets UE Vicon
-	- [ ] RPM
+	- [x] RPM
 	- [ ] CC
 - [ ] Implement in UEpython script
-	- [ ] New branch?
+	- [x] New branch?
 	- [ ] Add RPM + CC to takerecorder
 	- [ ] Export stuff for CC to new folder
 
