@@ -4,7 +4,7 @@
 - [x] Shogun Live -> UE Vicon avatar
 - [ ] Retargets UE Vicon
 	- [x] RPM
-	- [ ] CC
+	- [ ] CC   (<span class="red">Pretty hard, take time to do this</span>)
 - [ ] Implement in UEpython script
 	- [x] New branch?
 	- [ ] Add RPM + CC to takerecorder
