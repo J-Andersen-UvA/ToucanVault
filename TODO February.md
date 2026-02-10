@@ -5,6 +5,8 @@
 - [ ] Retargets UE Vicon
 	- [x] RPM
 	- [ ] CC   (<span class="red">Pretty hard, take time to do this</span>)
+		- [Vicon MOCAP to MetaHuman | Shogun Solve and Retarget Guide](https://www.youtube.com/watch?v=KnRPx-b5Rx8)
+			Speaks about, Vicon -> mannequin through shogun post, and the ik retargeter in unreal. Maybe thats a good route?
 - [ ] Implement in UEpython script
 	- [x] New branch?
 	- [ ] Add RPM + CC to takerecorder
