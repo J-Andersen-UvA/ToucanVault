@@ -1,6 +1,6 @@
 
 ### Implement new pipeline for recording
-- [ ] Recording project to 5.7
+- [x] Recording project to 5.7
 - [x] Shogun Live -> UE Vicon avatar
 - [ ] Retargets UE Vicon
 	- [x] RPM
@@ -11,8 +11,10 @@
 			You would get a twisted balloon for RPM if we used the solve for the CC.
 - [ ] Implement in UEpython script
 	- [x] New branch?
-	- [ ] Add RPM + CC to takerecorder
-	- [ ] Export stuff for CC to new folder
+	- [x] Add RPM + CC to takerecorder
+	- [x] Export stuff for CC to new folder
+	- [ ] Vicon Recording in UE
+	- [ ] Anim export direction?
 
 ### Old anims to new avatar:
 Step 1. Gathering the input
