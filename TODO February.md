@@ -6,7 +6,7 @@
 	- [x] RPM
 	- [ ] CC   (<span class="red">Pretty hard, take time to do this</span>)
 		- [Vicon MOCAP to MetaHuman | Shogun Solve and Retarget Guide](https://www.youtube.com/watch?v=KnRPx-b5Rx8)
-			Speaks about, Vicon -> mannequin through shogun post, and the ik retargeter in unreal. Maybe thats a good route?
+			Speaks about, Vicon -> mannequin through shogun post, and then ik retargeter in unreal. Maybe thats a good route?
 		- Maybe we cant retarget to RPM and CC at the same time. This is due to the solve of Vicon, the CC avatar wants the wrists to be rotated, but the RPM wants the elbow to be rotated. [[CC Avatars#^7e9cc1]] 
 			You would get a twisted balloon for RPM if we used the solve for the CC.
 - [ ] Implement in UEpython script
