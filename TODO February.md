@@ -9,6 +9,10 @@
 			Speaks about, Vicon -> mannequin through shogun post, and then ik retargeter in unreal. Maybe thats a good route?
 		- Maybe we cant retarget to RPM and CC at the same time. This is due to the solve of Vicon, the CC avatar wants the wrists to be rotated, but the RPM wants the elbow to be rotated. [[CC Avatars#^7e9cc1]] 
 			You would get a twisted balloon for RPM if we used the solve for the CC.
+	- [ ] Watch UE IK retargeter and Vicon retargeter videos, gather info:
+		- Schouders te hoog van CC, doe schouders omhoog van Vicon in IKretargeter.
+		- There are bone settings in the IK_rig
+		- If you begin from t-pose in animations, you can use that pose as a source to do the retarget from, making the final retarget more closely mimick what was intended.
 - [ ] Implement in UEpython script
 	- [x] New branch?
 	- [x] Add RPM + CC to takerecorder
