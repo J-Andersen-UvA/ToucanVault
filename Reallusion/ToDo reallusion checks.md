@@ -11,7 +11,7 @@
 	It works just fine as soon as we change all the values to the new avatar. Only the <span class="blue">forward</span> has changed, so we might need to add that to the export settings so we don't accidentally export into the wrong direction.
 	- How well it works with the export is explained in the babylonjs part
 - [x] How well does it work in babylonjs
-	Blendshapes work as long as you get the fbx and then take it through the <span class="blue">npm</span> converter (<span class="red">Wasnt there another path I tried that worked better?</span>).
+	Blendshapes work as long as you get the fbx and then take it through the <span class="blue">npm</span> converter (<span class="red">Wasnt there another path I tried through blender that worked better?</span>).
 	Getting hair working is a lot harder ([[Hair in BabylonJS]]).
 - [x] How clean of a retarget can we make between RPM and CC
 	- We want to do Vicon -> CC, and ARKit -> CC. AND merge them somehow.
