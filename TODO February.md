@@ -4,11 +4,12 @@
 - [x] Shogun Live -> UE Vicon avatar
 - [ ] Retargets UE Vicon
 	- [x] RPM
-	- [ ] CC   (<span class="red">Pretty hard, take time to do this</span>)
+	- [x] CC   (<span class="red">Pretty hard, take time to do this</span>)
 		- [Vicon MOCAP to MetaHuman | Shogun Solve and Retarget Guide](https://www.youtube.com/watch?v=KnRPx-b5Rx8)
 			Speaks about, Vicon -> mannequin through shogun post, and then ik retargeter in unreal. Maybe thats a good route?
 		- Maybe we cant retarget to RPM and CC at the same time. This is due to the solve of Vicon, the CC avatar wants the wrists to be rotated, but the RPM wants the elbow to be rotated. [[CC Avatars#^7e9cc1]] 
 			You would get a twisted balloon for RPM if we used the solve for the CC.
+			Apparently, the twistbones are to mimic what MH is doing. I cannot find the twistbones in the CC blueprints.
 	- [ ] Watch UE IK retargeter and Vicon retargeter videos, gather info:
 		- Schouders te hoog van CC, doe schouders omhoog van Vicon in IKretargeter.
 		- There are bone settings in the IK_rig
