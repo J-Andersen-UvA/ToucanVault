@@ -9,4 +9,5 @@ Using an arduino, we output a square wave (60hz). Connecting the pins to a vesa 
 ## Tentacles
 
 ## Shogun Post setting
+Turn on the following:
 ![[shogunpostTimecodes.png]]
