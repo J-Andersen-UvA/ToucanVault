@@ -4,3 +4,10 @@
 ^7e9cc1
 The twistbone is triggered through the post process blueprint, it reacts to the handbone rotating.
 After further research, the twistbone isnt used anywhere. BUT, its most likely there because the post process blueprint is using copy from source mesh. So its likely that it expects copy from MH, which means it MH will drive the twistbones, meaning that if we want Vicon -> CC with twistbones that we will need to look into MH twistbone blueprint and copy paste that over.
+
+## Rig
+Reallusion has made a complex rig for the Character Creator avatars to be used in <span class="blue">Unreal Engine</span>. The rig has the standard controls as we know, an ability to switch between FK and IK for the hands and feet, a face rig, and a rig picker ui tool.
+
+**Picker**
+The picker gives us the ability to quickly select controls.
+![[Pasted image 20260219130536.png|400]]

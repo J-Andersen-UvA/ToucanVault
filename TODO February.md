@@ -1,7 +1,7 @@
 
 ### Implement CC into post processing pipeline
 - [ ] How does the CC rig work with new skeletal meshes
-	- [ ] Why is the face separated from the rest for the body rig
+	- [x] Why is the face separated from the rest for the body rig
 	- [ ] Should I add the face rig immediately to the pipeline?
 	- [ ] Why face rig not here
 - [ ] Test with current pipeline, is it modular enough to support the rig
