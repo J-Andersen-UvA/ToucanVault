@@ -8,6 +8,10 @@ After further research, the twistbone isnt used anywhere. BUT, its most likely t
 ## Rig
 Reallusion has made a complex rig for the Character Creator avatars to be used in <span class="blue">Unreal Engine</span>. The rig has the standard controls as we know, an ability to switch between FK and IK for the hands and feet, a face rig, and a rig picker ui tool.
 
+**Sequencer**
+Getting the rig working layered in the sequencer requires that you turn off the post processing blueprint on the skeletalmesh.
+![[Pasted image 20260219133729.png|500]]
+
 **Picker**
 The picker gives us the ability to quickly select controls.
 ![[Pasted image 20260219130536.png|400]]
