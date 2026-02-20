@@ -1,3 +1,4 @@
+#Reallusion
 ReadyPlayerMe has been bought by Netflix and is closing its services from 2026. We are going to need to find a new Avatar Creator.
 Previous requirements were:
 - Expressive characters in the <span class="blue">body AND face</span>
@@ -40,9 +41,13 @@ Export methods explored:
 ```
 It takes some getting used to the Character Creator 5, but its basically a big asset store. Makes me think of the Sims. Head hair and facial hair looks good in BabylonJS.
 
-The blendshapes are very detailed on the realistic avatars. Especially the CC5 blendshapes. But they don't have the exact names from the ARKit, but the ARKit blendshapes are all present, so we could remap. The CC4 Extended blendshapes are more similar to the ARKit blendshapes, naming wise and visually.
+The blendshapes are very detailed on the realistic avatars. Especially the CC5 blendshapes. But they don't have the exact names from the ARKit, but the ARKit blendshapes are all present, so we can remap. An added benefit of the extra blendshapes is that it enables us to post process the face animations much more. We should be able to get more realistic facial expression for the post processing animation, although i suspect that without a good custom rig it will take a lot of time.
 
 There is a learning curve to using Character Creator.
+
+Could not get all mustache movements working with the blendshapes in unreal. It works in CC, but not in UE?
+
+More information about importing: [[Importing RL_Plugin - importing avatars into unreal]]
 
 ---
 
@@ -66,8 +71,16 @@ Issues I have with AI avatars:
 ---
 
 **hunyuan3d**
+I'm not going to bother with another AI based avatar creator.
 
 ---
 
 **VRoid**
 Its more of an asset store for avatars, highly dependent on whom made the avatar.
+It's kind of a marketplace for people to share their avatars. They aren't very complicated, and some lack blendshapes.
+
+---
+
+**Daz3d**
+older version of CC?
+

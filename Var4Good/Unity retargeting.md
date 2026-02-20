@@ -9,3 +9,6 @@ How does it work:
 	- abstract muscle values, a combination of DOF and range of motion. Enables us to limit or extend the retargeted motions of a character.
 3. IK correction
 	- Use IK for foot locking and hand goals to clean up the poses
+
+
+Animation weird rotation after or before retarget: [[Unity Animation issue hips]]
