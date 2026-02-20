@@ -70,3 +70,4 @@ Issues I have with AI avatars:
 ---
 
 **VRoid**
+Its more of an asset store for avatars, highly dependent on whom made the avatar.
