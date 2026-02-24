@@ -5,7 +5,7 @@
 Hair coming from CC/Unreal via fbx -> glb (npm converter) looked wrong, purple black. because the hair material didn’t survive conversion correctly (alpha/opacity + texture routing).
 
 **Fix**
-Exporting the avatar through **Blender to GLB** preserved the correct hair-card material.
+Using original FBX from CC and importing to Blender, then **Blender to GLB** preserved the correct hair-card material.
 The hair textures rely on **baseColor alpha** (opacity in the albedo’s alpha channel). Once Blender exported the GLB, Babylon could use that correctly.
 
 **Issue**
