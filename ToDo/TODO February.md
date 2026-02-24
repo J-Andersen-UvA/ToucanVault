@@ -1,12 +1,12 @@
 
 ### Implement CC into post processing pipeline
-- [ ] How does the CC rig work with new skeletal meshes
-	- [x] Why is the face separated from the rest for the body rig
-	- [ ] Should I add the face rig immediately to the pipeline?
-	- [ ] Why face rig not here
+- [x] How does the CC rig work with new skeletal meshes
+	- [x] Why is the face separated from the rest for the body rig <span class="blue">Its not, just disable the post processing blueprint in the scene details tab of the skelmesh.</span>
+	- [x] Should I add the face rig immediately to the pipeline? <span class="blue">Lets not, its heavy.</span>
+	- [x] Why face rig not here <span class="blue">It is there, it works also when layered. No clue yet on how to get it working with eye follow</span>
 - [ ] Test with current pipeline, is it modular enough to support the rig
-	- [ ] Do we need to automatically open the picker?
-	- [ ] Does it work with queue code
+	- [x] Do we need to automatically open the picker? <span class="blue">Don't feel like it, I will just teach the end users.</span>
+	- [x] Does it work with queue code <span class="blue">Yes</span>
 	- [ ] Does it work with midi code
 
 ### Implement new pipeline for recording
@@ -54,14 +54,17 @@ Step 1. Gathering the input
 
 Step 2. Processing input
 - [x] Vicon -> CC retarget maken met voorbeeld animaties
-- [ ] Basic sequencer control tool maken, been a long time coming anyways
+- [ ] Basic sequencer control tool, been a long time coming anyways
 	- [ ] Create sequence
 	- [ ] Save sequence
 	- [ ] Get current open sequence
 	- [ ] Load into sequence?
-- [ ] Batch retargeting script of met present tools in UE?
+- [ ] Batch retargeting script or with present tools in UE?
 - [ ] What needs to be done to bake csv blendshapes onto avatar?
-	- [ ] Do we need a separate bake or can we use livelink during a bake (doubt)
+	- [x] Do we need a separate bake or can we use livelink during a bake (doubt)
+		<span class="blue">At the least the face blendshapes can be synced like so:</span>
+		![[Pasted image 20260224162152.png|400]]
+<span class="red">We need a separate bake, because we need the post process blueprint to hit the jaw bone, and the wrinkle blendshapes</span>
 - [ ] Make a foot move detection script (end of anim detection)
 - [ ] Bake anim and blendshapes for every animation together
 
