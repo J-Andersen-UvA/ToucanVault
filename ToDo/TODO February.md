@@ -55,10 +55,18 @@ Step 1. Gathering the input
 Step 2. Processing input
 - [x] Vicon -> CC retarget maken met voorbeeld animaties
 - [ ] Basic sequencer control tool, been a long time coming anyways
-	- [ ] Create sequence
-	- [ ] Save sequence
-	- [ ] Get current open sequence
-	- [ ] Load into sequence?
+	- [x] Create sequence
+	- [x] Save sequence
+	- [x] Get current open sequence
+	- [x] Load into sequence?
+	- [ ] Test:
+		- [ ] SetSequenceFrameRateFromAnimation
+		- [ ] SetSequencePlaybackRange
+		- [ ] GetSequencePlaybackRange
+		- [ ] MoveAnimationSectionStartTo
+		- [ ] MoveAnimationSectionEndTo
+		- [ ] AddRigToBinding
+		- [ ] BakeBindingToAnimSequence
 - [ ] Batch retargeting script or with present tools in UE?
 - [ ] What needs to be done to bake csv blendshapes onto avatar?
 	- [x] Do we need a separate bake or can we use livelink during a bake (doubt)
