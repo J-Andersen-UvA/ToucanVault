@@ -60,13 +60,14 @@ Step 2. Processing input
 	- [x] Get current open sequence
 	- [x] Load into sequence?
 	- [ ] Test:
-		- [ ] SetSequenceFrameRateFromAnimation
-		- [ ] SetSequencePlaybackRange
+		- [x] SetSequenceFrameRateFromAnimation
+		- [x] SetSequencePlaybackRange
 		- [ ] GetSequencePlaybackRange
 		- [ ] MoveAnimationSectionStartTo
 		- [ ] MoveAnimationSectionEndTo
 		- [ ] AddRigToBinding
 		- [ ] BakeBindingToAnimSequence
+		- [ ] Access separate animation sections in a track?
 - [ ] Batch retargeting script or with present tools in UE?
 - [ ] What needs to be done to bake csv blendshapes onto avatar?
 	- [x] Do we need a separate bake or can we use livelink during a bake (doubt)
