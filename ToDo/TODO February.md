@@ -62,9 +62,9 @@ Step 2. Processing input
 	- [ ] Test:
 		- [x] SetSequenceFrameRateFromAnimation
 		- [x] SetSequencePlaybackRange
-		- [ ] GetSequencePlaybackRange
-		- [ ] MoveAnimationSectionStartTo
-		- [ ] MoveAnimationSectionEndTo
+		- [x] GetSequencePlaybackRange
+		- [x] MoveAnimationSectionStartTo
+		- [x] MoveAnimationSectionEndTo
 		- [ ] AddRigToBinding
 		- [ ] BakeBindingToAnimSequence
 		- [ ] Access separate animation sections in a track?
