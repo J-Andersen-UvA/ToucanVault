@@ -1,1 +1,0 @@
-Supervisory, education support, research contributions, and higher technical autonomy.
