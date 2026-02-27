@@ -54,12 +54,12 @@ Step 1. Gathering the input
 
 Step 2. Processing input
 - [x] Vicon -> CC retarget maken met voorbeeld animaties
-- [ ] Basic sequencer control tool, been a long time coming anyways
+- [x] Basic sequencer control tool, been a long time coming anyways [J-Andersen-UvA/sequencerAbstraction](https://github.com/J-Andersen-UvA/sequencerAbstraction)
 	- [x] Create sequence
 	- [x] Save sequence
 	- [x] Get current open sequence
 	- [x] Load into sequence?
-	- [ ] Test:
+	- [x] Test:
 		- [x] SetSequenceFrameRateFromAnimation
 		- [x] SetSequencePlaybackRange
 		- [x] GetSequencePlaybackRange
