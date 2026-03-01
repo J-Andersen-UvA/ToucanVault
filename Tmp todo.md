@@ -2,7 +2,7 @@
 Laptop stuff
 - [x] Setup SSH
 - [x] Setup Docker
-- [ ] Dockerized openclaw
+- [x] Dockerized openclaw
 
 Openclaw stuff
 - [ ] Share a folder with copyparty
