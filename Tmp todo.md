@@ -1,7 +1,7 @@
 
 Laptop stuff
-- [ ] Setup SSH
-- [ ] Setup Docker
+- [x] Setup SSH
+- [x] Setup Docker
 - [ ] Dockerized openclaw
 
 Openclaw stuff
