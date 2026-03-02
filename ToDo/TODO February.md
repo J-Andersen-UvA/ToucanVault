@@ -69,6 +69,9 @@ Step 2. Processing input
 		- [x] BakeBindingToAnimSequence
 		- [x] Access separate animation sections in a track?
 - [ ] Batch retargeting script or with present tools in UE?
+	- We don't need the root edit, we can use my newly created one. For ViconFingers.
+	- [x] Make retarget
+	- [ ] 
 - [ ] What needs to be done to bake csv blendshapes onto avatar?
 	- [x] Do we need a separate bake or can we use livelink during a bake (doubt)
 		<span class="blue">At the least the face blendshapes can be synced like so:</span>
