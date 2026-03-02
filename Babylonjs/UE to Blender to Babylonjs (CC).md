@@ -1,3 +1,4 @@
+#UnrealEngine #Babylonjs #Blender
 Make sure going into blender, that we do not touch too many settings. Wrong orientations in bones are not an issue there as long as we are being consistent for the animations and the mesh.
 
 For the import into Blender, we should use the original Fbx coming from CC.
