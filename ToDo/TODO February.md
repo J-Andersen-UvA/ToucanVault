@@ -71,13 +71,13 @@ Step 2. Processing input
 - [ ] Batch retargeting script or with present tools in UE?
 	- We don't need the root edit, we can use my newly created one. For ViconFingers.
 	- [x] Make retarget
-	- [ ] 
+	- [ ] Make batch retargeting script
 - [ ] What needs to be done to bake csv blendshapes onto avatar?
 	- [x] Do we need a separate bake or can we use livelink during a bake (doubt)
 		<span class="blue">At the least the face blendshapes can be synced like so:</span>
 		![[Pasted image 20260224162152.png|400]]
 <span class="red">We need a separate bake, because we need the post process blueprint to hit the jaw bone, and the wrinkle blendshapes</span>
-- [ ] Make a foot move detection script (end of anim detection)
+- [x] Make a foot move detection script (end of anim detection)
 - [ ] Bake anim and blendshapes for every animation together
 
 Step 3. Processing output
