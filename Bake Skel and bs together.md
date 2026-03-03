@@ -16,7 +16,12 @@
 	- [ ] open prepped sequencer
 	- [ ] add csv to sequencer
 	- [ ] add retargeted animation to sequencer
-	- [ ] 
+
+- [ ] Set csv name on palmer actor
+### timingAndRange
+- [ ] Apply animation range
+- [ ] shift the skeletal animation based on timing offset
+- [ ] Shift the csv take to end at the range end
 ### outputData
 - [ ] Make export script to get final animation out of unreal engine
 
@@ -44,15 +49,17 @@ flowchart TD
 	
 	    d1 --> d2["addAnimationToPalmerSkeletalMesh"]
 	    d1 --> d3["addCsvToSequence"]
-	
-	    d3 --> d4["setCsvNameOnOwningActorBp"]
 	end
+
+	d4["setCsvNameOnOwningActorBp"]
+	d3 --> d4
+	d4 --> d5
 
 	subgraph timingAndRange
 	    a3 --> d5["applyAnimationRange"]
-	    d4 --> d5
-	    a1 --> d7["shiftAnimationClip"]
-	    d5 --> d7
+	    a1 --> d7["shiftSkeletalAnimationClip"]
+	    d5 --> d6["shiftCSVTakeToEndRange"]
+	    d6 --> d7
 	end
 
     d7 --> e1["bakeSequence"]
