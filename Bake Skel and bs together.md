@@ -1,7 +1,7 @@
 ### inputData
 - [x] Make sure we have csv Blendshapes (<span class="blue">blendshapes</span>)
 - [x] Make sure we have the post animation (<span class="blue">skeletal</span>)
-- [ ] Get the difference and foot detected output to every folder (<span class="blue">timingOffset</span>)
+- [x] Get the difference and foot detected output to every folder (<span class="blue">timingOffset</span>)
 - [ ] Get the animation range for every rpm animation to every folder (<span class="blue">animRange</span>)
 
 ### Unreal prep
