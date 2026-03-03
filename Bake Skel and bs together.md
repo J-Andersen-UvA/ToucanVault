@@ -8,7 +8,7 @@
 - [ ] Import script
 	- [ ] Post animations into unreal engine
 	- [ ] CSV blendshapes into unreal engine 
-- [ ] Get retarget on Vicon pc from unreal pc
+- [ ] Get retarget on Vicon pc from unreal pc, by hand ofcourse
 - [ ] Retarget post animation onto palmer
 
 ### sequencerPrep
