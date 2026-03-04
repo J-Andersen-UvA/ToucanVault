@@ -7,7 +7,8 @@
 ### Unreal prep
 - [ ] Import script
 	- [x] Post animations into unreal engine
-	- [ ] CSV blendshapes into unreal engine (test if works with fix of name NumProperties To BlendshapeCount)
+	- [x] CSV blendshapes into unreal engine (test if works with fix of name NumProperties To BlendshapeCount)
+	- [ ] 
 - [ ] Get retarget on Vicon pc from unreal pc, by hand ofcourse
 - [ ] Retarget post animation onto palmer
 
