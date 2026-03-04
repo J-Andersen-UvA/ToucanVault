@@ -4,6 +4,12 @@
 - [x] Get the difference and foot detected output to every folder (<span class="blue">timingOffset</span>)
 - [x] Get the animation range for every rpm animation to every folder (<span class="blue">animRange</span>)
 
+### Job queue
+- [ ] EUW containing:
+	- [ ] Joblist
+		- [ ] joblist done
+		- [ ] joblist to do
+	- [ ] Process next 100: All plugins to execute the pipeline
 ### Unreal prep
 - [x] Import script
 	- [x] Post animations into unreal engine
@@ -11,10 +17,11 @@
 	- [x] get anim range
 	- [x] get timing offset
 - [x] Get retarget on Vicon pc from unreal pc, by hand ofcourse
-- [ ] By script Retarget post animation onto palmer
+- [x] By script Retarget post animation onto palmer
+- [x] Why is it 120fps??? Because it was exported at 120fps from shogun post, no issue here.
 
 ### sequencerPrep
-- [ ] python script that uses plugin
+- [ ] Script that uses all plugins
 	- [ ] open prepped sequencer
 	- [ ] add csv to sequencer
 	- [ ] add retargeted animation to sequencer
@@ -38,12 +45,12 @@ flowchart TD
     end
 
 	subgraph UnrealPrep
-	    a4 --> b1["importScript (python)"]
+	    a4 --> b1["importScript (cpp api)"]
 	    a5 --> b1
 	
 	    b1 --> b2["unrealEngine"]
 	
-	    b2 --> c1["retargetToPalmer (python api)"]
+	    b2 --> c1["retargetToPalmer (cpp api)"]
 	end
 
 	subgraph sequencerPrep
