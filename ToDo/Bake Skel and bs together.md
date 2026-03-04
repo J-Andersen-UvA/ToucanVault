@@ -5,12 +5,13 @@
 - [x] Get the animation range for every rpm animation to every folder (<span class="blue">animRange</span>)
 
 ### Unreal prep
-- [ ] Import script
+- [x] Import script
 	- [x] Post animations into unreal engine
 	- [x] CSV blendshapes into unreal engine (test if works with fix of name NumProperties To BlendshapeCount)
-	- [ ] 
-- [ ] Get retarget on Vicon pc from unreal pc, by hand ofcourse
-- [ ] Retarget post animation onto palmer
+	- [x] get anim range
+	- [x] get timing offset
+- [x] Get retarget on Vicon pc from unreal pc, by hand ofcourse
+- [ ] By script Retarget post animation onto palmer
 
 ### sequencerPrep
 - [ ] python script that uses plugin
