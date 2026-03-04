@@ -6,9 +6,9 @@
 
 ### Job queue
 - [ ] EUW containing:
-	- [ ] Joblist
-		- [ ] joblist done
-		- [ ] joblist to do
+	- [x] Joblist
+		- [x] joblist done
+		- [x] joblist to do
 	- [ ] Process next 100: All plugins to execute the pipeline
 ### Unreal prep
 - [x] Import script
