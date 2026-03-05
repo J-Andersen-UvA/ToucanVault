@@ -22,7 +22,7 @@
 
 ### sequencerPrep
 - [ ] Script that uses all plugins
-	- [ ] open prepped sequencer
+	- [ ] open prepped sequencer (check skeletal add. cant we reuse a bp actor from prepared sequence?)
 	- [ ] add csv to sequencer
 	- [ ] add retargeted animation to sequencer
 
