@@ -22,11 +22,13 @@
 
 ### sequencerPrep
 - [ ] Script that uses all plugins
-	- [ ] open prepped sequencer (check skeletal add. cant we reuse a bp actor from prepared sequence?)
-	- [ ] add csv to sequencer
-	- [ ] add retargeted animation to sequencer
+	- [x] open prepped sequencer (check skeletal add. cant we reuse a bp actor from prepared sequence?)
+	- [x] add csv to sequencer
+	- [x] add retargeted animation to sequencer
+	- [x] Move anim
+	- [ ] Move csv
 
-- [ ] Set csv name on palmer actor
+- [x] Set csv name on palmer actor
 ### timingAndRange
 - [ ] Apply animation range
 - [ ] shift the skeletal animation based on timing offset
