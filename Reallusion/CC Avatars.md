@@ -15,3 +15,6 @@ Getting the rig working layered in the sequencer requires that you turn off the 
 **Picker**
 The picker gives us the ability to quickly select controls.
 ![[Pasted image 20260219130536.png|400]]
+
+## Adjusting colors in character creator
+Don't use diffuse, it will only work for Unreal and CC. Importing into Blender, we see that it fails. So we will need to <span class="blue">adjust the colors of the base color texture in CC.</span>

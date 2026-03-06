@@ -1,3 +1,6 @@
+Automatically make structured plugin folder for unreal:
+[[Auto make plugin folder]]
+
 List file tree:
 ```bash
 tree /f
