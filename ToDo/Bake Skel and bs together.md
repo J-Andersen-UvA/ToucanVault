@@ -21,20 +21,22 @@
 - [x] Why is it 120fps??? Because it was exported at 120fps from shogun post, no issue here.
 
 ### sequencerPrep
-- [ ] Script that uses all plugins
+- [x] Script that uses all plugins
 	- [x] open prepped sequencer (check skeletal add. cant we reuse a bp actor from prepared sequence?)
 	- [x] add csv to sequencer
 	- [x] add retargeted animation to sequencer
 	- [x] Move anim
-	- [ ] Move csv
+	- [x] Move csv
 
 - [x] Set csv name on palmer actor
 ### timingAndRange
-- [ ] Apply animation range
-- [ ] shift the skeletal animation based on timing offset
-- [ ] Shift the csv take to end at the range end
+- [x] Apply animation range
+- [x] shift the skeletal animation based on timing offset
+- [x] Shift the csv take to end at the range end
 ### outputData
-- [ ] Make export script to get final animation out of unreal engine
+- [ ] Make export script to get final animation out of unreal engine (use the py that we are already using for its settings)
+- [ ] Set jobs bool
+- [ ] Set metadata for CC
 
 ```mermaid
 flowchart TD
