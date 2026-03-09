@@ -5,14 +5,14 @@
 - [x] Get the animation range for every rpm animation to every folder (<span class="blue">animRange</span>)
 
 ### Job queue
-- [ ] EUW containing:
+- [x] EUW containing:
 	- [x] Joblist
 		- [x] joblist done
 		- [x] joblist to do
-	- [ ] Process next 100: All plugins to execute the pipeline
-	- [ ] Reset pipeline
-		- [ ] Sequencer cleanup
-		- [ ] Remove files (maybe will help with recordings, perhaps test first without doing this so we can test if it helps with the cache)
+	- [x] Process next 100: All plugins to execute the pipeline
+	- [x] Reset pipeline
+		- [x] Sequencer cleanup
+		- [x] Remove files (maybe will help with recordings, perhaps test first without doing this so we can test if it helps with the cache)
 ### Unreal prep
 - [x] Import script
 	- [x] Post animations into unreal engine
@@ -41,6 +41,7 @@
 - [x] Set metadata for CC
 - [x] Set jobs bool
 
+- [ ] Do I care about the tposing at the beginning of some anims? We can maybe cut after processing? (example E:\Recordings\2025-11-18\M20240925_1925_251118_1)
 
 ```mermaid
 flowchart TD
