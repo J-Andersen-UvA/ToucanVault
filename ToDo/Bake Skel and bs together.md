@@ -35,7 +35,7 @@
 - [x] Shift the csv take to end at the range end
 ### outputData
 - [x] Make export script to get final animation out of unreal engine (use the py that we are already using for its settings)
-- [ ] Set metadata for CC
+- [x] Set metadata for CC
 - [ ] Set jobs bool
 
 
