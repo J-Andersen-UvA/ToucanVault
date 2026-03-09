@@ -30,7 +30,7 @@
 	- [x] add retargeted animation to sequencer
 	- [x] Move anim
 	- [x] Move csv
-
+- [x] Update llf
 - [x] Set csv name on palmer actor
 ### timingAndRange
 - [x] Apply animation range
@@ -66,10 +66,11 @@ flowchart TD
 	
 	    d1 --> d2["addAnimationToPalmerSkeletalMesh"]
 	    d1 --> d3["addCsvToSequence"]
+	    d3 --> movePlayHead1["movePlayhead Forcing Update for llf"]
 	end
 
 	d4["setCsvNameOnOwningActorBp"]
-	d3 --> d4
+	movePlayHead1 --> d4
 	d4 --> d5
 
 	subgraph timingAndRange
