@@ -10,6 +10,9 @@
 		- [x] joblist done
 		- [x] joblist to do
 	- [ ] Process next 100: All plugins to execute the pipeline
+	- [ ] Reset pipeline
+		- [ ] Sequencer cleanup
+		- [ ] Remove files (maybe will help with recordings, perhaps test first without doing this so we can test if it helps with the cache)
 ### Unreal prep
 - [x] Import script
 	- [x] Post animations into unreal engine
@@ -36,7 +39,7 @@
 ### outputData
 - [x] Make export script to get final animation out of unreal engine (use the py that we are already using for its settings)
 - [x] Set metadata for CC
-- [ ] Set jobs bool
+- [x] Set jobs bool
 
 
 ```mermaid
