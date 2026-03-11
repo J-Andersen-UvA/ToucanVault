@@ -1,0 +1,4 @@
+- [ ] Paper Jos avatar schrijven
+- [ ] [[TODO February]] afmaken
+- [ ] Animation trimming script
+	- [ ] Automation for t-pose or webapp?
