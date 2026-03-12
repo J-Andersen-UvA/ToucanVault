@@ -12,10 +12,12 @@
 - [ ] Work on rig
 	- [x] Lookat offset
 - [ ] Work on picker
-	- [x] Zero
+	- [ ] Zero
+		- [x] Zero all
+		- [ ] Zero left right fingers
 	- [x] Finger selecting
 		- [x] Remove metacarpal from select total finger
 		- [x] MultipleSelect
 	- [x] Lookat offset select
-	- [ ] Body Ctrls Bool shouldnt touch fingers, and default should be off
+	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
 	- [ ] Fix feet (using rig present?)
