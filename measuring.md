@@ -12,7 +12,3 @@ G=ground i think
 | M2                        |        | X        |        |
 | R                         |        |          | X      |
 
-L, geluid bij links en midden 1
-M, midden 1 en 2 geluid
-R, midden 1 en rechts
-
