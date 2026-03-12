@@ -1,4 +1,15 @@
-- [ ] Paper Jos avatar schrijven
-- [ ] [[TODO February]] afmaken
+- [x] Paper Jos avatar schrijven
+- [x] [[TODO February]] afmaken
 - [ ] Animation trimming script
 	- [ ] Automation for t-pose or webapp?
+	- [x] Find where to trim script
+	- [ ] Trim script
+- [ ] How to share uassets through git
+- [ ] Work on rig
+	- [ ] Lookat offset
+- [ ] Work on picker
+	- [x] Zero
+	- [x] Finger selecting
+		- [ ] Remove metacarpal from select total finger
+	- [ ] Lookat offset select
+	- [ ] Fix feet (using rig present?)

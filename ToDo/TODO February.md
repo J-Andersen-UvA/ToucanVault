@@ -4,10 +4,10 @@
 	- [x] Why is the face separated from the rest for the body rig <span class="blue">Its not, just disable the post processing blueprint in the scene details tab of the skelmesh.</span>
 	- [x] Should I add the face rig immediately to the pipeline? <span class="blue">Lets not, its heavy.</span>
 	- [x] Why face rig not here <span class="blue">It is there, it works also when layered. No clue yet on how to get it working with eye follow</span>
-- [ ] Test with current pipeline, is it modular enough to support the rig
+- [x] Test with current pipeline, is it modular enough to support the rig
 	- [x] Do we need to automatically open the picker? <span class="blue">Don't feel like it, I will just teach the end users.</span>
 	- [x] Does it work with queue code <span class="blue">Yes</span>
-	- [ ] Does it work with midi code
+	- [x] Does it work with midi code
 
 ### Implement new pipeline for recording
 - [x] Recording project to 5.7
@@ -48,9 +48,9 @@ Step 1. Gathering the input
 	- [x] Move
 	- [x] Update metadata
 - [x] New project 5.7 (reallusion project kan ook)
-- [ ] Basic fbx loader script maken die Vicon skeleton gebruikt
-	- [ ] Hou ook in UE bij in een file waar we zijn met retargeting etc (status)
-- [ ] Basic CSV loader script?
+- [x] Basic fbx loader script maken die Vicon skeleton gebruikt
+	- [x] Hou ook in UE bij in een file waar we zijn met retargeting etc (status)
+- [x] Basic CSV loader script?
 
 Step 2. Processing input
 - [x] Vicon -> CC retarget maken met voorbeeld animaties
@@ -68,20 +68,20 @@ Step 2. Processing input
 		- [x] AddRigToBinding <span class="blue">make sure to use path of class (rigpath/rig.rig_C)</span>
 		- [x] BakeBindingToAnimSequence
 		- [x] Access separate animation sections in a track?
-- [ ] Batch retargeting script or with present tools in UE?
+- [x] Batch retargeting script or with present tools in UE?
 	- We don't need the root edit, we can use my newly created one. For ViconFingers.
 	- [x] Make retarget
-	- [ ] Make batch retargeting script
-- [ ] What needs to be done to bake csv blendshapes onto avatar?
+	- [x] Make batch retargeting script
+- [x] What needs to be done to bake csv blendshapes onto avatar?
 	- [x] Do we need a separate bake or can we use livelink during a bake (doubt)
 		<span class="blue">At the least the face blendshapes can be synced like so:</span>
 		![[Pasted image 20260224162152.png|400]]
 <span class="red">We need a separate bake, because we need the post process blueprint to hit the jaw bone, and the wrinkle blendshapes</span>
 - [x] Make a foot move detection script (end of anim detection)
-- [ ] Bake anim and blendshapes for every animation together
+- [x] Bake anim and blendshapes for every animation together
 
 Step 3. Processing output
-- [ ] Export tool out of unreal or by hand?
+- [x] Export tool out of unreal or by hand?
 	- [ ] Update overview
 		- [ ] Do we need to rename the retargeted_animation_fbx field, or add a key to that field "avatar:"
-	- [ ] Export into ue folder with extra attached name or extra folder (CC)? Discuss with gomer what he wants for rclone
+	- [x] Export into ue folder with extra attached name or extra folder (CC)? Discuss with gomer what he wants for rclone
