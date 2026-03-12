@@ -1,15 +1,20 @@
 - [x] Paper Jos avatar schrijven
 - [x] [[TODO February]] afmaken
+- [ ] Compile all repo's in a single file
+	- [ ] Order based on functionality
+	- [ ] Write single sentence for each repo to explain what it is
+	- [ ] Add links to git of course
 - [ ] Animation trimming script
 	- [ ] Automation for t-pose or webapp?
 	- [x] Find where to trim script
 	- [ ] Trim script
 - [ ] How to share uassets through git
 - [ ] Work on rig
-	- [ ] Lookat offset
+	- [x] Lookat offset
 - [ ] Work on picker
 	- [x] Zero
 	- [x] Finger selecting
-		- [ ] Remove metacarpal from select total finger
+		- [x] Remove metacarpal from select total finger
+		- [x] MultipleSelect
 	- [ ] Lookat offset select
 	- [ ] Fix feet (using rig present?)
