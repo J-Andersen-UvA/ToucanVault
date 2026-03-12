@@ -16,5 +16,6 @@
 	- [x] Finger selecting
 		- [x] Remove metacarpal from select total finger
 		- [x] MultipleSelect
-	- [ ] Lookat offset select
+	- [x] Lookat offset select
+	- [ ] Body Ctrls Bool shouldnt touch fingers, and default should be off
 	- [ ] Fix feet (using rig present?)
