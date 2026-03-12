@@ -14,7 +14,8 @@
 - [ ] Work on picker
 	- [ ] Zero
 		- [x] Zero all
-		- [ ] Zero left right fingers
+		- [x] Zero left right fingers
+		- [ ] Nicer dropdown
 	- [x] Finger selecting
 		- [x] Remove metacarpal from select total finger
 		- [x] MultipleSelect
