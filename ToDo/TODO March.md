@@ -27,3 +27,5 @@
 	- [ ] Show controls fingers
 	- [ ] Place Show controls Body ctrls below show controls
 	- [ ] KeyFrame last vals
+- [ ] Fix midi json loading
+
