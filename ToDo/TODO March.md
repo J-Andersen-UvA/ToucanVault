@@ -11,11 +11,12 @@
 - [ ] How to share uassets through git
 - [ ] Work on rig
 	- [x] Lookat offset
+	- [x] Default IK
 - [ ] Work on picker
-	- [ ] Zero
+	- [x] Zero
 		- [x] Zero all
 		- [x] Zero left right fingers
-		- [ ] Nicer dropdown
+		- [x] Nicer dropdown
 	- [x] Finger selecting
 		- [x] Remove metacarpal from select total finger
 		- [x] MultipleSelect
