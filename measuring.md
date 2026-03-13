@@ -12,3 +12,12 @@ G=ground i think
 | M2                        |        | X        |        |
 | R                         |        |          | X      |
 
+![[variableResistance.jpeg]]
+
+Switched to 33, auto, and 45:
+
+| Probing | a1  | b1  |
+| ------- | --- | --- |
+| a2      | X   |     |
+| b2      | X   |     |
+
