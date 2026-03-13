@@ -26,6 +26,6 @@
 	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
 	- [x] Show controls fingers
 	- [x] Place Show controls Body ctrls below show controls
-	- [ ] KeyFrame last vals
+	- [ ] KeyFrame last vals (pretty hard, maybe just a re-key?)
 - [ ] Fix midi json loading
 
