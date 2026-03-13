@@ -23,6 +23,7 @@
 	- [x] Finger selecting
 		- [x] Remove metacarpal from select total finger
 		- [x] MultipleSelect
+		- [ ] Deselect if selected with ctrl
 	- [x] Lookat offset select
 	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
 	- [x] Show controls fingers
