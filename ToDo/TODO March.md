@@ -12,7 +12,7 @@
 - [ ] Work on rig
 	- [x] Lookat offset
 	- [x] Default IK
-	- [ ] Show controls fingers
+	- [x] Show controls fingers
 	- [ ] Fix proxy control (finger bend)
 - [ ] Work on picker
 	- [x] Zero
@@ -24,8 +24,8 @@
 		- [x] MultipleSelect
 	- [x] Lookat offset select
 	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
-	- [ ] Show controls fingers
-	- [ ] Place Show controls Body ctrls below show controls
+	- [x] Show controls fingers
+	- [x] Place Show controls Body ctrls below show controls
 	- [ ] KeyFrame last vals
 - [ ] Fix midi json loading
 
