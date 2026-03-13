@@ -1,5 +1,6 @@
 - [x] Paper Jos avatar schrijven
 - [x] [[TODO February]] afmaken
+- [ ] Dont forget to retarget the last stragglers
 - [ ] Compile all repo's in a single file
 	- [ ] Order based on functionality
 	- [ ] Write single sentence for each repo to explain what it is
@@ -8,7 +9,7 @@
 	- [ ] Automation for t-pose or webapp?
 	- [x] Find where to trim script
 	- [ ] Trim script
-- [ ] How to share uassets through git
+- [x] How to share uassets through git
 - [ ] Work on rig
 	- [x] Lookat offset
 	- [x] Default IK
@@ -26,6 +27,6 @@
 	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
 	- [x] Show controls fingers
 	- [x] Place Show controls Body ctrls below show controls
-	- [ ] KeyFrame last vals (pretty hard, maybe just a re-key?)
+	- [x] KeyFrame last vals (pretty hard, maybe just a re-key?)
 - [ ] Fix midi json loading
 
