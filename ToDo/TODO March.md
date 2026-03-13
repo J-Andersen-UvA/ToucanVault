@@ -12,6 +12,8 @@
 - [ ] Work on rig
 	- [x] Lookat offset
 	- [x] Default IK
+	- [ ] Show controls fingers
+	- [ ] Fix proxy control (finger bend)
 - [ ] Work on picker
 	- [x] Zero
 		- [x] Zero all
@@ -22,4 +24,6 @@
 		- [x] MultipleSelect
 	- [x] Lookat offset select
 	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
-	- [ ] Fix feet (using rig present?)
+	- [ ] Show controls fingers
+	- [ ] Place Show controls Body ctrls below show controls
+	- [ ] KeyFrame last vals
