@@ -5,11 +5,14 @@
 - [x] Get the animation range for every rpm animation to every folder (<span class="blue">animRange</span>)
 
 ### Job queue
-- [ ] EUW containing:
+- [x] EUW containing:
 	- [x] Joblist
 		- [x] joblist done
 		- [x] joblist to do
-	- [ ] Process next 100: All plugins to execute the pipeline
+	- [x] Process next 100: All plugins to execute the pipeline
+	- [x] Reset pipeline
+		- [x] Sequencer cleanup
+		- [x] Remove files (maybe will help with recordings, perhaps test first without doing this so we can test if it helps with the cache)
 ### Unreal prep
 - [x] Import script
 	- [x] Post animations into unreal engine
@@ -21,18 +24,24 @@
 - [x] Why is it 120fps??? Because it was exported at 120fps from shogun post, no issue here.
 
 ### sequencerPrep
-- [ ] Script that uses all plugins
-	- [ ] open prepped sequencer (check skeletal add. cant we reuse a bp actor from prepared sequence?)
-	- [ ] add csv to sequencer
-	- [ ] add retargeted animation to sequencer
-
-- [ ] Set csv name on palmer actor
+- [x] Script that uses all plugins
+	- [x] open prepped sequencer (check skeletal add. cant we reuse a bp actor from prepared sequence?)
+	- [x] add csv to sequencer
+	- [x] add retargeted animation to sequencer
+	- [x] Move anim
+	- [x] Move csv
+- [x] Update llf
+- [x] Set csv name on palmer actor
 ### timingAndRange
-- [ ] Apply animation range
-- [ ] shift the skeletal animation based on timing offset
-- [ ] Shift the csv take to end at the range end
+- [x] Apply animation range
+- [x] shift the skeletal animation based on timing offset
+- [x] Shift the csv take to end at the range end
 ### outputData
-- [ ] Make export script to get final animation out of unreal engine
+- [x] Make export script to get final animation out of unreal engine (use the py that we are already using for its settings)
+- [x] Set metadata for CC
+- [x] Set jobs bool
+
+- [ ] Do I care about the tposing at the beginning of some anims? We can maybe cut after processing? (example E:\Recordings\2025-11-18\M20240925_1925_251118_1)
 
 ```mermaid
 flowchart TD
@@ -58,10 +67,11 @@ flowchart TD
 	
 	    d1 --> d2["addAnimationToPalmerSkeletalMesh"]
 	    d1 --> d3["addCsvToSequence"]
+	    d3 --> movePlayHead1["movePlayhead Forcing Update for llf"]
 	end
 
 	d4["setCsvNameOnOwningActorBp"]
-	d3 --> d4
+	movePlayHead1 --> d4
 	d4 --> d5
 
 	subgraph timingAndRange

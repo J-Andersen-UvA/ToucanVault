@@ -1,0 +1,33 @@
+- [x] Paper Jos avatar schrijven
+- [x] [[TODO February]] afmaken
+- [ ] Dont forget to retarget the last stragglers
+- [ ] Compile all repo's in a single file
+	- [ ] Order based on functionality
+	- [ ] Write single sentence for each repo to explain what it is
+	- [ ] Add links to git of course
+- [ ] Animation trimming script
+	- [ ] Automation for t-pose or webapp?
+	- [x] Find where to trim script
+	- [ ] Trim script
+- [x] How to share uassets through git
+- [ ] Work on rig
+	- [x] Lookat offset
+	- [x] Default IK
+	- [x] Show controls fingers
+	- [ ] Fix proxy control (finger bend)
+- [ ] Work on picker
+	- [x] Zero
+		- [x] Zero all
+		- [x] Zero left right fingers
+		- [x] Nicer dropdown
+	- [x] Finger selecting
+		- [x] Remove metacarpal from select total finger
+		- [x] MultipleSelect
+		- [x] Deselect if selected with ctrl
+	- [x] Lookat offset select
+	- [x] Body Ctrls Bool shouldnt touch fingers, and default should be off
+	- [x] Show controls fingers
+	- [x] Place Show controls Body ctrls below show controls
+	- [x] KeyFrame last vals (pretty hard, maybe just a re-key?)
+- [ ] Fix midi json loading
+
