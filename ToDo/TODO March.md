@@ -31,6 +31,9 @@
 	- [x] KeyFrame last vals (pretty hard, maybe just a re-key?)
 	- [ ] After shift selecting, refocus sequencer if possible
 - [ ] Fix midi json loading
-- [ ] Nieuwe pipeline MET tentacles
+- [x] LeesVertelWedstrijd
+- [ ] Mocap Pipeline
+	- [ ] Nieuwe pipeline MET tentacles
+	- [ ] pipeline documentatie rework
 
 
