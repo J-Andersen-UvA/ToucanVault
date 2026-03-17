@@ -29,5 +29,12 @@
 	- [x] Show controls fingers
 	- [x] Place Show controls Body ctrls below show controls
 	- [x] KeyFrame last vals (pretty hard, maybe just a re-key?)
+	- [ ] After shift selecting, refocus sequencer if possible
 - [ ] Fix midi json loading
+- [x] LeesVertelWedstrijd
+- [ ] Presentatie [[Presentatie 18-03-2026]]
+- [ ] Mocap Pipeline
+	- [ ] Nieuwe pipeline MET tentacles
+	- [ ] pipeline documentatie rework
+
 
