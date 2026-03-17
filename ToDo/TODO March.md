@@ -32,7 +32,7 @@
 	- [ ] After shift selecting, refocus sequencer if possible
 - [ ] Fix midi json loading
 - [x] LeesVertelWedstrijd
-- [ ] Presentatie UWV
+- [ ] Presentatie [[Presentatie 18-03-2026]]
 - [ ] Mocap Pipeline
 	- [ ] Nieuwe pipeline MET tentacles
 	- [ ] pipeline documentatie rework
