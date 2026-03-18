@@ -1,0 +1,1 @@
+Make sure to open its post process abp, that will prompt you to pick a skeleton, only then will their mappings work and will you be able to let llf manipulate the bone curves.
