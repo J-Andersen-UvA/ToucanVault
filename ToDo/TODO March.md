@@ -37,4 +37,5 @@
 	- [ ] Nieuwe pipeline MET tentacles
 	- [ ] pipeline documentatie rework
 - [ ] Drive bijna vol
-- [ ] Paper tutorial post processing [[Post Processing in Unreal Engine]]
+- [ ] Paper tutorial post processing (overleaf)
+- [ ] Fem avatar implement before HH
