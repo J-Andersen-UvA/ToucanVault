@@ -39,3 +39,5 @@
 - [ ] Drive bijna vol
 - [ ] Paper tutorial post processing (overleaf)
 - [ ] Fem avatar implement before HH
+- [ ] Cloth and hair?
+- [ ] Twistbones using rbf?
