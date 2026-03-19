@@ -42,4 +42,7 @@
 - [ ] Cloth and hair?
 - [ ] Twistbones using rbf?
 - [ ] Unreal pose library hoe additive?
+- [ ] Kan ik nog harde schijf ruimte erbij?
+	- [ ] Genoeg slots?
+
 
