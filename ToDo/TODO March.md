@@ -32,7 +32,7 @@
 	- [ ] After shift selecting, refocus sequencer if possible
 - [ ] Fix midi json loading
 - [x] LeesVertelWedstrijd
-- [ ] Presentatie [[Presentatie 18-03-2026]]
+- [x] Presentatie uwv
 - [ ] Mocap Pipeline
 	- [ ] Nieuwe pipeline MET tentacles
 	- [ ] pipeline documentatie rework
@@ -41,3 +41,5 @@
 - [ ] Fem avatar implement before HH
 - [ ] Cloth and hair?
 - [ ] Twistbones using rbf?
+- [ ] Unreal pose library hoe additive?
+
