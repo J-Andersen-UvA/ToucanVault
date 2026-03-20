@@ -37,12 +37,16 @@
 	- [ ] Nieuwe pipeline MET tentacles
 	- [ ] pipeline documentatie rework
 - [ ] Drive bijna vol
+	- [ ] Kan ik nog harde schijf ruimte erbij?
+	- [ ] Genoeg slots?
 - [ ] Paper tutorial post processing (overleaf)
+	- [ ] Amass videos from youtube
+	- [ ] Make own video
+	- [ ] Screenshots
+	- [ ] Documentation links
 - [ ] Fem avatar implement before HH
 - [ ] Cloth and hair?
 - [ ] Twistbones using rbf?
 - [ ] Unreal pose library hoe additive?
-- [ ] Kan ik nog harde schijf ruimte erbij?
-	- [ ] Genoeg slots?
 - [ ] Toucansessionsequencer: make export today button
 
