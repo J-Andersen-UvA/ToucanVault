@@ -6,3 +6,7 @@ No need for the jacket, pay attention to big eyes and mouth.
 
 Priorities:
 - [ ] Same proportions to male so we might not need to post process.
+
+
+- stretched turtleneck shirt
+- removed bangs from front face
