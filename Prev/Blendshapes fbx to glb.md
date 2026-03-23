@@ -9,3 +9,4 @@ NPM conversion tool:
 ```
 But we still need the mesh present in the original fbx in order to do this... Which, depending on the mesh, can increase the storage used 20 fold.
 
+<span class="blue">I have more info on this in this vault, but still need to compile it</span>
