@@ -44,11 +44,13 @@
 	- [ ] Make own video
 	- [ ] Screenshots
 	- [ ] Documentation links
-- [ ] Fem avatar implement before HH
+- [ ] Fem avatar implement before HH [[Fem Avatar]]
+	- [ ] Same proportions as male avatar
 - [ ] Cloth and hair?
 - [ ] Twistbones using rbf?
 - [ ] Unreal pose library hoe additive?
 - [x] Toucansessionsequencer: make export today button
 - [ ] Test mark conversie pipeline
+	- [ ] Kijk hoe het is voor 3d website
 
 
