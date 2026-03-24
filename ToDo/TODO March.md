@@ -53,9 +53,9 @@
 - [ ] Test mark conversie pipeline
 	- [ ] Kijk hoe het is voor 3d website
 - [ ] Tentacles sync
-	- [ ] Vicon
+	- [x] Vicon
 	- [ ] Unreal?
-	- [ ] iPhone
+	- [x] iPhone
 
 
 
