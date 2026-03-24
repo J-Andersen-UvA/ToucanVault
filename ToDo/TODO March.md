@@ -52,5 +52,10 @@
 - [x] Toucansessionsequencer: make export today button
 - [ ] Test mark conversie pipeline
 	- [ ] Kijk hoe het is voor 3d website
+- [ ] Tentacles sync
+	- [ ] Vicon
+	- [ ] Unreal?
+	- [ ] iPhone
+
 
 
