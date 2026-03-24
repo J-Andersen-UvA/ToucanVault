@@ -14,5 +14,6 @@ Priorities:
 	Convert to prop. select bangs using select element. remove.
 - Proportions, block out with blocks initial, do small adjustments by reimporting into unreal engine and comparing to other skel
 - Make-up + freckles
+- Hide Bodymesh tool
 
 
