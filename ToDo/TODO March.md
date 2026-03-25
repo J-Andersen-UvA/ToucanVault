@@ -59,6 +59,8 @@
 	- [x] iPhone
 - [ ] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
+- [ ] Eye lookat not working in sequencer?
+
 
 
 
