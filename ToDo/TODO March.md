@@ -58,6 +58,7 @@
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
 	- [x] iPhone
 - [ ] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
+- [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
 
 
 
