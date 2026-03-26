@@ -29,7 +29,8 @@
 	- [x] Show controls fingers
 	- [x] Place Show controls Body ctrls below show controls
 	- [x] KeyFrame last vals (pretty hard, maybe just a re-key?)
-	- [ ] After shift selecting, refocus sequencer if possible
+	- [x] After shift selecting, refocus sequencer if possible <span class="red">Not possible, focus is not enough for keyframing</span>
+	- [ ] Selected buttons in picker should be lit up or marked
 - [ ] Fix midi json loading
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
