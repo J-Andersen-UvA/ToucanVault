@@ -64,7 +64,10 @@
 - [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
 	- [ ] Record timecode has to be on in the take-recorder
 - [ ] Nieuwe camera belangrijk voor labelling, dan kan je video labelen en is het synced met anims. Dus alles labeled door klassieke vid methode
-- [ ] Selected controls buttons, make them like purple or something
+- [x] Selected controls buttons, make them like purple or something
+- [x] selected zero and rekey
+- [ ] unselected zero and rekey
+- [ ] 
 
 
 
