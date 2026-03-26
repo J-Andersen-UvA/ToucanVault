@@ -59,8 +59,7 @@
 	- [x] iPhone
 - [ ] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
-- [ ] Eye lookat not working in sequencer?
-
-
-
+- [x] Eye lookat not working in sequencer? <span class="blue">Turn off post process bp stupid</span>
+- [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
+	- [ ] Record timecode has to be on in the take-recorder
 
