@@ -70,6 +70,8 @@
 - [ ] Take recorder sequence references?
 	- [ ] Use set up sequence?
 - [ ] remove all keys button
+- [ ] remove locatin and scaling from relevant rig controls
+- [ ] 
 
 
 
