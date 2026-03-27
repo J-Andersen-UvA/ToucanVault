@@ -58,7 +58,7 @@
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
 	- [x] iPhone
-- [ ] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
+- [x] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
 - [x] Eye lookat not working in sequencer? <span class="blue">Turn off post process bp stupid</span>
 - [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
@@ -69,6 +69,8 @@
 - [ ] unselected zero and rekey
 - [ ] Take recorder sequence references?
 	- [ ] Use set up sequence?
+- [ ] remove all keys button
+
 
 
 
