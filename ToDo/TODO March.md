@@ -70,8 +70,10 @@
 - [ ] Take recorder sequence references?
 	- [ ] Use set up sequence?
 - [ ] remove all keys button
-- [ ] remove locatin and scaling from relevant rig controls
-- [ ] 
+- [ ] zero also the metacarpals?
+- [x] remove locatin and scaling from relevant rig controls
+- [ ] dont forget fem avatar
+
 
 
 
