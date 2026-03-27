@@ -67,7 +67,9 @@
 - [x] Selected controls buttons, make them like purple or something
 - [x] selected zero and rekey
 - [ ] unselected zero and rekey
-- [ ] 
+- [ ] Take recorder sequence references?
+	- [ ] Use set up sequence?
+
 
 
 
