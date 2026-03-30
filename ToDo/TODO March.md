@@ -1,14 +1,10 @@
 - [x] Paper Jos avatar schrijven
 - [x] [[TODO February]] afmaken
-- [ ] Dont forget to retarget the last stragglers
-- [ ] Compile all repo's in a single file
-	- [ ] Order based on functionality
-	- [ ] Write single sentence for each repo to explain what it is
-	- [ ] Add links to git of course
 - [ ] Animation trimming script
 	- [ ] Automation for t-pose or webapp?
 	- [x] Find where to trim script
 	- [ ] Trim script
+	- [x] Just make the post processing work do this, I dont see why we should do this by script.
 - [x] How to share uassets through git
 - [ ] Work on rig
 	- [x] Lookat offset
@@ -30,52 +26,62 @@
 	- [x] Place Show controls Body ctrls below show controls
 	- [x] KeyFrame last vals (pretty hard, maybe just a re-key?)
 	- [x] After shift selecting, refocus sequencer if possible <span class="red">Not possible, focus is not enough for keyframing</span>
-	- [ ] Selected buttons in picker should be lit up or marked
-- [ ] Fix midi json loading
+	- [x] Selected buttons in picker should be lit up or marked
+	- [x] selected zero and rekey
+	- [ ] unselected zero and rekey
+	- [ ] remove all keys button
+	- [ ] zero also the metacarpals?
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
-- [ ] Mocap Pipeline
-	- [ ] Nieuwe pipeline MET tentacles
-	- [ ] pipeline documentatie rework
-- [ ] Drive bijna vol
-	- [ ] Kan ik nog harde schijf ruimte erbij?
-	- [ ] Genoeg slots?
-- [ ] Paper tutorial post processing (overleaf)
-	- [ ] Amass videos from youtube
-	- [ ] Make own video
-	- [ ] Screenshots
-	- [ ] Documentation links
-- [ ] Fem avatar implement before HH [[Fem Avatar]]
-	- [ ] Same proportions as male avatar
-- [ ] Cloth and hair?
-- [ ] Twistbones using rbf?
-- [ ] Unreal pose library hoe additive?
+
+- [x] Paper tutorial post processing (overleaf)
+	- [x] Amass videos from youtube
+	- [x] Make own video
+	- [x] Screenshots
+	- [x] Documentation links
+
 - [x] Toucansessionsequencer: make export today button
-- [ ] Test mark conversie pipeline
-	- [ ] Kijk hoe het is voor 3d website
+- [x] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
+- [x] Eye lookat not working in sequencer? <span class="blue">Turn off post process bp stupid</span>
+- [x] Nieuwe camera belangrijk voor labelling, dan kan je video labelen en is het synced met anims. Dus alles labeled door klassieke vid methode
+- [x] Selected controls buttons, make them like purple or something
+- [x] remove locatin and scaling from relevant rig controls
+
+
+Laatste week Maart focus:
+- [ ] Dont forget to retarget the last stragglers
 - [ ] Tentacles sync
 	- [x] Vicon
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
 	- [x] iPhone
-- [x] Kunnen we volgende week al opnemen of zullen we opnames verder verplaatsen?
-- [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
-- [x] Eye lookat not working in sequencer? <span class="blue">Turn off post process bp stupid</span>
 - [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
 	- [ ] Record timecode has to be on in the take-recorder
-- [ ] Nieuwe camera belangrijk voor labelling, dan kan je video labelen en is het synced met anims. Dus alles labeled door klassieke vid methode
-- [x] Selected controls buttons, make them like purple or something
-- [x] selected zero and rekey
-- [ ] unselected zero and rekey
-- [ ] Take recorder sequence references?
+- [ ] Test mark conversie pipeline
+	- [ ] Kijk hoe het is voor 3d website
+- [ ] Drive bijna vol
+	- [x] Kan ik nog harde schijf ruimte erbij?
+	- [x] Genoeg slots? <span class="blue">Er is nog normale plugs voor hdd</span>
+	- [ ] Stuur drive voorbeeld/request naar floris
+
+Meenemen naar April:
+- [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
+- [ ] Mocap Pipeline
+	- [x] Nieuwe pipeline MET tentacles
+	- [ ] pipeline documentatie rework
+- [ ] Fix midi json loading
+- [ ] Take recorder sequence references? (minimalize cache use)
 	- [ ] Use set up sequence?
-- [ ] remove all keys button
-- [ ] zero also the metacarpals?
-- [x] remove locatin and scaling from relevant rig controls
-- [ ] dont forget fem avatar
-
-
-
-
-
-
+- [ ] Demo render
+	- [ ] Cloth and hair physiics for demo?
+	- [ ] Scene
+	- [ ] Use mocapped camera
+- [ ] Twistbones using rbf?
+- [ ] Unreal pose library hoe additive?
+- [ ] Fem avatar implement before HH [[Fem Avatar]]
+	- [x] Same proportions as male avatar <span class="blue">Almost worked, still need retarget, but very minimal so only retarget is enough</span>
+	- [ ] Request more hair?
+- [ ] Compile all repo's in a single file
+	- [ ] Order based on functionality
+	- [ ] Write single sentence for each repo to explain what it is
+	- [ ] Add links to git of course
