@@ -31,6 +31,8 @@
 	- [ ] unselected zero and rekey
 	- [ ] remove all keys button
 	- [ ] zero also the metacarpals?
+	- [x] jump camera to hand
+	- [x] Auto fix rig selection
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
 
@@ -47,13 +49,10 @@
 - [x] Selected controls buttons, make them like purple or something
 - [x] remove location and scaling from relevant rig controls
 - [x] add metadata file to post processed animations
-- [ ] jump camera to hand
 - [ ] Meeting floris add about face editing
 
 
-
-
-Laatste week Maart focus:
+**Laatste week Maart focus:**
 - [ ] Dont forget to retarget the last stragglers
 - [ ] Tentacles sync
 	- [x] Vicon
@@ -70,7 +69,7 @@ Laatste week Maart focus:
 	- [ ] Stuur drive voorbeeld/request naar floris
 - [x] Send docu Jose
 
-Meenemen naar April:
+**Meenemen naar April:**
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
 - [ ] Mocap Pipeline
 	- [x] Nieuwe pipeline MET tentacles
@@ -95,4 +94,3 @@ Meenemen naar April:
 	- [ ] is because its based on the base pose (instead of current pose)
 		I suggest that we add a button "base hand" to put the hand in its base position. Then we can apply afterwards the library pose.
 
-	
