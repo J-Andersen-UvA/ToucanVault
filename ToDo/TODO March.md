@@ -45,7 +45,9 @@
 - [x] Eye lookat not working in sequencer? <span class="blue">Turn off post process bp stupid</span>
 - [x] Nieuwe camera belangrijk voor labelling, dan kan je video labelen en is het synced met anims. Dus alles labeled door klassieke vid methode
 - [x] Selected controls buttons, make them like purple or something
-- [x] remove locatin and scaling from relevant rig controls
+- [x] remove location and scaling from relevant rig controls
+- [ ] add metadata file to post processed animations
+
 
 
 Laatste week Maart focus:
