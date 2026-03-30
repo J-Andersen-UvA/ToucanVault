@@ -65,6 +65,7 @@ Laatste week Maart focus:
 	- [x] Kan ik nog harde schijf ruimte erbij?
 	- [x] Genoeg slots? <span class="blue">Er is nog normale plugs voor hdd</span>
 	- [ ] Stuur drive voorbeeld/request naar floris
+- [x] Send docu Jose
 
 Meenemen naar April:
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
