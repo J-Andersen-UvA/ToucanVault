@@ -48,6 +48,8 @@
 - [x] remove location and scaling from relevant rig controls
 - [x] add metadata file to post processed animations
 - [ ] jump camera to hand
+- [ ] Meeting floris add about face editing
+
 
 
 
