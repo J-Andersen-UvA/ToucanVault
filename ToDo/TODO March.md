@@ -46,7 +46,8 @@
 - [x] Nieuwe camera belangrijk voor labelling, dan kan je video labelen en is het synced met anims. Dus alles labeled door klassieke vid methode
 - [x] Selected controls buttons, make them like purple or something
 - [x] remove location and scaling from relevant rig controls
-- [ ] add metadata file to post processed animations
+- [x] add metadata file to post processed animations
+- [ ] jump camera to hand
 
 
 
