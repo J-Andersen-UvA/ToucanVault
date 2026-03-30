@@ -88,3 +88,8 @@ Meenemen naar April:
 	- [ ] Order based on functionality
 	- [ ] Write single sentence for each repo to explain what it is
 	- [ ] Add links to git of course
+- [ ] Additive Rig issue
+	- [ ] is because its based on the base pose (instead of current pose)
+		I suggest that we add a button "base hand" to put the hand in its base position. Then we can apply afterwards the library pose.
+
+	
