@@ -63,6 +63,9 @@
 	- [ ] Record timecode has to be on in the take-recorder
 - [ ] Test mark conversie pipeline
 	- [ ] Kijk hoe het is voor 3d website
+	- Wat verlies je als je alleen ARKit bs gebruikt idpv alle CC? Mss samen kijken naar post processing blueprint. Wellicht als we de bs uit fbx zouden kunnen pakken dat we dan weer terug winnen hier.
+	- Kunnen we alleen fbx gebruiken voor conversie animaties met blendshapes?
+	- Reden waarom step 2, fix skeleton nodig is is omdat animaties uit unreal komen en de avatar uit cc. Wat eig best wel gek is aangezien we uit cc de ue settings kiezen.
 - [ ] Drive bijna vol
 	- [x] Kan ik nog harde schijf ruimte erbij?
 	- [x] Genoeg slots? <span class="blue">Er is nog normale plugs voor hdd</span>
