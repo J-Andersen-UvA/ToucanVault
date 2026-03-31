@@ -59,6 +59,7 @@
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
 	- [x] iPhone
+- [ ] Save Recorded Assets Unreal, test with disabled for cache
 - [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
 	- [ ] Record timecode has to be on in the take-recorder
 - [ ] Test mark conversie pipeline
