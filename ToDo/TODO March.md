@@ -28,7 +28,7 @@
 	- [x] After shift selecting, refocus sequencer if possible <span class="red">Not possible, focus is not enough for keyframing</span>
 	- [x] Selected buttons in picker should be lit up or marked
 	- [x] selected zero and rekey
-	- [ ] unselected zero and rekey
+	- [x] unselected zero and rekey
 	- [ ] remove all keys button
 	- [ ] zero also the metacarpals?
 	- [x] jump camera to hand
