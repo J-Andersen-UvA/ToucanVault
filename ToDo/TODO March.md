@@ -35,6 +35,7 @@
 	- [x] Auto fix rig selection
 		- [ ] Fix button event
 	- [ ] base button
+	- [ ] default no arrows (default T)
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
 
