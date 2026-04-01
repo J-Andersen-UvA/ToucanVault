@@ -33,6 +33,8 @@
 	- [ ] zero also the metacarpals?
 	- [x] jump camera to hand
 	- [x] Auto fix rig selection
+		- [ ] Fix button event
+	- [ ] base button
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
 
