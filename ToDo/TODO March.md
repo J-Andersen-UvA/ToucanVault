@@ -57,7 +57,7 @@
 
 
 **Laatste week Maart focus:**
-- [ ] Dont forget to retarget the last stragglers
+- [x] Dont forget to retarget the last stragglers
 - [ ] Tentacles sync
 	- [x] Vicon
 	- [ ] Unreal?
