@@ -36,6 +36,7 @@
 		- [ ] Fix button event
 	- [ ] base button
 	- [ ] default no arrows (default T)
+	- [ ] body controls switch off on (or on off) when new rig fix, same with fingers.
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
 
