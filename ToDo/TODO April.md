@@ -1,7 +1,7 @@
-- [ ] Jos paper
-	- [ ] Wat is er aan feedback op mijn sectie, en wat is er aangepast?
-	- [ ] Opmerking Pagina 4
-	- [ ] Wat zeggen over functie?
+- [x] Jos paper
+	- [x] Wat is er aan feedback op mijn sectie, en wat is er aangepast?
+	- [x] Opmerking Pagina 4
+	- [x] Wat zeggen over functie?
 
 - [ ] Tentacles sync
 	- [x] Vicon
