@@ -35,7 +35,7 @@
 	- [x] Auto fix rig selection
 		- [ ] Fix button event
 	- [ ] base button
-	- [ ] default no arrows (default T)
+	- [x] default no arrows (default T) <span class="blue">Doesnt seem necessary to me</span>
 	- [ ] body controls switch off on (or on off) when new rig fix, same with fingers.
 - [x] LeesVertelWedstrijd
 - [x] Presentatie uwv
@@ -53,7 +53,6 @@
 - [x] Selected controls buttons, make them like purple or something
 - [x] remove location and scaling from relevant rig controls
 - [x] add metadata file to post processed animations
-- [ ] Meeting floris add about face editing
 
 
 **Laatste week Maart focus:**
@@ -76,7 +75,12 @@
 	- [x] Genoeg slots? <span class="blue">Er is nog normale plugs voor hdd</span>
 	- [ ] Stuur drive voorbeeld/request naar floris
 - [x] Send docu Jose
-- [ ] Meeting floris vragen of online kan
+- [ ] Meeting floris
+	- [ ] Online?
+	- [ ] Rig + picker voorbeeld
+	- [ ] Fem avatar, haar, retargets
+	- [ ] Face editing
+	- [ ] Pose library
 
 **Meenemen naar April:**
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
