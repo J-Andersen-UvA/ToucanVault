@@ -8,6 +8,7 @@
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
 	- [x] iPhone
+	- [ ] Documentation on syncing and processing
 
 - [ ] Save Recorded Assets Unreal, test with disabled for cache
 - [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
@@ -21,6 +22,7 @@
 	- [ ] Fem avatar, haar, retargets
 	- [ ] Face editing
 	- [ ] Pose library
+	- [ ] Timecode syncing
 
 - [ ] Drive bijna vol
 	- [x] Kan ik nog harde schijf ruimte erbij?
