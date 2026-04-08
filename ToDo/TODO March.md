@@ -76,6 +76,7 @@
 	- [x] Genoeg slots? <span class="blue">Er is nog normale plugs voor hdd</span>
 	- [ ] Stuur drive voorbeeld/request naar floris
 - [x] Send docu Jose
+- [ ] Meeting floris vragen of online kan
 
 **Meenemen naar April:**
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
