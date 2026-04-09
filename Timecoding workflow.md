@@ -28,6 +28,12 @@ To accomplish this we need to set up a few things:
 	2. Record Timecode: True
 	3. Timecode Bone Method: All
 ![[TimedDataMonitor.png]]
+*Why do we put the evaluation mode on Timecode and the ClockSource on Tick?*
+**Clock Source: Tick**  
+Use **Tick** so Take Recorder captures the final evaluated avatar each engine frame. This avoids delays caused by waiting for individual source timestamps after Unreal merges and solves multiple streams.
+
+**Incoming Streams Evaluation: Timecode**  
+Use **Timecode** so all incoming sources (Vicon, ARKit, etc.) are aligned to the same moment before Unreal evaluates them. This keeps body, face, and other inputs synchronized using the shared external clock.
 
 
 ## Exporting data out of the relevant software

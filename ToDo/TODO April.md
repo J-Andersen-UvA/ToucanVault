@@ -12,8 +12,9 @@
 	- [x] Documentation on syncing and processing
 
 - [ ] Save Recorded Assets Unreal, test with disabled for cache
-- [ ] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
-	- [ ] Record timecode has to be on in the take-recorder
+- [x] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
+	- [x] Record timecode has to be on in the take-recorder
+	- [x] Document about timecoding workflow [[Timecoding workflow]]
 
 - [ ] [[Picker & rig]]
 - [x] Setup machines for post processing
