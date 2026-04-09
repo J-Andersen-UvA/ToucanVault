@@ -16,6 +16,7 @@
 	- [ ] Record timecode has to be on in the take-recorder
 
 - [ ] [[Picker & rig]]
+- [x] Setup machines for post processing
 
 - [ ] Meeting floris
 	- [x] Online?
