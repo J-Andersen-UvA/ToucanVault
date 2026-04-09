@@ -26,8 +26,14 @@ To accomplish this we need to set up a few things:
 ![[TimedDataMonitor.png]]
 
 
-## Post recordings
-In post, we want to align the recorded data in the relevant software.
+## Exporting data out of the relevant software
+We want to keep the timecodes intact when exporting out of the relevant software.
 
 ### Shogun Post
 After importing the .mcp into Shogun Post, we need to keep in mind that the .mcp timecodes only work if the timecode method aligns with the recorded timecode method. So either check that by opening the .x2d file in post, looking at Shogun Live, remembering what you recorded with. Most likely you used 30hz (hsl command example `setFrameRate "30hz" 30.000000;`).
+
+### Unreal
+Make sure 
+
+## Aligning the recordings in Post
+In post, we want to align the recorded data in the relevant software.
