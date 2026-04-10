@@ -32,7 +32,7 @@ Prio post processing
 	- [x] Face editing
 		- Don't do it, too much effort
 		- Ask actors to exaggerate their facial expressions more
-	- [ ] Pose library
+	- [x] Pose library
 		- Go ahead and check it out, after other priorities
 	- [ ] Demo
 	- [x] Timecode syncing
