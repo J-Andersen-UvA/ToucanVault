@@ -19,13 +19,27 @@
 - [ ] [[Picker & rig]]
 - [x] Setup machines for post processing
 
+Prio post processing
+- BAK
+- ZinInNGT
+- HH
+
 - [ ] Meeting floris
 	- [x] Online?
-	- [ ] Rig + picker voorbeeld
-	- [ ] Fem avatar, haar, retargets
-	- [ ] Face editing
+	- [x] Rig + picker voorbeeld
+	- [x] Fem avatar, haar, retargets
+		- Zoek naar meer haar
+	- [x] Face editing
+		- Don't do it, too much effort
+		- Ask actors to exaggerate their facial expressions more
 	- [ ] Pose library
-	- [ ] Timecode syncing
+		- Go ahead and check it out, after other priorities
+	- [ ] Demo
+	- [x] Timecode syncing
+prio:
+- Fem avatar
+- Auto retarget fem avatar
+- New camera
 
 - [ ] Drive bijna vol
 	- [x] Kan ik nog harde schijf ruimte erbij?
