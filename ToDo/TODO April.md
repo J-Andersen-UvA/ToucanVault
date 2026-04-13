@@ -7,6 +7,7 @@
 	- [x] Vicon
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
+			- I dont see it in the glb, ask mark to add it to the converter (keep in mind differences unreal, shogun timecodes)
 		- [ ] Document how its captured (on bone curves, how does it differ from fbx)
 	- [x] iPhone
 	- [x] Documentation on syncing and processing
