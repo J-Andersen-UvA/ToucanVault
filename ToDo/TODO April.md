@@ -8,11 +8,11 @@
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
 			- I dont see it in the glb, ask mark to add it to the converter (keep in mind differences unreal, shogun timecodes)
-		- [ ] Document how its captured (on bone curves, how does it differ from fbx)
+		- [x] Document how its captured (on bone curves, how does it differ from fbx)
 	- [x] iPhone
 	- [x] Documentation on syncing and processing
 
-- [ ] Save Recorded Assets Unreal, test with disabled for cache
+- [x] Save Recorded Assets Unreal, test with disabled for cache
 - [x] Check sync tentacles met anims van unreal? Kunnen we nu csv en fbx makkelijk joinen?
 	- [x] Record timecode has to be on in the take-recorder
 	- [x] Document about timecoding workflow [[Timecoding workflow]]
@@ -25,7 +25,7 @@ Prio post processing
 - ZinInNGT
 - HH
 
-- [ ] Meeting floris
+- [x] Meeting floris
 	- [x] Online?
 	- [x] Rig + picker voorbeeld
 	- [x] Fem avatar, haar, retargets
@@ -35,7 +35,7 @@ Prio post processing
 		- Ask actors to exaggerate their facial expressions more
 	- [x] Pose library
 		- Go ahead and check it out, after other priorities
-	- [ ] Demo
+	- [x] Demo
 	- [x] Timecode syncing
 prio:
 - Fem avatar
