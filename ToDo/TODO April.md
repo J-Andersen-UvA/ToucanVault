@@ -3,6 +3,10 @@
 	- [x] Opmerking Pagina 4
 	- [x] Wat zeggen over functie?
 
+- [ ] Mail
+	- [ ] Fotos sturen
+	- [ ] 
+
 - [ ] Tentacles sync
 	- [x] Vicon
 	- [ ] Unreal?
