@@ -3,10 +3,6 @@
 	- [x] Opmerking Pagina 4
 	- [x] Wat zeggen over functie?
 
-- [ ] Mail
-	- [ ] Fotos sturen
-	- [ ] 
-
 - [ ] Tentacles sync
 	- [x] Vicon
 	- [ ] Unreal?
@@ -44,6 +40,8 @@ prio:
 - Fem avatar
 - Auto retarget fem avatar
 - New camera
+
+- [ ] Auto retarget Unreal Headless
 
 - [ ] Drive bijna vol
 	- [x] Kan ik nog harde schijf ruimte erbij?
