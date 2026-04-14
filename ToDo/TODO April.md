@@ -1,7 +1,8 @@
-- [x] Jos paper
+- [ ] Jos paper
 	- [x] Wat is er aan feedback op mijn sectie, en wat is er aangepast?
 	- [x] Opmerking Pagina 4
 	- [x] Wat zeggen over functie?
+	- [ ] Check paper again
 
 - [ ] Tentacles sync
 	- [x] Vicon
