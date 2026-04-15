@@ -44,7 +44,8 @@ prio:
 - New camera
 
 - [ ] Auto retarget Unreal Headless
-	- [ ] First with Head [[AutoRetarget]]
+	- [x] First with Head [[AutoRetarget]]
+	- [ ] Make headless version
 
 - [ ] Drive bijna vol
 	- [x] Kan ik nog harde schijf ruimte erbij?
