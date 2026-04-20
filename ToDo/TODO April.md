@@ -7,6 +7,9 @@ Week 3 goals:
 	- Timecodes
 - Headless auto retarget
 - Ask mark to embed timecodes
+- [Reallusion Content End User License Agreement](https://www.reallusion.com/Content/EULA/EULA.htm)
+
+
 Setup
 - [x] Move screen
 	- Otherwise HH will be very difficult for the signers
