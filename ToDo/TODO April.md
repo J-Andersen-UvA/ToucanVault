@@ -1,12 +1,16 @@
 Week 3 goals:
 - Are we fully prepared for BAK?
-- Headless auto retarget
+	- Move screen
+	- Recalibrate
+	- Test Pipeline
 - Install new camera?
 	- Timecodes
+- Headless auto retarget
+- Ask mark to embed timecodes
 Setup
 - [x] Move screen
 	- Otherwise HH will be very difficult for the signers
-- [ ]  Recalibrate all cameras
+- [x]  Recalibrate all cameras
 
 - [ ] Jos paper
 	- [x] Wat is er aan feedback op mijn sectie, en wat is er aangepast?
