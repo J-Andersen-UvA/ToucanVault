@@ -1,3 +1,12 @@
+Week 3 goals:
+- Are we fully prepared for BAK?
+- Headless auto retarget finish
+- Install new camera?
+	- Timecodes
+- Move screen
+	- Otherwise HH will be very difficult for the signers
+- Recalibrate all cameras
+
 - [ ] Jos paper
 	- [x] Wat is er aan feedback op mijn sectie, en wat is er aangepast?
 	- [x] Opmerking Pagina 4
@@ -8,7 +17,7 @@
 	- [x] Vicon
 	- [ ] Unreal?
 		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
-			- I dont see it in the glb, ask mark to add it to the converter (keep in mind differences unreal, shogun timecodes)
+			- I dont see it in the glb, <span class="blue">ask mark</span> to add it to the converter (keep in mind differences unreal, shogun timecodes)
 		- [x] Document how its captured (on bone curves, how does it differ from fbx)
 	- [x] iPhone
 	- [x] Documentation on syncing and processing
