@@ -9,7 +9,8 @@ Week 3 goals:
 	- [x] Receive anims
 	- [x] Retarget anims
 	- [x] Send back anims
-	- [ ] Deploy on github so we can use it in the server
+	- [x] Deploy on github so we can use it in the server
+	- [J-Andersen-UvA/AutoRetargetUnrealHeadless](https://github.com/J-Andersen-UvA/AutoRetargetUnrealHeadless)
 - Ask mark to embed timecodes in glb
 - [Reallusion Content End User License Agreement](https://www.reallusion.com/Content/EULA/EULA.htm)
 
@@ -41,6 +42,7 @@ Setup
 
 - [ ] [[Picker & rig]]
 - [x] Setup machines for post processing
+- [x] Introduce Jose to all the changes in the post processing pipeline
 
 Prio post processing
 - BAK
@@ -64,9 +66,9 @@ prio:
 - Auto retarget fem avatar
 - New camera
 
-- [ ] Auto retarget Unreal Headless
+- [x] Auto retarget Unreal Headless
 	- [x] First with Head [[AutoRetarget]]
-	- [ ] Make headless version
+	- [x] Make headless version
 
 - [ ] Drive bijna vol
 	- [x] Kan ik nog harde schijf ruimte erbij?
