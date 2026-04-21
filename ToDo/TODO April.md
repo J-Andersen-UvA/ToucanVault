@@ -1,12 +1,16 @@
 Week 3 goals:
 - Are we fully prepared for BAK?
-	- Move screen
-	- Recalibrate
-	- Test Pipeline
-- Install new camera?
-	- Timecodes
+	- [x] Move screen
+	- [x] Recalibrate
+	- [ ] Test Pipeline, with new camera
+- Install new camera
+	- [ ] Timecodes
 - Headless auto retarget
-- Ask mark to embed timecodes
+	- [x] Receive anims
+	- [x] Retarget anims
+	- [x] Send back anims
+	- [ ] Deploy on github so we can use it in the server
+- Ask mark to embed timecodes in glb
 - [Reallusion Content End User License Agreement](https://www.reallusion.com/Content/EULA/EULA.htm)
 
 
