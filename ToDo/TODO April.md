@@ -4,7 +4,9 @@ Week 3 goals:
 	- [x] Recalibrate
 	- [ ] Test Pipeline, with new camera
 - Install new camera
-	- [ ] Timecodes
+	- [x] Timecodes on camera
+	- [x] Tentacle House
+	- [ ] Check video recording where timecode lives
 - Headless auto retarget
 	- [x] Receive anims
 	- [x] Retarget anims
