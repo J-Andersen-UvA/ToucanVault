@@ -14,8 +14,13 @@ Week 3 goals:
 	- [x] Deploy on github so we can use it in the server
 	- [J-Andersen-UvA/AutoRetargetUnrealHeadless](https://github.com/J-Andersen-UvA/AutoRetargetUnrealHeadless)
 - Upgrade to shogun live 1.19
-- Ask mark to embed timecodes in glb and blendshapes
 - [Reallusion Content End User License Agreement](https://www.reallusion.com/Content/EULA/EULA.htm)
+- Update documentation
+- Unreal EUW for recording
+
+Week 4 goals:
+- Compile repos
+- Ask mark to embed timecodes in glb and blendshapes
 
 
 Setup
