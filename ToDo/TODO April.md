@@ -17,6 +17,8 @@ Week 3 goals:
 - [Reallusion Content End User License Agreement](https://www.reallusion.com/Content/EULA/EULA.htm)
 - Update documentation
 - Unreal EUW for recording
+- Vraag Floris of hij tentacles kan vinden?
+- Contract?
 
 Week 4 goals:
 - Compile repos
