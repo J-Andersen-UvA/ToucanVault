@@ -1,5 +1,7 @@
 #Blendshapes #UnrealEngine #UnrealPython 
 
+Is not functioning still.
+
 1. curve names in skeleton
 2. morph target names in skeletalmesh
 
