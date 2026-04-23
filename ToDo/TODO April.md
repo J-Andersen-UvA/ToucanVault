@@ -18,7 +18,7 @@ Week 3 goals:
 - Update documentation
 - Unreal EUW for recording
 - Vraag Floris of hij tentacles kan vinden?
-- Contract?
+- Contract? Bij humanities-lab, is een nieuwe afdeling van de faculteit geesteswetenshcappen. 
 
 Week 4 goals:
 - Compile repos
