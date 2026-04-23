@@ -22,7 +22,7 @@ Week 3 goals:
 
 Week 4 goals:
 - Compile repos
-- Ask mark to embed timecodes in glb and blendshapes
+- Ask mark to embed timecodes in glb and blendshapes (email him)
 
 
 Setup
