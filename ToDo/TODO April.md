@@ -20,6 +20,11 @@ Week 3 goals:
 - Vraag Floris of hij tentacles kan vinden?
 - Contract? Bij humanities-lab, is een nieuwe afdeling van de faculteit geesteswetenshcappen. 
 
+
+Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
+2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
+
+
 Week 4 goals:
 - Compile repos
 - Ask mark to embed timecodes in glb and blendshapes (email him)
