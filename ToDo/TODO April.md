@@ -20,10 +20,13 @@ Week 3 goals:
 - Vraag Floris of hij tentacles kan vinden?
 - Contract? Bij humanities-lab, is een nieuwe afdeling van de faculteit geesteswetenshcappen. 
 
-- [ ] Vraag in week 4:
-Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
-2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
-
+Week 4 goals:
+- [ ] Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
+	2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
+- [ ] Headshot 3
+- [ ] Pipeline Unreal UI (EUW)
+- [ ] Franchesca do - vr
+- [ ] Avatar hair
 
 Week 4 goals:
 - Compile repos
