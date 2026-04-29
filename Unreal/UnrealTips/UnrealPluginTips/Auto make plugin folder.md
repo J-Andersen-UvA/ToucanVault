@@ -1,4 +1,6 @@
 #UnrealEngine 
+Go to Edit>Plugins in the top right you can also automatically add plugin folder structures inside of an Unreal Project.
+
 ```bash
 # Get the current folder name
 $pluginName = Split-Path -Leaf (Get-Location)
