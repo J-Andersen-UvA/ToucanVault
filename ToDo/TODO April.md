@@ -24,9 +24,9 @@ Week 4 goals:
 - [ ] Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
 	2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
 - [ ] Headshot 3
-- [ ] Pipeline Unreal UI (EUW)
+- [x] Pipeline Unreal UI (EUW)
 - [ ] Franchesca do - vr
-- [ ] Avatar hair
+- [x] Avatar hair
 
 Week 4 goals:
 - Compile repos
