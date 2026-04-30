@@ -10,7 +10,7 @@ Week 3 goals:
 - Headless auto retarget
 	- [x] Receive anims
 	- [x] Retarget anims
-	- [x] Send back anims
+		- [x] Send back anims
 	- [x] Deploy on github so we can use it in the server
 	- [J-Andersen-UvA/AutoRetargetUnrealHeadless](https://github.com/J-Andersen-UvA/AutoRetargetUnrealHeadless)
 - Upgrade to shogun live 1.19
