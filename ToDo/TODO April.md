@@ -119,3 +119,13 @@ prio:
 
 - Lecture on user avatar interaction and llm's 
 - Assisted students on thesis
+
+
+
+Franchesca:
+- Cleanup pole
+- Set Cameras back
+Finishing data
+- FBX file with marker data and pole (everything).
+- Screen-recordings of flir in combination with mcp data
+- Canon camera data
