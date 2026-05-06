@@ -4,12 +4,16 @@ Prio post processing
 - ZinInNGT
 - HH
 ### BAK prep
-- [ ] Recalibrate cameras
-- [ ] Test Pipeline, with new camera
+- [x] Recalibrate cameras
+- [x] Test Pipeline, with new camera
 - [ ] Check video recording where timecode lives
 - [ ] Finish Digits
 	- [ ] Hair
-- [ ] Implement new camera into Pineapple pipeline
+- [x] Implement new camera into Pineapple pipeline
+	- [x] Service in pineapplediscovery
+	- [x] Service with zeroconf in blackmagic_control github
+	- [x] bat file for quick launch
+	- [x] Check if we can use signcollect for start and stop record now
 ### Documentation
 - [ ]  Compile repos
 	- [ ] Order based on functionality
