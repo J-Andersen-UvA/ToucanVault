@@ -13,19 +13,18 @@ Week 3 goals:
 		- [x] Send back anims
 	- [x] Deploy on github so we can use it in the server
 	- [J-Andersen-UvA/AutoRetargetUnrealHeadless](https://github.com/J-Andersen-UvA/AutoRetargetUnrealHeadless)
-- Upgrade to shogun live 1.19
+- [x] Upgrade to shogun live 1.19
 - [Reallusion Content End User License Agreement](https://www.reallusion.com/Content/EULA/EULA.htm)
-- Update documentation
-- Unreal EUW for recording
-- Vraag Floris of hij tentacles kan vinden?
+- [x]  Update documentation
+- [x] Unreal EUW for recording setup
 - Contract? Bij humanities-lab, is een nieuwe afdeling van de faculteit geesteswetenshcappen. 
 
 Week 4 goals:
 - [ ] Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
 	2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
-- [ ] Headshot 3
+- [x] Headshot 3
 - [x] Pipeline Unreal UI (EUW)
-- [ ] Franchesca do - vr
+- [x] Franchesca do - vr
 - [x] Avatar hair
 
 Week 4 goals:
@@ -44,10 +43,10 @@ Setup
 	- [x] Wat zeggen over functie?
 	- [ ] Check paper again
 
-- [ ] Tentacles sync
+- [x] Tentacles sync
 	- [x] Vicon
-	- [ ] Unreal?
-		- [ ] How's the data captured in Unreal, can we read it in after export and even as glb?
+	- [x] Unreal?
+		- [x] How's the data captured in Unreal, can we read it in after export and even as glb?
 			- I dont see it in the glb, <span class="blue">ask mark</span> to add it to the converter (keep in mind differences unreal, shogun timecodes)
 		- [x] Document how its captured (on bone curves, how does it differ from fbx)
 	- [x] iPhone
@@ -94,9 +93,9 @@ prio:
 	- [ ] Stuur drive voorbeeld/request naar floris
 
 - [ ] <span class="blue">Toevoegen van video data gesynced achter Unreal Rig?</span>
-- [ ] Mocap Pipeline
+- [x] Mocap Pipeline
 	- [x] Nieuwe pipeline MET tentacles
-	- [ ] pipeline documentatie rework
+	- [x] pipeline documentatie rework
 - [ ] Fix midi json loading
 - [ ] Take recorder sequence references? (minimalize cache use)
 	- [ ] Use set up sequence?
@@ -105,10 +104,10 @@ prio:
 	- [ ] Scene
 	- [ ] Use mocapped camera
 - [ ] Twistbones using rbf?
-- [ ] Unreal pose library hoe additive?
+- [x] Unreal pose library hoe additive? <span class="blue">Eerst terug naar base pose dan changes eroverheen</span>
 - [ ] Fem avatar implement before HH [[Fem Avatar]]
 	- [x] Same proportions as male avatar <span class="blue">Almost worked, still need retarget, but very minimal so only retarget is enough</span>
-	- [ ] Request more hair?
+	- [x] Request more hair?
 - [ ] Compile all repo's in a single file
 	- [ ] Order based on functionality
 	- [ ] Write single sentence for each repo to explain what it is

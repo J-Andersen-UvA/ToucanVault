@@ -25,5 +25,14 @@
       ],
       "key": "B"
     }
+  ],
+  "templater-obsidian:Templates/Underline.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "U"
+    }
   ]
 }

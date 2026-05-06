@@ -31,7 +31,8 @@
   "enabled_templates_hotkeys": [
     "Templates/Blue.md",
     "Templates/Green.md",
-    "Templates/Red.md"
+    "Templates/Red.md",
+    "Templates/Underline.md"
   ],
   "startup_templates": [],
   "intellisense_render": 1
