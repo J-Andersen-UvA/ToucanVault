@@ -4,6 +4,7 @@ Prio post processing
 - ZinInNGT
 - HH
 ### BAK prep
+- [ ] Recalibrate cameras
 - [ ] Test Pipeline, with new camera
 - [ ] Check video recording where timecode lives
 - [ ] Finish Digits
