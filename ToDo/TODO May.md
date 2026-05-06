@@ -14,6 +14,7 @@ Prio post processing
 	- [x] Service with zeroconf in blackmagic_control github
 	- [x] bat file for quick launch
 	- [x] Check if we can use signcollect for start and stop record now
+- [ ] Move old cameras back for whole body rec
 ### Documentation
 - [ ]  Compile repos
 	- [ ] Order based on functionality
