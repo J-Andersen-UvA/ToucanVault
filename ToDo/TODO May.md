@@ -9,6 +9,7 @@ Prio post processing
 - [ ] Check video recording where timecode lives
 - [ ] Finish Digits
 	- [ ] Hair
+- [ ] Implement new camera into Pineapple pipeline
 ### Documentation
 - [ ]  Compile repos
 	- [ ] Order based on functionality
