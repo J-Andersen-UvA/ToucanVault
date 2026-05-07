@@ -1,5 +1,5 @@
-Dutch signs platform? Join and ask if im needed.
-
+<span class="blue">Dutch signs platform meeting? Join and ask if im needed.
+</span>
 
 
 <u>Reminder notes:</u>
@@ -31,7 +31,7 @@ Prio post processing
 - [ ] Twistbones using rbf?
 - [x] Idpv next animation button, moet het next unprocessed button zijn
 - [x] Bake and save has to also save (make package not dirty)
-- [x] Bug send by galya? 
+- [x] Bug send by galya?
 ### Demo render
 - [ ] Cloth and hair physiics for demo?
 - [ ] Scene
