@@ -1,3 +1,7 @@
+Dutch signs platform? Join and ask if im needed.
+
+
+
 <u>Reminder notes:</u>
 Prio post processing
 - BAK
@@ -25,6 +29,9 @@ Prio post processing
 	- [ ] Pose lib
 - [ ] Toevoegen van video data gesynced achter Unreal Rig?
 - [ ] Twistbones using rbf?
+- [ ] Idpv next animation button, moet het next unprocessed button zijn
+- [ ] Bake and save has to also save (make package not dirty)
+- [ ] Bug send by galya? 
 ### Demo render
 - [ ] Cloth and hair physiics for demo?
 - [ ] Scene
