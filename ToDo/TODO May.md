@@ -29,9 +29,12 @@ Prio post processing
 	- [ ] Order based on functionality
 	- [ ] Write single sentence for each repo to explain what it is
 	- [ ] Add links to git of course
+- [ ] Timecodes in recording docu
+- [ ] Blackmagic camera in recording docu
 ### Post processing pipeline
 - [ ] [[Picker & rig]]
 	- [ ] Pose lib
+- [ ] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
 - [ ] Toevoegen van video data gesynced achter Unreal Rig?
 - [ ] Twistbones using rbf?
 - [x] Idpv next animation button, moet het next unprocessed button zijn
