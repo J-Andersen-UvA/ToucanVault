@@ -1,6 +1,11 @@
 <span class="blue">Dutch signs platform meeting? Join and ask if im needed.
 </span>
 
+BAK Todo:
+Met Jose beginnen aan BAK. Goed idee ochtend opnemen middag post processen. Focus moet liggen op de opname goed hebben voordat we besluiten om te post processen.
+Optimale retarget schrijven voor Jose.
+
+
 
 <u>Reminder notes:</u>
 Prio post processing
@@ -18,7 +23,7 @@ Prio post processing
 	- [x] Service with zeroconf in blackmagic_control github
 	- [x] bat file for quick launch
 	- [x] Check if we can use signcollect for start and stop record now
-- [ ] Move old cameras back for whole body rec
+- [x] Move old cameras back for whole body rec
 ### Documentation
 - [ ]  Compile repos
 	- [ ] Order based on functionality
