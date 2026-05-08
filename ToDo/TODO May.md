@@ -24,6 +24,7 @@ Prio post processing
 	- [x] bat file for quick launch
 	- [x] Check if we can use signcollect for start and stop record now
 - [x] Move old cameras back for whole body rec
+- [ ] Optimale retarget naar Jose
 ### Documentation
 - [ ]  Compile repos
 	- [ ] Order based on functionality
@@ -35,6 +36,7 @@ Prio post processing
 - [ ] [[Picker & rig]]
 	- [ ] Pose lib
 - [ ] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
+- [ ] <span class="red">CSV Writer schrijft naar verkeerde loca, alleen de base name, ook de metadata</span>
 - [ ] Toevoegen van video data gesynced achter Unreal Rig?
 - [ ] Twistbones using rbf?
 - [x] Idpv next animation button, moet het next unprocessed button zijn
