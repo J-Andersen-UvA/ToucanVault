@@ -40,6 +40,8 @@ Prio post processing
 - [x] Idpv next animation button, moet het next unprocessed button zijn
 - [x] Bake and save has to also save (make package not dirty)
 - [x] Bug send by galya?
+- [ ] short-cuts voor picker functionaliteiten?
+- [ ] rekey mss beter als copy paste prev key knop?
 ### Demo render
 - [ ] Cloth and hair physiics for demo?
 - [ ] Scene
