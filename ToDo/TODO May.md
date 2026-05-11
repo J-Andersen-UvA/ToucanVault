@@ -2,7 +2,7 @@
 Todo Today:
 - [ ] Paper / git
 - [ ] CSV bug
-- [ ] Send avatar and tool to anders
+- [x] Send avatar and tool to anders
 - [ ] Send request about tool to mark
 - [ ] Test camera video re-coding pipeline.
 
