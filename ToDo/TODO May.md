@@ -1,25 +1,19 @@
-
-Todo Today:
+Todo 5/12:
 - [ ] Paper / git
-- [x] CSV bug
-- [x] Send avatar and tool to anders
-- [x] Send request about tool to mark <span class="red">Instead i added a script that makes the sidecar out of fbx instead of csv</span>
-- [ ] Test camera video re-coding pipeline.
-
-BAK Todo:
-Met Jose beginnen aan BAK. Goed idee ochtend opnemen middag post processen. Focus moet liggen op de opname goed hebben voordat we besluiten om te post processen.
-Optimale retarget schrijven voor Jose.
-
 
 <u>Reminder notes:</u>
 Prio post processing
 - BAK
 - ZinInNGT
 - HH
-### BAK prep
+
+### Recording pipeline / Bak prep
+- [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
+- [x] CSV recording location bug
+- [x] Test camera video re-coding pipeline.
 - [x] Recalibrate cameras
 - [x] Test Pipeline, with new camera
-- [ ] Check video recording where timecode lives
+- [x] Check video recording where timecode lives
 - [ ] Finish Digits
 	- [ ] Hair
 - [x] Implement new camera into Pineapple pipeline
@@ -34,8 +28,8 @@ Prio post processing
 	- [ ] Order based on functionality
 	- [ ] Write single sentence for each repo to explain what it is
 	- [ ] Add links to git of course
-- [ ] Timecodes in recording docu
-- [ ] Blackmagic camera in recording docu
+- [x] Timecodes in recording docu
+- [x] Blackmagic camera in recording docu
 ### Post processing pipeline
 - [ ] [[Picker & rig]]
 	- [ ] Pose lib
@@ -57,4 +51,5 @@ Prio post processing
 	2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
 - [ ] Nog nieuwe drive nodig?
 - [ ] Ask mark to embed timecodes in glb and blendshapes (email him)
-
+- [x] Send avatar and tool to anders
+- [x] Send request about tool to mark <span class="red">Instead i added a script that makes the sidecar out of fbx instead of csv</span>
