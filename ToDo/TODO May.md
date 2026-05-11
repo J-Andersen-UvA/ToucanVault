@@ -4,6 +4,7 @@ Todo Today:
 - [ ] CSV bug
 - [ ] Send avatar and tool to anders
 - [ ] Send request about tool to mark
+- [ ] Test camera video re-coding pipeline.
 
 BAK Todo:
 Met Jose beginnen aan BAK. Goed idee ochtend opnemen middag post processen. Focus moet liggen op de opname goed hebben voordat we besluiten om te post processen.
