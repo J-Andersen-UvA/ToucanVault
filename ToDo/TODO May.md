@@ -1,10 +1,13 @@
-<span class="blue">Dutch signs platform meeting? Join and ask if im needed.
-</span>
+
+Todo Today:
+- [ ] Paper / git
+- [ ] CSV bug
+- [ ] Send avatar and tool to anders
+- [ ] Send request about tool to mark
 
 BAK Todo:
 Met Jose beginnen aan BAK. Goed idee ochtend opnemen middag post processen. Focus moet liggen op de opname goed hebben voordat we besluiten om te post processen.
 Optimale retarget schrijven voor Jose.
-
 
 
 <u>Reminder notes:</u>
