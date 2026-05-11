@@ -3,7 +3,7 @@ Todo Today:
 - [ ] Paper / git
 - [ ] CSV bug
 - [x] Send avatar and tool to anders
-- [ ] Send request about tool to mark
+- [x] Send request about tool to mark <span class="red">Instead i added a script that makes the sidecar out of fbx instead of csv</span>
 - [ ] Test camera video re-coding pipeline.
 
 BAK Todo:
