@@ -1,6 +1,3 @@
-Todo 5/12:
-- [ ] Paper / git
-
 <u>Reminder notes:</u>
 Prio post processing
 - BAK
@@ -53,3 +50,4 @@ Prio post processing
 - [ ] Ask mark to embed timecodes in glb and blendshapes (email him)
 - [x] Send avatar and tool to anders
 - [x] Send request about tool to mark <span class="red">Instead i added a script that makes the sidecar out of fbx instead of csv</span>
+- [x] Paper / git (A Scalable Data Pipeline for ASL Media Processing and Annotation)
