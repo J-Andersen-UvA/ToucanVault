@@ -4,6 +4,8 @@ Prio post processing
 - ZinInNGT
 - HH
 
+<u>13/5/2026</u>
+- [ ] Ask Floris about time management and James project
 ### Recording pipeline / Bak prep
 - [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
 - [x] CSV recording location bug
