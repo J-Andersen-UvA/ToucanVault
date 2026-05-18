@@ -7,8 +7,11 @@ Prio post processing
 <u>13/5/2026</u>
 - [x] Ask Floris about time management and James project
 
-<u>18/05/2026</u>
+<u>18/05 - 19/05</u>
 - [ ] Fix replay anim to not leak
+- [ ] Fix Polo Color and mesh hide in pants
+- [ ] Digits hair Like:
+![[Pasted image 20260518160041.png|400]]![[Pasted image 20260518160126.png|400]]
 ### Recording pipeline / Bak prep
 - [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
 - [x] CSV recording location bug
