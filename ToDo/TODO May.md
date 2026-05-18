@@ -5,7 +5,10 @@ Prio post processing
 - HH
 
 <u>13/5/2026</u>
-- [ ] Ask Floris about time management and James project
+- [x] Ask Floris about time management and James project
+
+<u>18/05/2026</u>
+- [ ] Fix replay anim to not leak
 ### Recording pipeline / Bak prep
 - [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
 - [x] CSV recording location bug
