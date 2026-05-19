@@ -8,7 +8,7 @@ Prio post processing
 - [x] Ask Floris about time management and James project
 
 <u>18/05 - 19/05</u>
-- [ ] Fix replay anim to not leak
+- [x] Fix replay anim to not leak (moved to animbp, still leaks but way less. Reported bug by unreal engine about looping animations.)
 - [ ] Fix Polo Color and mesh hide in pants
 - [ ] Digits hair Like:
 ![[Pasted image 20260518160041.png|400]]![[Pasted image 20260518160126.png|400]]
