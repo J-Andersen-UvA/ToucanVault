@@ -7,4 +7,19 @@ Implementation order:
 - [ ] Pilot test interaction flow and VR comfort
 
 
-- remove starter content?
+
+<u>20/05/2026</u>
+- [x] Clean up project
+- [ ] VR
+	- [ ] OpenXR template
+	- [ ] Grabables
+- [ ] Animation placeholders
+	- [ ] Download
+	- [ ] Implement
+- [ ] Adding my favorite plugins
+	- [x] ToucanCCPicker
+	- [ ] CC support
+	- [x] Sequencer abstraction
+	- [x] ARKitCurveMapper
+	- [x] UnrealMidi
+## Grabables
