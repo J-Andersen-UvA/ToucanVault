@@ -1,5 +1,5 @@
 Implementation order:
-- [ ] Implement VR in Unreal Engine
+- [x] Implement VR in Unreal Engine
 - [ ] Implement environment + selectable conditions
 - [ ] Implement game flow / experiment setup tools
 - [ ] Implement data logging
@@ -10,16 +10,19 @@ Implementation order:
 
 <u>20/05/2026</u>
 - [x] Clean up project
-- [ ] VR
-	- [ ] OpenXR template
-	- [ ] Grabables
+- [x] VR
+	- [x] OpenXR template
+	- [x] Grabables
 - [ ] Animation placeholders
-	- [ ] Download
+	- [x] Download
 	- [ ] Implement
 - [ ] Adding my favorite plugins
 	- [x] ToucanCCPicker
-	- [ ] CC support
+	- [x] CC support
 	- [x] Sequencer abstraction
 	- [x] ARKitCurveMapper
 	- [x] UnrealMidi
+- [ ] CC avatar
+	- [ ] James
+- [ ] Improve scene
 ## Grabables
