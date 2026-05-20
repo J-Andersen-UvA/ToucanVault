@@ -13,9 +13,11 @@ Implementation order:
 - [x] VR
 	- [x] OpenXR template
 	- [x] Grabables
-- [ ] Animation placeholders
-	- [x] Download
-	- [ ] Implement
+- [ ] Avatar
+	- [x] Statemachine
+		- [x] Animation placeholders
+			- [x] Download
+			- [x] Implement
 - [ ] Adding my favorite plugins
 	- [x] ToucanCCPicker
 	- [x] CC support
@@ -24,5 +26,10 @@ Implementation order:
 	- [x] UnrealMidi
 - [ ] CC avatar
 	- [ ] James
-- [ ] Improve scene
+	- [x] Palmer
+- [x] Improve scene
+	- [x] More performance
+	- [x] Smaller scene
+	- [x] Baked lighting
+- [ ] Debug for VR development
 ## Grabables
