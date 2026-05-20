@@ -31,5 +31,5 @@ Implementation order:
 	- [x] More performance
 	- [x] Smaller scene
 	- [x] Baked lighting
-- [ ] Debug for VR development
+- [x] Debug for VR development
 ## Grabables
