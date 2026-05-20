@@ -6,3 +6,5 @@ Implementation order:
 - [ ] Implement avatars + animation pipeline
 - [ ] Pilot test interaction flow and VR comfort
 
+
+- remove starter content?
