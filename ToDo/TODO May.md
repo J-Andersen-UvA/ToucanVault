@@ -37,10 +37,10 @@ Prio post processing
 - [x] Move old cameras back for whole body rec
 - [ ] Optimale retarget naar Jose
 ### Documentation
-- [ ]  Compile repos
-	- [ ] Order based on functionality
-	- [ ] Write single sentence for each repo to explain what it is
-	- [ ] Add links to git of course
+- [x]  Compile repos
+	- [x] Order based on functionality
+	- [x] Write single sentence for each repo to explain what it is
+	- [x] Add links to git of course
 - [x] Timecodes in recording docu
 - [x] Blackmagic camera in recording docu
 ### Post processing pipeline
