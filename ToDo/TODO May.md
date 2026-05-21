@@ -9,7 +9,16 @@ Prio post processing
 
 <u>18/05 - 19/05</u>
 - [x] Fix replay anim to not leak (moved to animbp, still leaks but way less. Reported bug by unreal engine about looping animations.)
-- [ ] Fix Polo Color and mesh hide in pants
+- [x] Fix Polo Color and mesh hide in pants
+
+<u>21/05 - 22/05</u>
+- [ ] Recording session zero
+	- [ ] Camera encoding okay?
+	- [ ] Make nice retarget
+	- [ ] Test data in Unreal PostProcessing pipeline
+		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
+		- [ ] Implement loading of PPVideo
+	- [ ] 
 - [ ] Digits hair Like:
 ![[Pasted image 20260518160041.png|400]]![[Pasted image 20260518160126.png|400]]
 ### Recording pipeline / Bak prep
