@@ -18,8 +18,8 @@ Prio post processing
 	- [ ] Test data in Unreal PostProcessing pipeline
 		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
 		- [ ] Implement loading of PPVideo
-- [x] Digits hair Like:
-![[Pasted image 20260518160041.png|400]]![[Pasted image 20260518160126.png|400]]
+- [x] Digits hair
+- [ ] Docu compile
 ### Recording pipeline / Bak prep
 - [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
 - [x] CSV recording location bug
