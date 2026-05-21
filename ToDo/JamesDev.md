@@ -8,17 +8,17 @@ Implementation order:
 
 
 
-<u>20/05/2026</u>
+<u>20/05</u>
 - [x] Clean up project
 - [x] VR
 	- [x] OpenXR template
 	- [x] Grabables
-- [ ] Avatar
+- [x] Avatar state and animation machines
 	- [x] Statemachine
 		- [x] Animation placeholders
 			- [x] Download
 			- [x] Implement
-- [ ] Adding my favorite plugins
+- [x] Adding my favorite plugins
 	- [x] ToucanCCPicker
 	- [x] CC support
 	- [x] Sequencer abstraction
@@ -26,10 +26,13 @@ Implementation order:
 	- [x] UnrealMidi
 - [ ] CC avatar
 	- [ ] James
+	- [ ] Jari
 	- [x] Palmer
 - [x] Improve scene
 	- [x] More performance
 	- [x] Smaller scene
 	- [x] Baked lighting
 - [x] Debug for VR development
-## Grabables
+
+<u>21/05</u>
+- [ ] Github

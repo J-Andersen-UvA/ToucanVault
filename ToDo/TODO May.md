@@ -18,8 +18,7 @@ Prio post processing
 	- [ ] Test data in Unreal PostProcessing pipeline
 		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
 		- [ ] Implement loading of PPVideo
-	- [ ] 
-- [ ] Digits hair Like:
+- [x] Digits hair Like:
 ![[Pasted image 20260518160041.png|400]]![[Pasted image 20260518160126.png|400]]
 ### Recording pipeline / Bak prep
 - [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
@@ -28,8 +27,8 @@ Prio post processing
 - [x] Recalibrate cameras
 - [x] Test Pipeline, with new camera
 - [x] Check video recording where timecode lives
-- [ ] Finish Digits
-	- [ ] Hair
+- [x] Finish Digits
+	- [x] Hair
 - [x] Implement new camera into Pineapple pipeline
 	- [x] Service in pineapplediscovery
 	- [x] Service with zeroconf in blackmagic_control github
@@ -48,7 +47,7 @@ Prio post processing
 - [ ] [[Picker & rig]]
 	- [ ] Pose lib
 - [ ] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
-- [ ] <span class="red">CSV Writer schrijft naar verkeerde loca, alleen de base name, ook de metadata</span>
+- [x] <span class="red">CSV Writer schrijft naar verkeerde loca, alleen de base name, ook de metadata</span>
 - [ ] Toevoegen van video data gesynced achter Unreal Rig?
 - [ ] Twistbones using rbf?
 - [x] Idpv next animation button, moet het next unprocessed button zijn
