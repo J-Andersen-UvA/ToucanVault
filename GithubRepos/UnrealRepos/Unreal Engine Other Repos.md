@@ -18,7 +18,10 @@ Plugin that adds the ability to read and work with the Azure Kinect library. You
 Morphs were such a pain when we couldnt rename them:
 [J-Andersen-UvA/curveMorphReplacer](https://github.com/J-Andersen-UvA/curveMorphReplacer)
 [J-Andersen-UvA/UnrealMorphTargetRenamer](https://github.com/J-Andersen-UvA/UnrealMorphTargetRenamer)
-AutoRetargetUE5 has been superseded:
+These retarget repos have been superseded:
 [J-Andersen-UvA/AutoRetargetUE5: Automatically retarget ReadyPlayerMe avatars using python. Initialize-able with de-headed UE server in order to fetch retargets for other projects.](https://github.com/J-Andersen-UvA/AutoRetargetUE5)
+[J-Andersen-UvA/UERetargetServer: An Unreal Engine based headless retargeting server.](https://github.com/J-Andersen-UvA/UERetargetServer)
 Old project made for LiveLink:
 [J-Andersen-UvA/SignBankLiveLink](https://github.com/J-Andersen-UvA/SignBankLiveLink)
+Controlling the sequencer through python:
+[J-Andersen-UvA/UnrealSequenceController](https://github.com/J-Andersen-UvA/UnrealSequenceController)

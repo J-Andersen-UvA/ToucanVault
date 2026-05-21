@@ -1,0 +1,2 @@
+[J-Andersen-UvA/shogunPostFuncs](https://github.com/J-Andersen-UvA/shogunPostFuncs)
+I created this project because I dislike dealing with functions, keeping track of variables, and the documentation of the Blade scripting language in Shogun Post. To simplify my workflow, I developed a way to handle these tasks using Python. Directly returning data from Blade to Python was not possible, so I opted to use a temporary file to facilitate the process.
