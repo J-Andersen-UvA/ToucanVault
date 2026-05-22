@@ -1,3 +1,8 @@
+- [ ] Github
+- [ ] RemoveBackWall?
+
+
+
 Implementation order:
 - [x] Implement VR in Unreal Engine
 - [ ] Implement environment + selectable conditions
@@ -25,8 +30,8 @@ Implementation order:
 	- [x] ARKitCurveMapper
 	- [x] UnrealMidi
 - [ ] CC avatar
-	- [ ] James
-	- [ ] Jari
+	- [x] James
+	- [x] Jari
 	- [x] Palmer
 - [x] Improve scene
 	- [x] More performance
@@ -34,5 +39,5 @@ Implementation order:
 	- [x] Baked lighting
 - [x] Debug for VR development
 
-<u>21/05</u>
-- [ ] Github
+<u>22/05</u>
+- [ ] CrowdLevel
