@@ -14,14 +14,18 @@ Prio post processing
 <u>21/05 - 22/05</u>
 - [ ] Recording session zero
 	- [ ] Camera encoding okay?
-	- [ ] Make nice retarget
+	- [x] Make nice retarget
 	- [ ] Test data in Unreal PostProcessing pipeline
 		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
 		- [ ] Implement loading of PPVideo
 - [x] Digits hair
-- [ ] Docu compile
+- [x] Docu compile
+
+<u>26/05</u>
+- [ ] PalmerPolo in recording pipeline?
+- [ ] PalmerPolo in post processing pipeline?
 ### Recording pipeline / Bak prep
-- [ ] Check for memory issues Unreal Engine, how long can we record without having to restart
+- [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
 - [x] Test camera video re-coding pipeline.
 - [x] Recalibrate cameras
@@ -35,7 +39,7 @@ Prio post processing
 	- [x] bat file for quick launch
 	- [x] Check if we can use signcollect for start and stop record now
 - [x] Move old cameras back for whole body rec
-- [ ] Optimale retarget naar Jose
+- [x] Optimale retarget naar Jose
 ### Documentation
 - [x]  Compile repos
 	- [x] Order based on functionality
