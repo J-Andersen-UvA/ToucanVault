@@ -6,6 +6,9 @@
 Implementation order:
 - [x] Implement VR in Unreal Engine
 - [ ] Implement environment + selectable conditions
+	- [x] Avatars
+	- [x] Start Sounds
+	- [x] Items to grab
 - [ ] Implement game flow / experiment setup tools
 - [ ] Implement data logging
 - [ ] Implement avatars + animation pipeline
