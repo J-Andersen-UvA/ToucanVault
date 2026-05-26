@@ -1,5 +1,9 @@
 #Reallusion 
 
+## Common issues
+<u>The avatar is not moving through my setup?</u>
+The issue is often that it needs its <span class="blue">skeleton assigned in the post processing blueprint</span>
+
 ## Twistbones
 ^7e9cc1
 The twistbone is triggered through the post process blueprint, it reacts to the handbone rotating.

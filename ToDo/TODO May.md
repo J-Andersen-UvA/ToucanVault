@@ -16,7 +16,8 @@
 - [x] Docu compile
 
 <u>26/05</u>
-- [ ] PalmerPolo in recording pipeline?
+- [x] PalmerPolo in recording pipeline?
+	- The issue of getting him to work in the old pipeline is that it needed its <span class="blue">skeleton assigned in the post processing blueprint</span>
 - [x] PalmerPolo in post processing pipeline?
 	Doesnt really take anything to get it to work thanks to the modular code :)
 	- Add PalmerPolo to project
