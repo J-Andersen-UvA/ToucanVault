@@ -18,10 +18,10 @@
 <u>26/05</u>
 - [ ] PalmerPolo in recording pipeline?
 - [ ] PalmerPolo in post processing pipeline?
-- [ ] Implement loading of PPVideo
-	- [ ] Align anim to timecode
-	- [ ] Button to load video and align to timecode
-	- [ ] Configuration path to set video location (fuzzy match auto load)
+- [x] Implement loading of PPVideo
+	- [x] Align anim to timecode
+	- [x] Button to load video and align to timecode
+	- [x] Configuration path to set video location (fuzzy match auto load)
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
