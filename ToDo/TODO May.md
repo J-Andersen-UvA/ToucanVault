@@ -18,6 +18,7 @@
 <u>26/05</u>
 - [x] PalmerPolo in recording pipeline?
 	- The issue of getting him to work in the old pipeline is that it needed its <span class="blue">skeleton assigned in the post processing blueprint</span>
+	- As for the replayActor, the issue was that the materials werent properly assigend (prob a bug in Unreal when you switch skelmesh). I solved it simply by adding a new replayActor to the scene and using that one.
 - [x] PalmerPolo in post processing pipeline?
 	Doesnt really take anything to get it to work thanks to the modular code :)
 	- Add PalmerPolo to project
@@ -29,6 +30,7 @@
 
 <u>27/05</u>
 - [ ] Tongue control in PP
+- [ ] JamesDev
 
 <u>28/05</u>
 - [ ] Update Plugins in Galya nad Jose PP
