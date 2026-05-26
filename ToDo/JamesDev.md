@@ -8,6 +8,7 @@ Implementation order:
 - [ ] Implement environment + selectable conditions
 	- [x] Avatars
 	- [x] Start Sounds
+	- [ ] Test locational audio
 	- [x] Items to grab
 - [ ] Implement game flow / experiment setup tools
 - [ ] Implement data logging
