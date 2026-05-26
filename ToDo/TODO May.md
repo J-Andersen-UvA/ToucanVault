@@ -1,9 +1,3 @@
-<u>Reminder notes:</u>
-Prio post processing
-- BAK
-- ZinInNGT
-- HH
-
 <u>13/5/2026</u>
 - [x] Ask Floris about time management and James project
 
@@ -24,6 +18,7 @@ Prio post processing
 <u>26/05</u>
 - [ ] PalmerPolo in recording pipeline?
 - [ ] PalmerPolo in post processing pipeline?
+- [ ] Implement loading of PPVideo
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
