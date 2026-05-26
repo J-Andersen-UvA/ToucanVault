@@ -8,7 +8,7 @@ Implementation order:
 - [ ] Implement environment + selectable conditions
 	- [x] Avatars
 	- [x] Start Sounds
-	- [ ] Test locational audio
+	- [x] Test locational audio
 	- [x] Items to grab
 - [ ] Implement game flow / experiment setup tools
 - [ ] Implement data logging
@@ -45,3 +45,6 @@ Implementation order:
 
 <u>22/05</u>
 - [x] CrowdLevel
+
+<u>26/05</u>
+- [x] Patch locational audio from config
