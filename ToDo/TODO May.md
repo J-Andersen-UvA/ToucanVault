@@ -11,17 +11,28 @@
 	- [x] Make nice retarget
 	- [ ] Test data in Unreal PostProcessing pipeline
 		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
-		- [ ] Implement loading of PPVideo
+		- [x] Implement loading of PPVideo
 - [x] Digits hair
 - [x] Docu compile
 
 <u>26/05</u>
 - [ ] PalmerPolo in recording pipeline?
-- [ ] PalmerPolo in post processing pipeline?
+- [x] PalmerPolo in post processing pipeline?
+	Doesnt really take anything to get it to work thanks to the modular code :)
+	- Add PalmerPolo to project
+	- In sessionSequencer Configuration set PalmerPolo
 - [x] Implement loading of PPVideo
 	- [x] Align anim to timecode
 	- [x] Button to load video and align to timecode
 	- [x] Configuration path to set video location (fuzzy match auto load)
+
+<u>27/05</u>
+- [ ] Tongue control in PP
+
+<u>28/05</u>
+- [ ] Update Plugins in Galya nad Jose PP
+	- [ ] PalmerPolo
+	- [ ] 
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
