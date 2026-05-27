@@ -29,14 +29,17 @@
 	- [x] Configuration path to set video location (fuzzy match auto load)
 
 <u>27/05</u>
-- [ ] Tongue control in PP
-- [ ] Test audio driven lip sync?
-- [ ] JamesDev?
+- Tongue control in PP
+	- [x] Setup EUW
+	- [x] Tongue XY EUW
 
 <u>28/05</u>
 - [ ] Update Plugins in Galya and Jose PP
 	- [ ] PalmerPolo
 - [ ] Fix lighting of Blackmagic camera
+- [ ] Test audio driven lip sync?
+- [ ] JamesDev?
+
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
