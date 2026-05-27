@@ -48,3 +48,8 @@ Implementation order:
 
 <u>26/05</u>
 - [x] Patch locational audio from config
+
+
+
+### Internet Sources
+[Lip syncing in realtime from audio - Development / Programming & Scripting - Epic Developer Community Forums](https://forums.unrealengine.com/t/lip-syncing-in-realtime-from-audio/1857173/15)

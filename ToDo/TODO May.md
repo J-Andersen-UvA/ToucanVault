@@ -30,12 +30,13 @@
 
 <u>27/05</u>
 - [ ] Tongue control in PP
-- [ ] JamesDev
+- [ ] Test audio driven lip sync?
+- [ ] JamesDev?
 
 <u>28/05</u>
-- [ ] Update Plugins in Galya nad Jose PP
+- [ ] Update Plugins in Galya and Jose PP
 	- [ ] PalmerPolo
-	- [ ] 
+- [ ] Fix lighting of Blackmagic camera
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
