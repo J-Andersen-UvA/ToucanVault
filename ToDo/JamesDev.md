@@ -1,6 +1,24 @@
 - [ ] Github
-- [ ] RemoveBackWall?
+- [ ] RemoveBackWall? Kitchen?
 
+<u>Priority</u>
+- Game loop with tablet
+
+<u>Logging</u>
+- Logging hand position (30times a second minimal)
+- Gaze hitboxes? Head, chest, environment?
+
+<u>Dialogue Approach</u>
+- Avatar gives a question
+- Player responds, wizard of oz the progression through tablet
+
+- [ ] Tablet websocket website progression, Unreal communication
+- Log speech onset offset (through tablet?) (also through audio ingame)
+
+<u>What will change in scene</u>
+- Visual distraction level
+- Noise level
+- What the avatar is doing
 
 
 Implementation order:
