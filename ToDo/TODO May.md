@@ -33,7 +33,7 @@
 	- [x] Setup EUW
 	- [x] Tongue XY EUW
 
-<u>28/05</u>
+<u>28/05 - 29/05</u>
 - [ ] Update Plugins in Galya and Jose PP
 	- [ ] PalmerPolo
 - [ ] Fix lighting of Blackmagic camera
