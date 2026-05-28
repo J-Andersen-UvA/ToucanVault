@@ -12,6 +12,8 @@ Implementation order:
 	- [x] Items to grab
 - [ ] Implement game flow / experiment setup tools
 - [ ] Implement data logging
+	- [ ] Working with csv
+	- [ ] Stopwatch
 - [ ] Implement avatars + animation pipeline
 - [ ] Pilot test interaction flow and VR comfort
 
