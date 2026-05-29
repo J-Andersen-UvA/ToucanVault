@@ -40,6 +40,7 @@
 - [ ] Test audio driven lip sync?
 - [ ] JamesDev?
 - [x] Tongue Control
+- Weken voor vakantie proberen meer op te nemen zodat Jose kan post processen idpv opnemen
 
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
