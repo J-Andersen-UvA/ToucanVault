@@ -36,12 +36,14 @@
 <u>28/05 - 29/05</u>
 - [ ] Update Plugins in Galya and Jose PP
 	- [ ] PalmerPolo
-- [ ] Fix lighting of Blackmagic camera
+- [x] Fix lighting of Blackmagic camera
 - [ ] Test audio driven lip sync?
 - [ ] JamesDev?
 - [x] Tongue Control
 - Weken voor vakantie proberen meer op te nemen zodat Jose kan post processen idpv opnemen
 
+<u>01/06</u>
+- [ ] Fix fetching of rig in body picker (make it like the face picker)
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
 - [x] CSV recording location bug
