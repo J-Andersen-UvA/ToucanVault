@@ -39,7 +39,7 @@
 - [ ] Fix lighting of Blackmagic camera
 - [ ] Test audio driven lip sync?
 - [ ] JamesDev?
-- Tongue Control
+- [x] Tongue Control
 
 ### Recording pipeline / Bak prep
 - [x] Check for memory issues Unreal Engine, how long can we record without having to restart <span class="blue">Much less of an issue as per tests on 22 may</span>
