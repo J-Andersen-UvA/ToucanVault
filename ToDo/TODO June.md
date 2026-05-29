@@ -78,11 +78,17 @@ Betere graphics babylonjs?
 - [ ] Logging info JamesDev
 
 <u>06/19</u>
-- [ ] Opnames
+- [x] Opnames
 *Meeting*
-- [ ] Nieuwe paper idee? Face post processing vergelijken met niet, en met niks aan gezichtsexpresies
-- [ ] Contract?
-- [ ] Headshot avatar potential en issues
+- [x] Nieuwe paper idee? Face post processing vergelijken met niet, en met niks aan gezichtsexpresies
+- [x] Contract?
+- UvA nu in gesprek met pdssh over voorwaarden (daarna kan pas contract) In Juni moet dit process afgerond zijn. (totaal 0.8fte voor het hele lab technisch deel)
+- Humanities lab, voorstel is dat ze 1.2fte erbij zetten.
+- [x] Headshot avatar potential en issues
+- [x] Justin update
+- [x] Jos
+
+- [ ] Stylized avatar in CC? Voor signlab. Kopen?
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
