@@ -7,9 +7,9 @@
 
 <u>21/05 - 22/05</u>
 - [ ] Recording session zero
-	- [ ] Camera encoding okay?
+	- [x] Camera encoding okay?
 	- [x] Make nice retarget
-	- [ ] Test data in Unreal PostProcessing pipeline
+	- [x] Test data in Unreal PostProcessing pipeline
 		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
 		- [x] Implement loading of PPVideo
 - [x] Digits hair
