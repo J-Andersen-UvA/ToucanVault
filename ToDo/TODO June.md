@@ -1,5 +1,11 @@
 - Weken voor vakantie proberen meer op te nemen zodat Jose kan post processen idpv opnemen
 
+<u>06/01</u>
+- JamesDev
+- Nieuwe avatar in Babylonjs
+- Blendshapes in Babylonjs
+- Achtergrond kleur
+
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
@@ -12,7 +18,6 @@
 
 - [ ] Viseme
 - [ ] Test audio driven lip sync?
-- [ ] JamesDev?
 ### Demo render
 - [ ] Cloth and hair physiics for demo?
 - [ ] Scene
