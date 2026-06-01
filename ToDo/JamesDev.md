@@ -2,8 +2,11 @@
 - [ ] RemoveBackWall? Kitchen?
 
 ### <u>Tablet game loop</u>
-Run with: `-RCWebControlEnable -RCWebInterfaceEnable`
-default: `ws://127.0.0.1:30020` and to reach pc ofc `ws://<pc_ip>:30020`
+We can go the remote control route:
+	Run with: `-RCWebControlEnable -RCWebInterfaceEnable`
+	default: `ws://127.0.0.1:30020` and to reach pc ofc `ws://<pc_ip>:30020`
+Or just use build in websocket support (might be easier?)
+
 
 <u>Logging</u>
 - Logging hand position (30times a second minimal)
