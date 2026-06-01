@@ -6,11 +6,11 @@
 - [x] Fix Polo Color and mesh hide in pants
 
 <u>21/05 - 22/05</u>
-- [ ] Recording session zero
+- [x] Recording session zero
 	- [x] Camera encoding okay?
 	- [x] Make nice retarget
 	- [x] Test data in Unreal PostProcessing pipeline
-		- [ ] Ask gomer to make a fetch blackmagic video button on PPWebsite
+		- [x] Ask gomer to make a fetch blackmagic video button on PPWebsite
 		- [x] Implement loading of PPVideo
 - [x] Digits hair
 - [x] Docu compile
@@ -72,7 +72,7 @@
 	- [ ] Pose lib
 - [ ] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
 - [x] <span class="red">CSV Writer schrijft naar verkeerde loca, alleen de base name, ook de metadata</span>
-- [ ] Toevoegen van video data gesynced achter Unreal Rig?
+- [x] Toevoegen van video data gesynced achter Unreal Rig?
 - [ ] Twistbones using rbf?
 - [x] Idpv next animation button, moet het next unprocessed button zijn
 - [x] Bake and save has to also save (make package not dirty)
@@ -84,10 +84,10 @@
 - [ ] Scene
 - [ ] Use mocapped camera
 ### etc
-- [ ] Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
+- [x] Sommige animaties nog met verkeerde avatar op post processing website. Voorbeeld:
 	2134, gebruikt RPM maar is er wel als CC (want ik heb lokaal gechecked en het is present).
 - [ ] Nog nieuwe drive nodig?
-- [ ] Ask mark to embed timecodes in glb and blendshapes (email him)
+- [x] Ask mark to embed timecodes in glb and blendshapes (email him)
 - [x] Send avatar and tool to anders
 - [x] Send request about tool to mark <span class="red">Instead i added a script that makes the sidecar out of fbx instead of csv</span>
 - [x] Paper / git (A Scalable Data Pipeline for ASL Media Processing and Annotation)
