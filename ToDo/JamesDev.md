@@ -6,6 +6,9 @@ We can go the remote control route:
 	Run with: `-RCWebControlEnable -RCWebInterfaceEnable`
 	default: `ws://127.0.0.1:30020` and to reach pc ofc `ws://<pc_ip>:30020`
 Or just use build in websocket support (might be easier?)
+Made a plugin that uses the build in websocket support.
+Example hello world html made.
+
 
 
 <u>Logging</u>
