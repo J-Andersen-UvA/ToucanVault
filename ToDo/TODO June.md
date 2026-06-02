@@ -15,6 +15,8 @@ Betere graphics babylonjs?
 
 <u>06/03</u>
 - [ ] Floris meeting
+	- Al wat werk gedaan om babylonjs er beter uit te laten zien.
+	- Misschien kan Mark nog eens kijken naar de textures (of ik), want die worden ook hard aangepakt momenteel
 - [ ] Fix buttons and collar of avatar
 - [ ] Dovenschool bezoek
 - [ ] Moet ik aansluiten bij Dutch Signs?
