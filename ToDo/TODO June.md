@@ -6,12 +6,19 @@
 - Blendshapes in Babylonjs
 - Achtergrond kleur
 
-<u>07/01</u>
+<u>06/02</u>
 Betere graphics babylonjs?
-- [ ] Background color picker
-- [ ] Sharper rendering
-- [ ] Lighting
-- [ ] 
+- [x] Background color picker
+- [x] Sharper rendering
+- [x] Lighting
+- [x] Playbar added back in
+
+<u>06/03</u>
+- [ ] Floris meeting
+- [ ] Fix buttons and collar of avatar
+- [ ] Dovenschool bezoek
+- [ ] Moet ik aansluiten bij Dutch Signs?
+- [ ] Mail James planning vraag (en vakantie)
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
