@@ -5,6 +5,10 @@
 - Nieuwe avatar in Babylonjs
 - Blendshapes in Babylonjs
 - Achtergrond kleur
+
+<u>07/01</u>
+Betere graphics babylonjs?
+
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
