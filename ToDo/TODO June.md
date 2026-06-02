@@ -8,7 +8,10 @@
 
 <u>07/01</u>
 Betere graphics babylonjs?
-
+- [ ] Background color picker
+- [ ] Sharper rendering
+- [ ] Lighting
+- [ ] 
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
