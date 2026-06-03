@@ -22,7 +22,8 @@ Betere graphics babylonjs?
 - [ ] Moet ik aansluiten bij Dutch Signs?
 - [ ] Mail James planning vraag (en vakantie)
 - [ ] Idle animation met kijken in de camera (default positie van camera)
-- [ ] Textures minder comprimeren 
+- [ ] Textures minder comprimeren
+- [ ] Digits conversion fout?
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
