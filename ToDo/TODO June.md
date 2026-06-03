@@ -21,6 +21,8 @@ Betere graphics babylonjs?
 - [ ] Dovenschool bezoek
 - [ ] Moet ik aansluiten bij Dutch Signs?
 - [ ] Mail James planning vraag (en vakantie)
+- [ ] Idle animation met kijken in de camera (default positie van camera)
+- [ ] Textures minder comprimeren 
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
