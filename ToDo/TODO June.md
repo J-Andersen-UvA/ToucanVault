@@ -20,10 +20,11 @@ Betere graphics babylonjs?
 - [ ] Fix buttons and collar of avatar
 - [x] Dovenschool bezoek
 - [x] Moet ik aansluiten bij Dutch Signs?
-- [ ] Mail James planning vraag (en vakantie)
+- [x] Mail James planning vraag (en vakantie)
 - [x] Idle animation met kijken in de camera (default positie van camera)
 - [ ] Textures minder comprimeren
 - [ ] Digits conversion fout?
+- [x] Gomer bericht sturen met changes van mijn babylonCC repo
 ### PP-Pipeline
 - [ ] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
