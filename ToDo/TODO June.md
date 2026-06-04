@@ -13,13 +13,13 @@ Betere graphics babylonjs?
 - [x] Lighting
 - [x] Playbar added back in
 
-<u>06/03</u>
-- [ ] Floris meeting
+<u>06/03 - 06/04</u>
+- [x] Floris meeting
 	- Al wat werk gedaan om babylonjs er beter uit te laten zien.
 	- Misschien kan Mark nog eens kijken naar de textures (of ik), want die worden ook hard aangepakt momenteel
 - [ ] Fix buttons and collar of avatar
-- [ ] Dovenschool bezoek
-- [ ] Moet ik aansluiten bij Dutch Signs?
+- [x] Dovenschool bezoek
+- [x] Moet ik aansluiten bij Dutch Signs?
 - [ ] Mail James planning vraag (en vakantie)
 - [ ] Idle animation met kijken in de camera (default positie van camera)
 - [ ] Textures minder comprimeren
