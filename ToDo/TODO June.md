@@ -21,7 +21,7 @@ Betere graphics babylonjs?
 - [x] Dovenschool bezoek
 - [x] Moet ik aansluiten bij Dutch Signs?
 - [ ] Mail James planning vraag (en vakantie)
-- [ ] Idle animation met kijken in de camera (default positie van camera)
+- [x] Idle animation met kijken in de camera (default positie van camera)
 - [ ] Textures minder comprimeren
 - [ ] Digits conversion fout?
 ### PP-Pipeline
