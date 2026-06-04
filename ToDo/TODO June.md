@@ -26,7 +26,7 @@ Betere graphics babylonjs?
 - [ ] Digits conversion fout?
 - [x] Gomer bericht sturen met changes van mijn babylonCC repo
 ### PP-Pipeline
-- [ ] Fix fetching of rig in body picker (make it like the face picker)
+- [x] Fix fetching of rig in body picker (make it like the face picker)
 - [ ] Safe current sequence (checkpointing)
 - [ ] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
 - [ ] keyboard short-cuts voor picker functionaliteiten?
