@@ -13,7 +13,7 @@ Betere graphics babylonjs?
 - [x] Lighting
 - [x] Playbar added back in
 
-<u>06/03 - 06/04</u>
+<u>06/03 - 06/05</u>
 - [x] Floris meeting
 	- Al wat werk gedaan om babylonjs er beter uit te laten zien.
 	- Misschien kan Mark nog eens kijken naar de textures (of ik), want die worden ook hard aangepakt momenteel
@@ -22,10 +22,11 @@ Betere graphics babylonjs?
 - [x] Moet ik aansluiten bij Dutch Signs?
 - [x] Mail James planning vraag (en vakantie)
 - [x] Idle animation met kijken in de camera (default positie van camera)
-- [ ] Textures minder comprimeren
+- [x] Textures minder comprimeren
 - [ ] Digits conversion fout?
 - [x] Gomer bericht sturen met changes van mijn babylonCC repo
 - [x] Checkpointing in PP
+- [ ] SMEAR avatars
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
