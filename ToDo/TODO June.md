@@ -27,6 +27,9 @@ Betere graphics babylonjs?
 - [x] Gomer bericht sturen met changes van mijn babylonCC repo
 - [x] Checkpointing in PP
 - [ ] SMEAR avatars
+
+<u>06/08</u>
+- [x] Jos inleiden
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
