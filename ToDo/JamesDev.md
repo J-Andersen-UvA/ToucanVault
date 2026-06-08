@@ -10,7 +10,34 @@ Made a plugin that uses the build in websocket support.
 Example hello world html made.
 - [ ] Implement game loop using tablet
 	- Maybe serve new pages based on clicking?
-![[ExperimentFlowInteriorDialogue.png|400]]
+	![[ExperimentFlowInteriorDialogue.png|400]]
+
+```mermaid
+flowchart TD
+    A[Excel story table] --> B[Export to story.json]
+    B --> C[Unreal loads story.json]
+    B --> D[Tablet loads story.json for display only]
+
+    C --> E[Unreal sets currentStepId]
+    E --> F[Unreal sends current step to tablet]
+
+    F --> G[Tablet renders avatar line + buttons]
+    G --> H[Researcher presses button]
+
+    H --> I[Tablet sends action only]
+    I --> J[Unreal receives storyAction]
+
+    J --> K{Is action valid for current step?}
+
+    K -- No --> L[Reject action / log error]
+    L --> F
+
+    K -- Yes --> M[Unreal resolves nextStepId]
+    M --> N[Unreal logs event]
+    N --> O[Unreal plays avatar line / animation / gesture]
+    O --> P[Unreal updates currentStepId]
+    P --> F
+```
 
 <u>Logging</u>
 - Logging hand position (30times a second minimal)
