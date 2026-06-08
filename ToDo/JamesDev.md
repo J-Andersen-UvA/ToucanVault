@@ -14,12 +14,11 @@ Example hello world html made.
 
 ```mermaid
 flowchart TD
-    A[Excel story table] --> B[Export to story.json]
-    B --> C[Unreal loads story.json]
-    B --> D[Tablet loads story.json for display only]
+    A[Excel story table]
+    A --> C[Unreal loads story excel]
 
     C --> E[Unreal sets currentStepId]
-    E --> F[Unreal sends current step to tablet]
+    E --> F[Unreal sends current step html to tablet]
 
     F --> G[Tablet renders avatar line + buttons]
     G --> H[Researcher presses button]
@@ -29,8 +28,7 @@ flowchart TD
 
     J --> K{Is action valid for current step?}
 
-    K -- No --> L[Reject action / log error]
-    L --> F
+    K -- No --> M[Reject action]
 
     K -- Yes --> M[Unreal resolves nextStepId]
     M --> N[Unreal logs event]
