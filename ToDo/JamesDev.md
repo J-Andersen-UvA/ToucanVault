@@ -8,8 +8,9 @@ We can go the remote control route:
 Or just use build in websocket support (might be easier?)
 Made a plugin that uses the build in websocket support.
 Example hello world html made.
-
-
+- [ ] Implement game loop using tablet
+	- Maybe serve new pages based on clicking?
+![[ExperimentFlowInteriorDialogue.png|400]]
 
 <u>Logging</u>
 - Logging hand position (30times a second minimal)

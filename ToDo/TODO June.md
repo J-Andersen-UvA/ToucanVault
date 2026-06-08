@@ -30,6 +30,7 @@ Betere graphics babylonjs?
 
 <u>06/08</u>
 - [x] Jos inleiden
+- [ ] James Dev
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
