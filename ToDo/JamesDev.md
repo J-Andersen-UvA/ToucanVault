@@ -1,29 +1,93 @@
 - [ ] Github
 - [ ] RemoveBackWall? Kitchen?
-
+### Overall ToDo
+- [ ] Start screen (fill in participant number on tablet + extra info, participant waits on this screen)
+- [ ] Add reset/restart/end-experiment controls for every page
+- [ ] Add basic error/status pages for every page
+- [ ] End screen (participant is thanked and asked to de-equip headset)
+---
+## Game Loop ToDo
+#### CSV Parser
 - [ ] Define CSV row schema
+	- Question send to James
 - [ ] Read input CSV story once into Unreal
 - [ ] Convert/load CSV into an Unreal table or internal story model
+- [ ] Validate all story subsets
+--- 
+#### Tablet setup
 - [ ] Add dynamic HTTP routes
 - [ ] Add ability to return generated HTML from C++
 - [ ] Serve initial setup page on tablet
 - [ ] Fill in participant/experiment number on tablet
 - [ ] Use participant/experiment number to select rows from the loaded CSV
+---
+#### Unreal Setup
 - [ ] Initialize experiment session in Unreal
-- [ ] Validate selected story subset
 - [ ] Serve current story page
+---
+#### During Experiment
 - [ ] Handle tablet button/action submissions
 - [ ] Validate submitted action against current step
 - [ ] Resolve reaction for submitted action
 - [ ] Build event record
-- [ ] Log event once to output CSV on the Unreal machine
+- [ ] Log event once to a specific participant_id / story_id output CSV on the Unreal machine
 - [ ] Play reaction line / animation
 - [ ] Advance currentStepId to nextStepId
 - [ ] Play next step prompt
 - [ ] Serve refreshed story page
-- [ ] Add reset/restart/end-experiment controls
-- [ ] Add basic error/status pages
-- [ ] Conduct experiment
+
+# Experiment story workflow
+```mermaid
+flowchart TD
+
+    subgraph StorySetup["Story Setup"]
+        A[Excel story table]
+        B[Load CSV into Unreal]
+        C[Validate story model]
+        A --> B --> C
+    end
+
+    subgraph ExperimentSetup["Experiment Setup"]
+        D[Serve setup page]
+        E[Enter participant / experiment id]
+        F[Initialize experiment session]
+        G[Select story subset]
+        D --> E --> F --> G
+    end
+
+    subgraph StoryLoop["Experiment Game Loop"]
+        H[Serve current story page]
+        I[Researcher presses button]
+        J[Tablet sends action]
+
+        K[Validate action]
+        L[Resolve reaction]
+        M[Build event record]
+        N[Log event]
+
+        O[Play reaction animation]
+        P[Advance currentStepId]
+        Q[Play next prompt]
+
+        H --> I --> J --> K --> L --> M --> N --> O --> P --> Q --> H
+    end
+
+    subgraph ExperimentEnd["Experiment End"]
+        R[Show end screen]
+        S[Participant removes headset]
+        R --> S
+    end
+
+    C --> D
+    G --> H
+    Q --> R
+```
+
+---
+
+
+
+
 ### <u>Tablet game loop</u>
 We can go the remote control route:
 	Run with: `-RCWebControlEnable -RCWebInterfaceEnable`
@@ -35,30 +99,6 @@ Example hello world html made.
 	- Maybe serve new pages based on clicking?
 	![[ExperimentFlowInteriorDialogue.png|400]]
 
-```mermaid
-flowchart TD
-    A[Excel story table] --> B[Unreal loads story table]
-
-    B --> C[Unreal sets currentStepId]
-    C --> D[Unreal generates current step HTML]
-    D --> E[Unreal serves HTML to tablet]
-
-    E --> F[Tablet renders buttons]
-    F --> G[Researcher presses button]
-
-    G --> H[Tablet sends action]
-    H --> I[Unreal receives action]
-
-    I --> J[Resolve reaction for action]
-    J --> K[Resolve linear nextStepId]
-    K --> L[Build event record]
-    L --> M[Log event once]
-
-    M --> N[Play reaction line / animation]
-    N --> O[Update currentStepId to nextStepId]
-    O --> P[Play next step prompt]
-    P --> D
-```
 
 <u>Logging</u>
 - Logging hand position (30times a second minimal)
