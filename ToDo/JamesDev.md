@@ -14,27 +14,27 @@ Example hello world html made.
 
 ```mermaid
 flowchart TD
-    A[Excel story table]
-    A --> C[Unreal loads story excel]
+    A[Excel story table] --> B[Unreal loads story table]
 
-    C --> E[Unreal sets currentStepId]
-    E --> F[Unreal sends current step html to tablet]
+    B --> C[Unreal sets currentStepId]
+    C --> D[Unreal generates current step HTML]
+    D --> E[Unreal serves HTML to tablet]
 
-    F --> G[Tablet renders avatar line + buttons]
-    G --> H[Researcher presses button]
+    E --> F[Tablet renders buttons]
+    F --> G[Researcher presses button]
 
-    H --> I[Tablet sends action only]
-    I --> J[Unreal receives storyAction]
+    G --> H[Tablet sends action]
+    H --> I[Unreal receives action]
 
-    J --> K{Is action valid for current step?}
+    I --> J[Resolve reaction for action]
+    J --> K[Resolve linear nextStepId]
+    K --> L[Build event record]
+    L --> M[Log event once]
 
-    K -- No --> M[Reject action]
-
-    K -- Yes --> M[Unreal resolves nextStepId]
-    M --> N[Unreal logs event]
-    N --> O[Unreal plays avatar line / animation / gesture]
-    O --> P[Unreal updates currentStepId]
-    P --> F
+    M --> N[Play reaction line / animation]
+    N --> O[Update currentStepId to nextStepId]
+    O --> P[Play next step prompt]
+    P --> D
 ```
 
 <u>Logging</u>
