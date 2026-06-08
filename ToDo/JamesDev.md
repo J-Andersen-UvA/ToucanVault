@@ -1,6 +1,29 @@
 - [ ] Github
 - [ ] RemoveBackWall? Kitchen?
 
+- [ ] Define CSV row schema
+- [ ] Read input CSV story once into Unreal
+- [ ] Convert/load CSV into an Unreal table or internal story model
+- [ ] Add dynamic HTTP routes
+- [ ] Add ability to return generated HTML from C++
+- [ ] Serve initial setup page on tablet
+- [ ] Fill in participant/experiment number on tablet
+- [ ] Use participant/experiment number to select rows from the loaded CSV
+- [ ] Initialize experiment session in Unreal
+- [ ] Validate selected story subset
+- [ ] Serve current story page
+- [ ] Handle tablet button/action submissions
+- [ ] Validate submitted action against current step
+- [ ] Resolve reaction for submitted action
+- [ ] Build event record
+- [ ] Log event once to output CSV on the Unreal machine
+- [ ] Play reaction line / animation
+- [ ] Advance currentStepId to nextStepId
+- [ ] Play next step prompt
+- [ ] Serve refreshed story page
+- [ ] Add reset/restart/end-experiment controls
+- [ ] Add basic error/status pages
+- [ ] Conduct experiment
 ### <u>Tablet game loop</u>
 We can go the remote control route:
 	Run with: `-RCWebControlEnable -RCWebInterfaceEnable`
