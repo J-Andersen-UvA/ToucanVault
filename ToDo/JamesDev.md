@@ -1,5 +1,5 @@
 - [ ] Github
-- [ ] RemoveBackWall? Kitchen?
+- [x] RemoveBackWall? Kitchen?
 ### Overall ToDo
 - [x] Start screen (fill in participant number on tablet + extra info, participant waits on this screen)
 - [ ] Add reset/restart/end-experiment controls for every page
@@ -15,10 +15,11 @@
 - [ ] Validate all story subsets
 --- 
 #### Tablet setup
-- [ ] Add dynamic HTTP routes
-- [ ] Add ability to return generated HTML from C++
-- [ ] Serve initial setup page on tablet
-- [ ] Fill in participant/experiment number on tablet
+- [x] Add dynamic HTTP routes
+- [x] Add ability to return generated HTML from C++
+- [ ] Return generated html from story and bind to points
+- [x] Serve initial setup page on tablet
+- [x] Fill in participant/experiment number on tablet
 - [ ] Use participant/experiment number to select rows from the loaded CSV
 ---
 #### Unreal Setup
