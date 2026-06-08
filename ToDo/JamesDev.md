@@ -1,7 +1,7 @@
 - [ ] Github
 - [ ] RemoveBackWall? Kitchen?
 ### Overall ToDo
-- [ ] Start screen (fill in participant number on tablet + extra info, participant waits on this screen)
+- [x] Start screen (fill in participant number on tablet + extra info, participant waits on this screen)
 - [ ] Add reset/restart/end-experiment controls for every page
 - [ ] Add basic error/status pages for every page
 - [ ] End screen (participant is thanked and asked to de-equip headset)
