@@ -25,4 +25,4 @@ Todo continued from March
 - [ ] Implement all oral components
 - [ ] Implement back to base pose slider
 - [ ] Implement clicking on image to just set to 100%
-- [ ] Implement slider reacting to changes in rig value in seqeuncer 
+- [x] Implement slider reacting to changes in rig value in seqeuncer 
