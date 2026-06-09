@@ -38,6 +38,7 @@ Betere graphics babylonjs?
 - [ ] SMEAR avatars
 - [x] Start on viseme picker
 
+
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
