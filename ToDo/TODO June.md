@@ -36,7 +36,7 @@ Betere graphics babylonjs?
 - [x] Digits and Mitt idle
 - [ ] Fix buttons and collar of avatar
 - [ ] SMEAR avatars
-- [ ] Start on viseme picker
+- [x] Start on viseme picker
 
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
