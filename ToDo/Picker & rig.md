@@ -19,8 +19,10 @@ Todo continued from March
 - [x] Gray out if not good rig
 - [x] Add all oral components from gebarencentrum
 - [x] Implement first example (Bolle_wangen) on rig
-- [ ] Implement refresh button for rig selection
-- [ ] Implement Zero all btn
-- [ ] Implement Key current btn
+- [x] Implement refresh button for rig selection
+- [x] Implement Zero all btn
+- [x] Implement Key current btn
 - [ ] Implement all oral components
 - [ ] Implement back to base pose slider
+- [ ] Implement clicking on image to just set to 100%
+- [ ] Implement slider reacting to changes in rig value in seqeuncer 
