@@ -30,7 +30,9 @@ Betere graphics babylonjs?
 - [x] James Dev
 
 <u>06/09</u>
-- [ ] Digits conversion fout?
+- [x] Digits conversion fout?
+	- Lag aan import in blender. Nu zijn de wenkbrouwen ook blend idpv opaque
+- [ ] Signing avatar3
 - [ ] Fix buttons and collar of avatar
 - [ ] SMEAR avatars
 - [ ] Start on viseme picker
