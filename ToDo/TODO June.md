@@ -32,7 +32,8 @@ Betere graphics babylonjs?
 <u>06/09</u>
 - [x] Digits conversion fout?
 	- Lag aan import in blender. Nu zijn de wenkbrouwen ook blend idpv opaque
-- [ ] Signing avatar3
+- [x] Signing avatar3
+	- Digits and Mitt idle
 - [ ] Fix buttons and collar of avatar
 - [ ] SMEAR avatars
 - [ ] Start on viseme picker
