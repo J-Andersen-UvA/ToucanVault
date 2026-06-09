@@ -17,20 +17,24 @@ Betere graphics babylonjs?
 - [x] Floris meeting
 	- Al wat werk gedaan om babylonjs er beter uit te laten zien.
 	- Misschien kan Mark nog eens kijken naar de textures (of ik), want die worden ook hard aangepakt momenteel
-- [ ] Fix buttons and collar of avatar
 - [x] Dovenschool bezoek
 - [x] Moet ik aansluiten bij Dutch Signs?
 - [x] Mail James planning vraag (en vakantie)
 - [x] Idle animation met kijken in de camera (default positie van camera)
 - [x] Textures minder comprimeren
-- [ ] Digits conversion fout?
 - [x] Gomer bericht sturen met changes van mijn babylonCC repo
 - [x] Checkpointing in PP
-- [ ] SMEAR avatars
 
 <u>06/08</u>
 - [x] Jos inleiden
-- [ ] James Dev
+- [x] James Dev
+
+<u>06/09</u>
+- [ ] Digits conversion fout?
+- [ ] Fix buttons and collar of avatar
+- [ ] SMEAR avatars
+- [ ] Start on viseme picker
+
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
