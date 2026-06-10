@@ -28,3 +28,6 @@ Todo continued from March
 - [x] Implement slider reacting to changes in rig value in seqeuncer 
 - [x] Only one active slider at a time implementation
 - [x] blueprint nodes for the control rig to set these values
+- [ ] jaw support
+- [ ] teeth support
+
