@@ -29,7 +29,7 @@ Betere graphics babylonjs?
 - [x] Jos inleiden
 - [x] James Dev
 
-<u>06/09</u>
+<u>06/09 - 06/10</u>
 - [x] Digits conversion fout?
 	- Lag aan import in blender. Nu zijn de wenkbrouwen ook blend idpv opaque
 - [x] Signing avatar3
@@ -38,7 +38,8 @@ Betere graphics babylonjs?
 - [ ] SMEAR avatars
 - [x] Start on viseme picker
 
-
+<u>06/12</u>
+- [ ] Record all oral face components with Jose
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
