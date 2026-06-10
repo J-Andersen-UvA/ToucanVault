@@ -27,3 +27,4 @@ Todo continued from March
 - [ ] Implement clicking on image to just set to 100%
 - [x] Implement slider reacting to changes in rig value in seqeuncer 
 - [x] Only one active slider at a time implementation
+- [ ] blueprint nodes for the control rig to set these values
