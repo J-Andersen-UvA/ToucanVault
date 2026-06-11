@@ -38,6 +38,9 @@ Betere graphics babylonjs?
 - [ ] SMEAR avatars
 - [x] Start on viseme picker
 
+<u>06/11</u>
+- [ ] Rekey -> copy paste last keyframes for all (including zeroes)
+
 <u>06/12</u>
 - [ ] Record all oral face components with Jose
 ### PP-Pipeline
