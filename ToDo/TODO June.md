@@ -34,15 +34,21 @@ Betere graphics babylonjs?
 	- Lag aan import in blender. Nu zijn de wenkbrouwen ook blend idpv opaque
 - [x] Signing avatar3
 - [x] Digits and Mitt idle
-- [ ] Fix buttons and collar of avatar
-- [ ] SMEAR avatars
 - [x] Start on viseme picker
 
 <u>06/11</u>
-- [ ] Rekey -> copy paste last keyframes for all (including zeroes)
+- [x] Rekey -> copy paste last keyframes for all (including zeroes)
 
 <u>06/12</u>
 - [ ] Record all oral face components with Jose
+- [x] Recordings with Jose
+- [x] Jos
+- [x] Contact Tobias
+
+<u>06/15</u>
+- [ ] Test copy paste last keyframe in pipeline
+- [ ] SMEAR avatars
+- [ ] Fix buttons and collar of avatar
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
