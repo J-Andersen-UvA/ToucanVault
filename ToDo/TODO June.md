@@ -46,7 +46,7 @@ Betere graphics babylonjs?
 - [x] Contact Tobias
 
 <u>06/15</u>
-- [ ] Record mouthings
+- [x] Record mouthings
 - [ ] Mouthing priorities
 - [ ] Update Tongue picker values same way we do the mouthing
 - [x] teeth controls
