@@ -46,9 +46,10 @@ Betere graphics babylonjs?
 - [x] Contact Tobias
 
 <u>06/15</u>
+- [ ] Record mouthings
 - [ ] Mouthing priorities
 - [ ] Update Tongue picker values same way we do the mouthing
-- [ ] jaw rig
+- [x] teeth controls
 - [ ] Test copy paste last keyframe in pipeline
 - [x] SMEAR avatars
 - [ ] Fix buttons, collar and sleeves of Palmer
