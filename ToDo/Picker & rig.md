@@ -1,5 +1,9 @@
 Todo continued from March
 
+## Base Pose brainstorm
+Maybe we can use the normal non-layered rig with weights to control when it returns to base pose. Because adding the non-layered rig already makes it return to base pose.
+![[Pasted image 20260615164214.png]]
+
 ## Picker
 - [ ] remove all keys button
 - [ ] zero also the metacarpals?
@@ -8,7 +12,7 @@ Todo continued from March
 - [x] make playing not lag due to checking for changed vals in the fingers
 
 ## Rig
-- [ ] Fix proxy control (finger bend)
+- [ ] Fix proxy control (finger bend) Or remove?
 
 ### Viseme Picker
 *First Version:*

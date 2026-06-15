@@ -40,26 +40,28 @@ Betere graphics babylonjs?
 - [x] Rekey -> copy paste last keyframes for all (including zeroes)
 
 <u>06/12</u>
-- [ ] Record all oral face components with Jose
+- [x] Record all oral face components with Jose (did it on my own)
 - [x] Recordings with Jose
 - [x] Jos
 - [x] Contact Tobias
 
 <u>06/15</u>
 - [x] Record mouthings
-- [ ] Mouthing priorities
+- [x] Mouthing priorities
 - [ ] Mitt, give face blends
 - [x] Update Tongue picker values same way we do the mouthing
 - [x] teeth controls
 - [x] Test copy paste last keyframe in pipeline
 - [x] SMEAR avatars
+- [x] Automatically pick/refresh body rig in picker
 - [ ] Fix buttons, collar and sleeves of Palmer
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
-- [ ] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
+- [x] Bug oplossen als volgende anim todo dat de <span class="red">!</span> niet werkt.
 - [ ] keyboard short-cuts voor picker functionaliteiten?
 - [ ] Pose lib
+	- Use non-layered rig?
 - [ ] Update Plugins in Galya and Jose PP
 	- [ ] PalmerPolo
 	- [ ] SessionSequencer
