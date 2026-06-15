@@ -46,8 +46,11 @@ Betere graphics babylonjs?
 - [x] Contact Tobias
 
 <u>06/15</u>
+- [ ] Mouthing priorities
+- [ ] Update Tongue picker values same way we do the mouthing
+- [ ] jaw rig
 - [ ] Test copy paste last keyframe in pipeline
-- [ ] SMEAR avatars
+- [x] SMEAR avatars
 - [ ] Fix buttons, collar and sleeves of Palmer
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
