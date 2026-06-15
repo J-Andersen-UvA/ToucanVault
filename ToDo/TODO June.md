@@ -51,7 +51,7 @@ Betere graphics babylonjs?
 - [ ] Mitt, give face blends
 - [x] Update Tongue picker values same way we do the mouthing
 - [x] teeth controls
-- [ ] Test copy paste last keyframe in pipeline
+- [x] Test copy paste last keyframe in pipeline
 - [x] SMEAR avatars
 - [ ] Fix buttons, collar and sleeves of Palmer
 ### PP-Pipeline
