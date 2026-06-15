@@ -49,7 +49,7 @@ Betere graphics babylonjs?
 - [x] Record mouthings
 - [ ] Mouthing priorities
 - [ ] Mitt, give face blends
-- [ ] Update Tongue picker values same way we do the mouthing
+- [x] Update Tongue picker values same way we do the mouthing
 - [x] teeth controls
 - [ ] Test copy paste last keyframe in pipeline
 - [x] SMEAR avatars
