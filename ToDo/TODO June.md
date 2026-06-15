@@ -48,7 +48,7 @@ Betere graphics babylonjs?
 <u>06/15</u>
 - [ ] Test copy paste last keyframe in pipeline
 - [ ] SMEAR avatars
-- [ ] Fix buttons and collar of avatar
+- [ ] Fix buttons, collar and sleeves of Palmer
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
