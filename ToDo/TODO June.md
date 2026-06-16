@@ -58,6 +58,7 @@ Betere graphics babylonjs?
 - [ ] JamesDev
 - [ ] Fix buttons, collar and sleeves of Palmer
 - [ ] Mitt, give face blends
+- [ ] Bake & Save To, button
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
