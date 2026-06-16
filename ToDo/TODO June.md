@@ -67,7 +67,9 @@ Betere graphics babylonjs?
 <u>06/17</u>
 
 <u>06/18</u>
-- [ ] Nieuwe paper? Face post processing vergelijken met niet
+*Meeting*
+- [ ] Nieuwe paper idee? Face post processing vergelijken met niet
+- [ ] Contract?
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
