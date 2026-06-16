@@ -48,13 +48,16 @@ Betere graphics babylonjs?
 <u>06/15</u>
 - [x] Record mouthings
 - [x] Mouthing priorities
-- [ ] Mitt, give face blends
 - [x] Update Tongue picker values same way we do the mouthing
 - [x] teeth controls
 - [x] Test copy paste last keyframe in pipeline
 - [x] SMEAR avatars
 - [x] Automatically pick/refresh body rig in picker
+
+<u>06/16</u> 
+- [ ] JamesDev
 - [ ] Fix buttons, collar and sleeves of Palmer
+- [ ] Mitt, give face blends
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
