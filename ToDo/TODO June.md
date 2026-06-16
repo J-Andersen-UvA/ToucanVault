@@ -58,7 +58,9 @@ Betere graphics babylonjs?
 - [ ] JamesDev
 - [ ] Bake & Save To, button. In session sequencer
 - [ ] Open mouthing window button in picker
-- [ ] Open mouthing window and then to next sequence breaks rig controls in viewport?
+- [x] Open mouthing window and then to next sequence breaks rig controls in viewport?
+	- garbage collect when closing window fixes it when we close the window
+	- Not evaluating the rig through getlocalcontrolrigfloat helps. So we only do this when time changed. Made a new helper to get that done.
 - [ ] Fix buttons, collar and sleeves of Palmer
 - [ ] Mitt, give face blends
 
