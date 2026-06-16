@@ -56,8 +56,8 @@ Betere graphics babylonjs?
 
 <u>06/16</u> 
 - [ ] JamesDev
-- [ ] Bake & Save To, button. In session sequencer
-- [ ] Open mouthing window button in picker
+- [x] Bake & Save To, button. In session sequencer
+- [x] Open mouthing window button in picker
 - [x] Open mouthing window and then to next sequence breaks rig controls in viewport?
 	- garbage collect when closing window fixes it when we close the window
 	- Not evaluating the rig through getlocalcontrolrigfloat helps. So we only do this when time changed. Made a new helper to get that done.
