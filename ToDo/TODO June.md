@@ -59,6 +59,11 @@ Betere graphics babylonjs?
 - [ ] Fix buttons, collar and sleeves of Palmer
 - [ ] Mitt, give face blends
 - [ ] Bake & Save To, button
+
+<u>06/17</u>
+
+<u>06/18</u>
+- [ ] Nieuwe paper? Face post processing vergelijken met niet
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
