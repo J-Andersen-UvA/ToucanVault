@@ -56,9 +56,11 @@ Betere graphics babylonjs?
 
 <u>06/16</u> 
 - [ ] JamesDev
+- [ ] Bake & Save To, button. In session sequencer
+- [ ] Open mouthing window button in picker
+- [ ] Open mouthing window and then to next sequence breaks rig controls in viewport?
 - [ ] Fix buttons, collar and sleeves of Palmer
 - [ ] Mitt, give face blends
-- [ ] Bake & Save To, button
 
 <u>06/17</u>
 
