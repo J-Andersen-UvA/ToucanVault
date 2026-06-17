@@ -36,6 +36,9 @@
 - [ ] Advance currentStepId to nextStepId
 - [ ] Play next step prompt
 - [ ] Serve refreshed story page
+---
+#### Synchronisation
+How to sync all recordings?
 
 # Experiment story workflow
 ```mermaid
