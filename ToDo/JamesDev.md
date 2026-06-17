@@ -121,7 +121,7 @@ Lastly, we should log a few more <span class="blue">output</span> files, related
 `timestamp_in`: time that this log is recorded
 And the following are each files:
 `gaze_record`: participant gaze record, e.g. face, chest, hands, arms, environment left, environment right, environment behind.
-`hand_position`: position in either world space or maybe actor space (if that is a thing)
+`hand_position`, `is_right_hand`: position in either world space or maybe actor space (if that is a thing)
 
 ---
 ### <u>Tablet game loop</u>
