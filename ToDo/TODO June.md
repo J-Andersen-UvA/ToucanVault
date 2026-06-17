@@ -69,7 +69,18 @@ Betere graphics babylonjs?
 - [x] More avatars JamesDev
 - [ ] Mitt, give face blends
 	- There are some more issues with Mitt. For some reason im not able to put digits skeleton on her. Am I even using the correct version of Digits?
-
+1. Setup level starts
+2. Socket server serves setup.html
+3. Researcher enters participant_id and condition/experiment_id
+4. /setup is submitted
+5. Unreal begins session
+6. Unreal reads trial plan CSV
+7. Unreal filters rows for participant_id + condition
+8. Unreal stores selected trial list in ExperimentSessionSubsystem
+9. Unreal opens experiment level
+10. ExperimentManager reads selected trial list
+11. Researcher presses Start Experiment on tablet
+12. First prompt/trial begins
 <u>06/18</u>
 *Meeting*
 - [ ] Nieuwe paper idee? Face post processing vergelijken met niet
