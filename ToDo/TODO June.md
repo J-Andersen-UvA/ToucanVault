@@ -55,16 +55,19 @@ Betere graphics babylonjs?
 - [x] Automatically pick/refresh body rig in picker
 
 <u>06/16</u> 
-- [ ] JamesDev
+- [x] JamesDev
 - [x] Bake & Save To, button. In session sequencer
 - [x] Open mouthing window button in picker
 - [x] Open mouthing window and then to next sequence breaks rig controls in viewport?
 	- garbage collect when closing window fixes it when we close the window
 	- Not evaluating the rig through getlocalcontrolrigfloat helps. So we only do this when time changed. Made a new helper to get that done.
-- [ ] Fix buttons, collar and sleeves of Palmer
-- [ ] Mitt, give face blends
+- [x] Fix buttons, collar and sleeves of Palmer
 
 <u>06/17</u>
+- [ ] Collect pictures for James
+- [ ] Logging info JamesDev
+- [ ] More avatars JamesDev
+- [ ] Mitt, give face blends
 
 <u>06/18</u>
 *Meeting*
