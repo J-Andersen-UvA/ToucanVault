@@ -1,4 +1,4 @@
-- [ ] Github
+- [x] Github
 - [x] RemoveBackWall? Kitchen?
 ### Overall ToDo
 - [x] Start screen (fill in participant number on tablet + extra info, participant waits on this screen)
@@ -8,7 +8,7 @@
 ---
 ## Game Loop ToDo
 #### CSV Parser
-- [ ] Define CSV row schema
+- [x] Define CSV row schema
 	- Question send to James
 - [ ] Read input CSV story once into Unreal
 - [ ] Convert/load CSV into an Unreal table or internal story model
@@ -89,9 +89,41 @@ flowchart TD
 
 ---
 
+### Experiment story / Trial Plan CSV
+The story exists out of an <span class="red">input</span> part with planned headers:
+`participant_id`: participant/run identifier
+`condition`: condition for this block/session, e.g. AV_noise
+`step_id`: trial order within this participant/condition, e.g. 1, 2, 3
+`prompt_animation`: question/prompt animation id, e.g. question_19
+`gesture_mode`: gesture_present or gesture_absent
+#### Experiment story / Trial Log CSV
+And an <span class="blue">output</span> part that gets filled in during the experiment with planned headers:
+`session_id`: A unique identifier, created to link the output CSVs together (based on the current session)
+`participant_id`: participant/run identifier
+`condition`: condition for this block/session, e.g. AV_noise
+`step_id`: trial order within this participant/condition, e.g. 1, 2, 3
+`prompt_animation`: question/prompt animation id, e.g. question_19
+`gesture_mode`: gesture_present or gesture_absent
+`action_key`: CORRECT or INCORRECT
+`reaction_animation`: response animation id, e.g. resp_a
+`timestamp_in`: time since entering the step_id and leaving it
+`timestamp_out`: time since exiting the step_id
+`reaction_recorded_at`: time that the experimenter clicked the reaction completed button
+### Experiment Avatar prompt lists CSVs
+We will have multiple prompt lists as <span class="red">input</span> (useful if we want to randomize by hand), they will contain the headers:
+`prompt_animation`: prompt/question animation id
+`gesture_mode`: gesture_present or gesture_absent
+`response_animation`: response pool/default response animation id
+### Data logging output
+Lastly, we should log a few more <span class="blue">output</span> files, related to how the participant acts during the experiment. Each line should contain the following information at least:
+`session_id`: A unique identifier, created to link the output CSVs together (based on the current session)
+`participant_id`: participant/run identifier
+`timestamp_in`: time that this log is recorded
+And the following are each files:
+`gaze_record`: participant gaze record, e.g. face, chest, hands, arms, environment left, environment right, environment behind.
+`hand_position`: position in either world space or maybe actor space (if that is a thing)
 
-
-
+---
 ### <u>Tablet game loop</u>
 We can go the remote control route:
 	Run with: `-RCWebControlEnable -RCWebInterfaceEnable`
