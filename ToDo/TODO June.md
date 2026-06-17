@@ -69,13 +69,8 @@ Betere graphics babylonjs?
 - [x] More avatars JamesDev
 - [ ] Mitt, give face blends
 	- There are some more issues with Mitt. For some reason im not able to put digits skeleton on her. Am I even using the correct version of Digits?
-1. Unreal reads trial plan CSV
-2. Unreal filters rows for participant_id + condition
-3. Unreal stores selected trial list in ExperimentSessionSubsystem
-4. Unreal opens experiment level
-5. ExperimentManager reads selected trial list
-6. Researcher presses Start Experiment on tablet
-7. First prompt/trial begins
+- [x] Setup part done in JamesDev, now we need to actually step through the experiment
+
 <u>06/18</u>
 *Meeting*
 - [ ] Nieuwe paper idee? Face post processing vergelijken met niet
