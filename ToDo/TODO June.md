@@ -68,6 +68,7 @@ Betere graphics babylonjs?
 - [ ] Logging info JamesDev
 - [ ] More avatars JamesDev
 - [ ] Mitt, give face blends
+	- There are some more issues with Mitt. For some reason im not able to put digits skeleton on her. Am I even using the correct version of Digits?
 
 <u>06/18</u>
 *Meeting*
