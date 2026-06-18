@@ -10,8 +10,8 @@
 #### CSV Parser
 - [x] Define CSV row schema
 	- Question send to James
-- [ ] Read input CSV story once into Unreal
-- [ ] Convert/load CSV into an Unreal table or internal story model
+- [x] Read input CSV story once into Unreal
+- [x] Convert/load CSV into an Unreal table or internal story model
 - [ ] Validate all story subsets
 --- 
 #### Tablet setup
