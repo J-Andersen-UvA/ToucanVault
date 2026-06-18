@@ -40,6 +40,9 @@
 #### Synchronisation
 How to sync all recordings?
 - [ ] Experiment with tentacles (make a new plugin)
+---
+#### Ended Experiment
+- [ ] Add a webpage that shows summary of the experiment, and maybe a download button or something to get the data or location to the data.
 # Experiment story workflow
 ```mermaid
 flowchart TD
