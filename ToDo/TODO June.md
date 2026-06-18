@@ -73,9 +73,14 @@ Betere graphics babylonjs?
 
 <u>06/18</u>
 - [x] Check out Unreal 5.8
+- [ ] JamesDev anim game loop
+
+<u>06/19</u>
+- [ ] Opnames
 *Meeting*
-- [ ] Nieuwe paper idee? Face post processing vergelijken met niet
+- [ ] Nieuwe paper idee? Face post processing vergelijken met niet, en met niks aan gezichtsexpresies
 - [ ] Contract?
+- [ ] Headshot avatar potential en issues
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
