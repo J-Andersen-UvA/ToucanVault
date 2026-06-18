@@ -12,7 +12,8 @@
 	- Question send to James
 - [x] Read input CSV story once into Unreal
 - [x] Convert/load CSV into an Unreal table or internal story model
-- [ ] Validate all story subsets
+- [x] Validate all story subsets
+- [x] Validate prompt -> anim mapping data table
 --- 
 #### Tablet setup
 - [x] Add dynamic HTTP routes
