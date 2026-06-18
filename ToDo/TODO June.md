@@ -72,7 +72,7 @@ Betere graphics babylonjs?
 - [x] Setup part done in JamesDev, now we need to actually step through the experiment
 
 <u>06/18</u>
-- [ ] Check out Unreal 5.8
+- [x] Check out Unreal 5.8
 *Meeting*
 - [ ] Nieuwe paper idee? Face post processing vergelijken met niet
 - [ ] Contract?
