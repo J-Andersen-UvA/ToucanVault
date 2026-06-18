@@ -32,10 +32,10 @@
 - [ ] Resolve reaction for submitted action
 - [ ] Build event record
 - [ ] Log event once to a specific participant_id / story_id output CSV on the Unreal machine
-- [ ] Play reaction line / animation
-- [ ] Advance currentStepId to nextStepId
-- [ ] Play next step prompt
-- [ ] Serve refreshed story page
+- [x] Play reaction line / animation
+- [x] Advance currentStepId to nextStepId
+- [x] Play next step prompt
+- [x] Serve refreshed story page
 ---
 #### Synchronisation
 How to sync all recordings?

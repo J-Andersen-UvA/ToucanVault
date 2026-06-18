@@ -73,7 +73,7 @@ Betere graphics babylonjs?
 <u>06/18</u>
 - [x] Check out Unreal 5.8
 - [x] JamesDev anim game loop
-- [ ] In the control page, inject the story with current step
+- [x] In the control page, inject the story with current step
 - [ ] Pages should have return to main and the extra buttons
 - [ ] Logging info JamesDev
 
