@@ -65,7 +65,6 @@ Betere graphics babylonjs?
 
 <u>06/17</u>
 - [x] Collect pictures for James
-- [ ] Logging info JamesDev
 - [x] More avatars JamesDev
 - [ ] Mitt, give face blends
 	- There are some more issues with Mitt. For some reason im not able to put digits skeleton on her. Am I even using the correct version of Digits?
@@ -73,7 +72,8 @@ Betere graphics babylonjs?
 
 <u>06/18</u>
 - [x] Check out Unreal 5.8
-- [ ] JamesDev anim game loop
+- [x] JamesDev anim game loop
+- [ ] Logging info JamesDev
 
 <u>06/19</u>
 - [ ] Opnames

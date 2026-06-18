@@ -18,17 +18,16 @@
 #### Tablet setup
 - [x] Add dynamic HTTP routes
 - [x] Add ability to return generated HTML from C++
-- [ ] Return generated html from story and bind to points
 - [x] Serve initial setup page on tablet
 - [x] Fill in participant/experiment number on tablet
-- [ ] Use participant/experiment number to select rows from the loaded CSV
+- [x] Use participant_id to select rows from the loaded CSV
 ---
 #### Unreal Setup
-- [ ] Initialize experiment session in Unreal
-- [ ] Serve current story page
+- [x] Initialize experiment session in Unreal
+- [x] Serve current story page
 ---
 #### During Experiment
-- [ ] Handle tablet button/action submissions
+- [x] Handle tablet button/action submissions
 - [ ] Validate submitted action against current step
 - [ ] Resolve reaction for submitted action
 - [ ] Build event record
@@ -40,7 +39,7 @@
 ---
 #### Synchronisation
 How to sync all recordings?
-
+- [ ] Experiment with tentacles (make a new plugin)
 # Experiment story workflow
 ```mermaid
 flowchart TD
