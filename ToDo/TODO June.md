@@ -89,6 +89,7 @@ Betere graphics babylonjs?
 - [x] Jos
 
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?
+- [ ] Session sequencer does not remember anymore because we are not usiong asset loading but asset registry, go ahead and test 
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
