@@ -2,7 +2,7 @@
 - [x] Meeting Anna
 - [x] Verse?
 - [x] session sequencer now bakes timecodes
-
+- [ ] New router?
 
 - JamesDev
 
