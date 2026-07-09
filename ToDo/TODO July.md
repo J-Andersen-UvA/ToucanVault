@@ -1,6 +1,7 @@
 - [ ] Check mocap setup for Debby
-- [ ] Meeting Anna
+- [x] Meeting Anna
 - [x] Verse?
+- [ ] Bake to forward control rig button
 
 
 - JamesDev
