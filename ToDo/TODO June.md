@@ -74,8 +74,6 @@ Betere graphics babylonjs?
 - [x] Check out Unreal 5.8
 - [x] JamesDev anim game loop
 - [x] In the control page, inject the story with current step
-- [ ] Pages should have return to main and the extra buttons
-- [ ] Logging info JamesDev
 
 <u>06/19</u>
 - [x] Opnames
@@ -88,8 +86,6 @@ Betere graphics babylonjs?
 - [x] Justin update
 - [x] Jos
 
-- [ ] Stylized avatar in CC? Voor signlab. Kopen?
-- [ ] Session sequencer does not remember anymore because we are not usiong asset loading but asset registry, go ahead and test 
 ### PP-Pipeline
 - [x] Fix fetching of rig in body picker (make it like the face picker)
 - [x] Safe current sequence (checkpointing)
@@ -100,11 +96,5 @@ Betere graphics babylonjs?
 - [ ] Update Plugins in Galya and Jose PP
 	- [ ] PalmerPolo
 	- [ ] SessionSequencer
-- [ ] Laggy on certain animations?
-
 - [ ] Viseme
 - [ ] Test audio driven lip sync?
-### Demo render
-- [ ] Cloth and hair physiics for demo?
-- [ ] Scene
-- [ ] Use mocapped camera

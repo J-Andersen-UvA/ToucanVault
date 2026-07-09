@@ -5,6 +5,8 @@
 - [ ] Add reset/restart/end-experiment controls for every page
 - [ ] Add basic error/status pages for every page
 - [ ] End screen (participant is thanked and asked to de-equip headset)
+- [ ] Pages should have return to main and the extra buttons
+- [ ] Logging info JamesDev
 ---
 ## Game Loop ToDo
 #### CSV Parser
