@@ -4,6 +4,7 @@
 - [x] session sequencer now bakes timecodes
 - [x] New router?
 - [x] Test if timecodes are exporting in main pipeline.
+	- We had to save first in order to get the export to work. Such a stupid thing that we are forced to do. Why can we even export an unfinished asset???
 - [ ] Renders maken voor Rob/Jart.
 
 - JamesDev
