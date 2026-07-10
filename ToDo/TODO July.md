@@ -2,7 +2,7 @@
 - [x] Meeting Anna
 - [x] Verse?
 - [x] session sequencer now bakes timecodes
-- [ ] New router?
+- [x] New router?
 - [ ] Test if timecodes are exporting in main pipeline.
 - [ ] Renders maken voor Rob/Jart.
 
