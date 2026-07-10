@@ -3,7 +3,7 @@
 - [x] Verse?
 - [x] session sequencer now bakes timecodes
 - [x] New router?
-- [ ] Test if timecodes are exporting in main pipeline.
+- [x] Test if timecodes are exporting in main pipeline.
 - [ ] Renders maken voor Rob/Jart.
 
 - JamesDev
