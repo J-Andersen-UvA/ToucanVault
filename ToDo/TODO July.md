@@ -1,4 +1,4 @@
-- [ ] Check mocap setup for Debby
+- [x] Check mocap setup for Debby
 - [x] Meeting Anna
 - [x] Verse?
 - [x] session sequencer now bakes timecodes
