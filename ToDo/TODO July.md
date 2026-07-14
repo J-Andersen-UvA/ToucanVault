@@ -7,6 +7,9 @@
 	- We had to save first in order to get the export to work. Such a stupid thing that we are forced to do. Why can we even export an unfinished asset???
 - [ ] Renders maken voor Rob/Jart.
 - [ ] Viseme
+	- [ ] Add tongue and Jaw control to the viseme sliders.
+	- [ ] Reset the controls for the jaw and tongue if nothing is selected (it stays stale from previous change, so maybe just make sure it always sets to 0 first and then apply changes?)
+
 
 - JamesDev
 - [ ] Test audio driven lip sync?
