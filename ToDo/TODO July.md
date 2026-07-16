@@ -15,7 +15,8 @@
 - JamesDev
 - [ ] Test audio driven lip sync?
 
-- [ ] Check support ticket for headshot if it works now
+- [x] Check support ticket for headshot if it works now
+	- Reimport mesh in unreal -> select import morphs and then it works
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?
 - [x] Session sequencer does not remember anymore because we are not using asset loading but asset registry, go ahead and <span class="blue">test</span>
 	- [x] On restart the status of the sessionsequencer is broken (it does not show that it has checkpoints and its pointing to an animation that is not opened). It still functions though
