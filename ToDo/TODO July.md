@@ -18,7 +18,7 @@
 - JamesDev
 - [ ] Test audio driven lip sync?
 
-- [ ] profiler practice
+- [x] profiler practice
 - [ ] avatar en anims meenemen naar huis voor testing
 
 - [x] Check support ticket for headshot if it works now
