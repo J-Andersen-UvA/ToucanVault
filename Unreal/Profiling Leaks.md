@@ -5,10 +5,7 @@ D:\Documents\UnrealEngine\UE_5.7_preview\Engine\Binaries\Win64\UnrealInsights.ex
 ```
 Then your project using trace:
 ```bat
-"D:\UnrealEngine\UE_5.7\Engine\Binaries\Win64\UnrealEditor.exe" ^
-"D:\Documents\UnrealEngine\UE_5_7_preview\UE_5_7_preview.uproject" ^
--trace=default,memory,metadata,assetmetadata ^
--tracehost=127.0.0.1
+"D:\UnrealEngine\UE_5.7\Engine\Binaries\Win64\UnrealEditor.exe" "D:\Documents\UnrealEngine\UE_5_7_preview\UE_5_7_preview.uproject" -trace=default,memory,metadata,assetmetadata -tracehost=127.0.0.1
 ```
 
 Bookmarks to find later in the profiler:
