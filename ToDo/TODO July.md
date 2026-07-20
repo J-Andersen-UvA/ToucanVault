@@ -10,12 +10,15 @@
 	- [ ] Add tongue and Jaw control to the viseme sliders.
 	- [ ] Reset the controls for the jaw and tongue if nothing is selected (it stays stale from previous change, so maybe just make sure it always sets to 0 first and then apply changes?)
 	- [ ] Add jaw controls so we can combine the manual with the automatic ones 
-- [ ] Copy paste last keyframe doesnt take into account current frame
+- [x] Copy paste last keyframe doesnt take into account current frame
+	- [ ] Test changes
 
 - [ ] what about gc.collectgarbageeveryframe ?
 
 - JamesDev
 - [ ] Test audio driven lip sync?
+
+- [ ] profiler practice
 
 - [x] Check support ticket for headshot if it works now
 	- Reimport mesh in unreal -> select import morphs and then it works
