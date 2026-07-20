@@ -19,6 +19,7 @@
 - [ ] Test audio driven lip sync?
 
 - [ ] profiler practice
+- [ ] avatar en anims meenemen naar huis voor testing
 
 - [x] Check support ticket for headshot if it works now
 	- Reimport mesh in unreal -> select import morphs and then it works
