@@ -7,12 +7,15 @@
 	- We had to save first in order to get the export to work. Such a stupid thing that we are forced to do. Why can we even export an unfinished asset???
 - [x] Renders maken voor Rob/Jart.
 - [ ] Viseme
-	- [ ] Add tongue and Jaw control to the viseme sliders.
+	- [x] Add tongue and Jaw control to the viseme sliders.
+	- [ ] Add all visemes
 	- [ ] Reset the controls for the jaw and tongue if nothing is selected (it stays stale from previous change, so maybe just make sure it always sets to 0 first and then apply changes?)
-	- [ ] Add jaw controls so we can combine the manual with the automatic ones 
+	- [x] Add jaw controls so we can combine the manual with the automatic ones 
 		- fixed the jaw issue by parenting the manual to the automatic. The bone is controlled by the manual one. So the automatic can move itself (indirectly moving the manual one), the manual one can be moved by us, and then the bone is moved.
-		- [ ] Make sure the manual moves correctly when the auto moves (or the auto is moving incorecrtly for our example)
+		- [x] Make sure the manual moves correctly when the auto moves (or the auto is moving incorecrtly for our example)
 		- [ ] Test on animations
+	- [ ] Update tongue UI when viseme slider is used
+	- [ ] Invert slider
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
 
