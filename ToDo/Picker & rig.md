@@ -26,12 +26,12 @@ Maybe we can use the normal non-layered rig with weights to control when it retu
 - [x] Implement refresh button for rig selection
 - [x] Implement Zero all btn
 - [x] Implement Key current btn
-- [ ] Implement all oral components
+- [x] Implement all oral components
 - [ ] Implement back to base pose slider
 - [ ] Implement clicking on image to just set to 100%
 - [x] Implement slider reacting to changes in rig value in seqeuncer 
 - [x] Only one active slider at a time implementation
 - [x] blueprint nodes for the control rig to set these values
-- [ ] jaw support
+- [x] jaw support
 - [x] teeth support
 
