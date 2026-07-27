@@ -9,7 +9,7 @@
 - [ ] Viseme
 	- [x] Add tongue and Jaw control to the viseme sliders.
 	- [ ] Add all visemes
-		- 6, 7, 8 (skip), 9, 10, 11 (skip), 13 (maybe use V_Affricate instead), 14, 15, 16, 17, 18 (skip), <span class="blue">19</span> - 31
+		- 6, 7, 8 (skip), 9, 10, 11 (skip), 13 (maybe use V_Affricate instead), 14, 15, 16, 17, 18 (skip), 19, 20, 21, 22, <span class="blue">23</span> - 31
 	- [ ] In oral component picker notify user to play with jaw triangle for 7, 9, 10
 	- [ ] Reset the controls for the jaw and tongue if nothing is selected (it stays stale from previous change, so maybe just make sure it always sets to 0 first and then apply changes?)
 	- [x] Add jaw controls so we can combine the manual with the automatic ones 
