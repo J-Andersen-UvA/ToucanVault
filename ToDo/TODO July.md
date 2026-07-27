@@ -17,6 +17,7 @@
 		- [x] Make sure the manual moves correctly when the auto moves (or the auto is moving incorecrtly for our example)
 		- [ ] Test on animations
 	- [ ] Update tongue UI when viseme slider is used
+	- [ ] Replace pictures with avatar pictures
 	- [ ] Invert slider
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
