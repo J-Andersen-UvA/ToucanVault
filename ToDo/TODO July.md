@@ -16,7 +16,8 @@
 		- fixed the jaw issue by parenting the manual to the automatic. The bone is controlled by the manual one. So the automatic can move itself (indirectly moving the manual one), the manual one can be moved by us, and then the bone is moved.
 		- [x] Make sure the manual moves correctly when the auto moves (or the auto is moving incorecrtly for our example)
 		- [ ] Test on animations
-	- [ ] Update tongue UI when viseme slider is used
+	- [x] Update tongue UI when viseme slider is used
+	- [ ] Remove unused oral components
 	- [ ] Replace pictures with avatar pictures
 	- [ ] Invert slider
 - [x] Copy paste last keyframe doesnt take into account current frame
