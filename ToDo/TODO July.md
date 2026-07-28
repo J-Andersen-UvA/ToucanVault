@@ -23,7 +23,7 @@
 	- [x] Replace pictures with avatar pictures
 	- [x] Clicking image means setting it to 1 if its already 1 set it to 0
 	- [ ] Turn off auto key zero for oral components when setting other values (maybe replace with notification that multiple components are non-zero), user should hold agency over this
-	- [ ] Fix update for sliders values, the issue is that all cards are checking it and therefore one is setting it to the newer time value which is what screws over all other cards
+	- [x] Fix update for sliders values, the issue is that all cards are checking it and therefore one is setting it to the newer time value which is what screws over all other cards
 	- [ ] Invert slider
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
