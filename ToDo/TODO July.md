@@ -24,7 +24,7 @@
 	- [x] Clicking image means setting it to 1 if its already 1 set it to 0
 	- [x] Turn off auto key zero for oral components when setting other values (maybe replace with notification that multiple components are non-zero), user should hold agency over this
 	- [x] Fix update for sliders values, the issue is that all cards are checking it and therefore one is setting it to the newer time value which is what screws over all other cards
-	- [ ] Add "Add Rig" button
+	- [x] Add "Add Rig" button. Changed to add rig from parent picker instead.
 	- [ ] Invert slider
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
