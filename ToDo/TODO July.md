@@ -20,8 +20,8 @@
 	- [x] Update tongue UI when viseme slider is used
 	- [x] Remove unused oral components
 	- [x] Replace pictures with avatar pictures
-	- [ ] Clicking image means setting it to 1
-	- [ ] Turn off auto key zero for oral components, user should hold agency over this
+	- [x] Clicking image means setting it to 1 if its already 1 set it to 0
+	- [ ] Turn off auto key zero for oral components when setting other values (maybe replace with notification that multiple components are non-zero), user should hold agency over this
 	- [ ] Fix update for sliders values
 	- [ ] Invert slider
 - [x] Copy paste last keyframe doesnt take into account current frame
