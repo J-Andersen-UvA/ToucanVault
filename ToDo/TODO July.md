@@ -26,7 +26,9 @@
 	- [x] Fix update for sliders values, the issue is that all cards are checking it and therefore one is setting it to the newer time value which is what screws over all other cards
 	- [x] Add "Add Rig" button. Changed to add rig from parent picker instead.
 	- [ ] Invert slider
-	- [ ] All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
+		- [x] Ability to get current values of anim asset
+		- [ ] Add forward control rig
+			- All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
 
