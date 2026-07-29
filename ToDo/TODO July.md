@@ -31,6 +31,11 @@
 			- All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
+- [ ] Contact floris
+	- Vraag al iemand extra?
+	- Vraag of we deadline halen
+		- Willen we eerst alles opnemen en kunnen we later nog post processing afmaken?
+	- Zal ik 10 per dag post processen?
 
 - [x] what about gc.collectgarbageeveryframe ?
 
