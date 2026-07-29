@@ -29,7 +29,8 @@
 		- [x] Ability to get current values of anim asset
 		- [ ] Add forward control rig
 			- All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
-	- [ ] Backwards solve maken???
+	- [ ] Picker tongue en oral tegelijkertijd kunnen gebruiken
+
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
 - [ ] Contact floris
