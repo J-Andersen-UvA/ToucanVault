@@ -31,6 +31,9 @@
 			- All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
 	- [ ] Picker tongue en oral tegelijkertijd kunnen gebruiken
 
+- Post processing pipeline in unreal engine character creator fixes some eye related baking, so i changed my implementation to only alter the eye data in the post processing pipeline
+	- [ ] Add these changes to Galya's machine
+
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
 - [ ] Contact floris
