@@ -29,5 +29,5 @@ Trace.Bookmark RecordingFinished
 
 Collecting garbage every frame can help identify what is not being cleaned up:
 ```cmd
-gc.collectgarbageeveryframe
+gc.collectgarbageeveryframe 1
 ```
