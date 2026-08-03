@@ -25,28 +25,32 @@
 	- [x] Turn off auto key zero for oral components when setting other values (maybe replace with notification that multiple components are non-zero), user should hold agency over this
 	- [x] Fix update for sliders values, the issue is that all cards are checking it and therefore one is setting it to the newer time value which is what screws over all other cards
 	- [x] Add "Add Rig" button. Changed to add rig from parent picker instead.
-	- [ ] Invert slider
+	- [x] Invert slider
 		- [x] Ability to get current values of anim asset
-		- [ ] Add forward control rig
+		- [x] Add forward control rig, <span class="blue">Niet nodig</span>
 			- All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
-			- Actually, maybe just doing the inverse in the forward solve first and then applying all the changes will be better?
+			- Actually, maybe just doing the <span class="blue">inverse in the forward solve first and then applying all the changes</span> will be better?
 	- [ ] Picker tongue en oral tegelijkertijd kunnen gebruiken
 
 - Post processing pipeline in unreal engine character creator fixes some eye related baking, so i changed my implementation to only alter the eye data in the post processing pipeline
-	- [ ] Add these changes to Galya's machine
+	- [ ] Get post processing blueprint into my git
+	- [ ] Add these changes to Galya's and Jose's machines
 
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [ ] Test changes
-- [ ] Contact floris
+- [ ] meeting floris
 	- Vraag al iemand extra?
 	- Vraag of we deadline halen
 		- Willen we eerst alles opnemen en kunnen we later nog post processing afmaken?
 	- Zal ik 10 per dag post processen?
+	- Post processing face tool
+	- Contract, info vorige keer:
+		
 
 - [x] what about gc.collectgarbageeveryframe ?
 
-- Leak/Memory growth lijkt heel erg op alsof het van Unreal zelf is. Ik open lege sequence, add de avatar, add een animatie, en dan groeit het.
-- 
+- Leak/Memory growth lijkt heel erg op alsof het van Unreal zelf is. Ik open lege sequence, add de CC avatar, add een animatie, en dan groeit het.
+	- Lijkt alleen bij CC avatar te gebeuren
 
 - JamesDev
 - [ ] Test audio driven lip sync?
