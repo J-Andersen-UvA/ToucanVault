@@ -42,7 +42,8 @@
 	- Vraag al iemand extra?
 	- Vraag of we deadline halen
 		- Willen we eerst alles opnemen en kunnen we later nog post processing afmaken?
-	- Zal ik 10 per dag post processen?
+	- [ ] Volle dagen opnemen aantal keer met Jose
+	- Zal ik 10 per dag post processen? <span class="blue">Laten we dat doen met oog op developen tools. Wel laten nakijken natuurlijk.</span>
 	- Post processing face tool
 	- Contract, info vorige keer:
 		
