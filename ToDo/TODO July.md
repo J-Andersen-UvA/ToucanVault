@@ -33,7 +33,7 @@
 	- [ ] Picker tongue en oral tegelijkertijd kunnen gebruiken
 
 - Post processing pipeline in unreal engine character creator fixes some eye related baking, so i changed my implementation to only alter the eye data in the post processing pipeline
-	- [ ] Get post processing blueprint into my git
+	- [ ] Get CC post processing blueprint changes into my git
 	- [ ] Add these changes to Galya's and Jose's machines
 
 - [x] Copy paste last keyframe doesnt take into account current frame
