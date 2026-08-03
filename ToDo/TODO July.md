@@ -30,7 +30,7 @@
 		- [x] Add forward control rig, <span class="blue">Niet nodig</span>
 			- All morph targets that aren't keyable in the face rig will make it really hard to get an inverse working. maybe we add a forward rig?
 			- Actually, maybe just doing the <span class="blue">inverse in the forward solve first and then applying all the changes</span> will be better?
-	- [ ] Picker tongue en oral tegelijkertijd kunnen gebruiken
+	- [x] Picker tongue en oral tegelijkertijd kunnen gebruiken
 
 - Post processing pipeline in unreal engine character creator fixes some eye related baking, so i changed my implementation to only alter the eye data in the post processing pipeline
 	- [ ] Get CC post processing blueprint changes into my git
