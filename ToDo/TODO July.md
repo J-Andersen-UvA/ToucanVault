@@ -45,6 +45,9 @@
 
 - [x] what about gc.collectgarbageeveryframe ?
 
+- Leak/Memory growth lijkt heel erg op alsof het van Unreal zelf is. Ik open lege sequence, add de avatar, add een animatie, en dan groeit het.
+- 
+
 - JamesDev
 - [ ] Test audio driven lip sync?
 
