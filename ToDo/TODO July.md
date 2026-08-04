@@ -46,7 +46,10 @@
 	- [ ] Volle dagen opnemen aantal keer met Jose
 	- Zal ik 10 per dag post processen? <span class="blue">Laten we dat doen met oog op developen tools. Wel laten nakijken natuurlijk.</span>
 	- Post processing face tool
-	- Contract, info vorige keer:
+	- Contract, info vorige keer
+
+### Post processing work
+- <span class="red">Post processing 2026-07-31</span>
 		
 
 - [x] what about gc.collectgarbageeveryframe ?
