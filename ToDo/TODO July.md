@@ -32,6 +32,7 @@
 			- Actually, maybe just doing the <span class="blue">inverse in the forward solve first and then applying all the changes</span> will be better?
 	- [x] Picker tongue en oral tegelijkertijd kunnen gebruiken
 	- [x] Picker Notification should display after making changes as well, not only on sequencer change.
+	- [ ] Tongue picker moving, makes too many ctrl z backlog
 
 
 - [x] Decoupled session sequencer from midi
