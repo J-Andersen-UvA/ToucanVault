@@ -33,6 +33,7 @@
 	- [x] Picker tongue en oral tegelijkertijd kunnen gebruiken
 	- [x] Picker Notification should display after making changes as well, not only on sequencer change.
 	- [ ] Tongue picker moving, makes too many ctrl z backlog
+	- [ ] Rig CC5, interpolates between finger ctrls for smooth closing, dissabled this, but we should use it for the slider
 
 
 - [x] Decoupled session sequencer from midi
