@@ -36,6 +36,7 @@
 	- [ ] Rig CC5, interpolates between finger ctrls for smooth closing, dissabled this, but we should use it for the slider in the ui
 	- [x] Splay handles for UI
 	- [ ] Splay values fixen in blueprint
+	- [ ] We should learn what project to new parent does
 
 
 - [x] Decoupled session sequencer from midi
