@@ -33,9 +33,10 @@
 	- [x] Picker tongue en oral tegelijkertijd kunnen gebruiken
 	- [x] Picker Notification should display after making changes as well, not only on sequencer change.
 	- [ ] Tongue picker moving, makes too many ctrl z backlog
-	- [ ] Rig CC5, interpolates between finger ctrls for smooth closing, dissabled this, but we should use it for the slider in the ui
+	- [x] Rig CC5, interpolates between finger ctrls for smooth closing, dissabled this, but we should use it for the slider in the ui
 	- [x] Splay handles for UI
-	- [ ] Splay values fixen in blueprint
+	- [x] UI redo of picker
+	- [x] Splay values fixen in blueprint
 	- [ ] We should learn what project to new parent does
 	- [x] Splay zero, Splay key current
 
