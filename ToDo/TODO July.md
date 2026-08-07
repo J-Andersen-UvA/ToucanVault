@@ -39,6 +39,7 @@
 	- [x] Splay values fixen in blueprint
 	- [ ] We should learn what project to new parent does
 	- [x] Splay zero, Splay key current
+	- [ ] Update slider based on current values in sequencer
 
 
 - [x] Decoupled session sequencer from midi
