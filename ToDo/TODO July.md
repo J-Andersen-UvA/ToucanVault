@@ -37,7 +37,7 @@
 	- [x] Splay handles for UI
 	- [ ] Splay values fixen in blueprint
 	- [ ] We should learn what project to new parent does
-	- [ ] Splay zero, Splay key current
+	- [x] Splay zero, Splay key current
 
 
 - [x] Decoupled session sequencer from midi
