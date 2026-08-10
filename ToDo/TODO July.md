@@ -44,6 +44,7 @@
 	- [ ] Splay from metacarpals
 	- [ ] Update splay slider based on values in sequencer
 	- [ ] Zero now, sets ik of feet
+	- [ ] Checkpoint en next todo swappen van kant
 
 - [ ] Willen we baked of kan het toch nog live?
 
