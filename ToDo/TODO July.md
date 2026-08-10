@@ -39,8 +39,10 @@
 	- [x] Splay values fixen in blueprint
 	- [ ] We should learn what project to new parent does
 	- [x] Splay zero, Splay key current
-	- [ ] Update slider based on current values in sequencer
 	- [ ] Fix zero head_ctrl.local in skip list...
+	- [ ] Get rid of throat wrinkles
+	- [ ] Splay from metacarpals
+	- [ ] Update splay slider based on values in sequencer
 
 
 - [x] Decoupled session sequencer from midi
