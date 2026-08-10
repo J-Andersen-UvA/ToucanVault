@@ -45,6 +45,7 @@
 	- [ ] Update splay slider based on values in sequencer
 	- [ ] Zero now, sets ik of feet
 
+- [ ] Willen we baked of kan het toch nog live?
 
 - [x] Decoupled session sequencer from midi
 
