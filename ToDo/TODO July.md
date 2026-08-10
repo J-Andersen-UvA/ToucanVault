@@ -39,11 +39,11 @@
 	- [x] Splay values fixen in blueprint
 	- [ ] We should learn what project to new parent does
 	- [x] Splay zero, Splay key current
-	- [ ] Fix zero head_ctrl.local in skip list...
+	- [x] Fix zero head_ctrl.local in skip list... <span class="blue">I used the script name: head_local. Found in The rig</span>
 	- [ ] Get rid of throat wrinkles
 	- [ ] Splay from metacarpals
 	- [ ] Update splay slider based on values in sequencer
-	- [ ] Zero now, sets ik of feet
+	- [x] Zero now, sets ik of feet
 	- [ ] Checkpoint en next todo swappen van kant
 
 - [ ] Willen we baked of kan het toch nog live?
