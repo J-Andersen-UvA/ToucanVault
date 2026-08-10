@@ -16,7 +16,7 @@
 	- [x] Add jaw controls so we can combine the manual with the automatic ones 
 		- fixed the jaw issue by parenting the manual to the automatic. The bone is controlled by the manual one. So the automatic can move itself (indirectly moving the manual one), the manual one can be moved by us, and then the bone is moved.
 		- [x] Make sure the manual moves correctly when the auto moves (or the auto is moving incorecrtly for our example)
-		- [ ] Test on animations
+		- [x] Test on animations
 	- [x] Update tongue UI when viseme slider is used
 	- [x] Remove unused oral components
 		- Removed components: 08_Open_gestrekt, 11_Kaak_omlaag, 18_Lippen_gesloten, 25_Prr, 27_Pm, 28_Bam, 29_Boem, 31_Pl
