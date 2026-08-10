@@ -43,6 +43,7 @@
 	- [ ] Get rid of throat wrinkles
 	- [ ] Splay from metacarpals
 	- [ ] Update splay slider based on values in sequencer
+	- [ ] Zero now, sets ik of feet
 
 
 - [x] Decoupled session sequencer from midi
