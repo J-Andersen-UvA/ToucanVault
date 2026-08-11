@@ -46,6 +46,7 @@
 	- [x] Zero now, sets ik of feet
 	- [ ] Checkpoint en next todo swappen van kant
 	- [ ] zero jaw control
+	- [ ] says editing when not actuyally editing on load
 
 - [ ] Willen we baked of kan het toch nog live?
 
