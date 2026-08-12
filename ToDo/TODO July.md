@@ -32,7 +32,7 @@
 			- Actually, maybe just doing the <span class="blue">inverse in the forward solve first and then applying all the changes</span> will be better?
 	- [x] Picker tongue en oral tegelijkertijd kunnen gebruiken
 	- [x] Picker Notification should display after making changes as well, not only on sequencer change.
-	- [ ] Tongue picker moving, makes too many ctrl z backlog
+	- [x] Tongue picker moving, makes too many ctrl z backlog
 	- [x] Rig CC5, interpolates between finger ctrls for smooth closing, dissabled this, but we should use it for the slider in the ui
 	- [x] Splay handles for UI
 	- [x] UI redo of picker
@@ -41,11 +41,11 @@
 	- [x] Splay zero, Splay key current
 	- [x] Fix zero head_ctrl.local in skip list... <span class="blue">I used the script name: head_local. Found in The rig</span>
 	- [ ] Get rid of throat wrinkles
-	- [ ] Splay from metacarpals
+	- [x] Splay from metacarpals
 	- [ ] Update splay slider based on values in sequencer
 	- [x] Zero now, sets ik of feet
 	- [ ] Checkpoint en next todo swappen van kant
-	- [ ] zero jaw control
+	- [x] zero jaw control
 	- [ ] says editing when not actuyally editing on load
 
 - [ ] Willen we baked of kan het toch nog live?
