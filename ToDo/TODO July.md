@@ -50,6 +50,8 @@
 	- [ ] Automatic rig selection inside picker, we can maybe add function to the picker, and we use the sessionsequencer to find all pickers with name, then we call that function using the rig in the sequencer we added
 	- [ ] Remove selection range in forward control rig
 
+- [ ] Turning off sequencer and starting it back up gets rid of the bone issue
+
 - [ ] Willen we baked of kan het toch nog live?
 
 - [x] Decoupled session sequencer from midi
