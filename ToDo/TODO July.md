@@ -47,6 +47,7 @@
 	- [ ] Checkpoint en next todo swappen van kant
 	- [x] zero jaw control
 	- [ ] says editing when not actuyally editing on load
+	- [ ] Automatic rig selection inside picker, we can maybe add function to the picker, and we use the sessionsequencer to find all pickers with name, then we call that function using the rig in the sequencer we added
 
 - [ ] Willen we baked of kan het toch nog live?
 
