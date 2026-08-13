@@ -51,6 +51,7 @@
 	- [ ] Remove selection range in forward control rig
 
 - [ ] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
+- [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc.
 
 - [ ] Willen we baked of kan het toch nog live?
 
