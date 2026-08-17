@@ -27,8 +27,8 @@ Maybe we can use the normal non-layered rig with weights to control when it retu
 - [x] Implement Zero all btn
 - [x] Implement Key current btn
 - [x] Implement all oral components
-- [ ] Implement back to base pose slider
-- [ ] Implement clicking on image to just set to 100%
+- [x] Implement back to base pose slider
+- [x] Implement clicking on image to just set to 100%
 - [x] Implement slider reacting to changes in rig value in seqeuncer 
 - [x] Only one active slider at a time implementation
 - [x] blueprint nodes for the control rig to set these values

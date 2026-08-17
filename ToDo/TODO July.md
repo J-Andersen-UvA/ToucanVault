@@ -37,7 +37,7 @@
 	- [x] Splay handles for UI
 	- [x] UI redo of picker
 	- [x] Splay values fixen in blueprint
-	- [ ] We should learn what project to new parent does
+	- [x] We should learn what project to new parent does
 	- [x] Splay zero, Splay key current
 	- [x] Fix zero head_ctrl.local in skip list... <span class="blue">I used the script name: head_local. Found in The rig</span>
 	- [ ] Get rid of throat wrinkles
