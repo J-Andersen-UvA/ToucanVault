@@ -48,7 +48,13 @@
 	- [x] zero jaw control
 	- [ ] says editing when not actuyally editing on load
 	- [ ] Automatic rig selection inside picker, we can maybe add function to the picker, and we use the sessionsequencer to find all pickers with name, then we call that function using the rig in the sequencer we added
-	- [ ] Remove selection range in forward control rig
+- [ ] Remove selection range in forward control rig tool
+	- FK bake button (in "normal picker")
+	- Button to open the delete picker
+	- Remove body 
+	- Remove face (mouth delete)
+	- Remove hands
+	- Remove fingers
 
 - [ ] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc.
