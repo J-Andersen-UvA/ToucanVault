@@ -55,6 +55,7 @@
 	- Remove face (mouth delete)
 	- Remove hands
 	- Remove fingers
+	- Select current frame for these
 
 - [ ] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc.
