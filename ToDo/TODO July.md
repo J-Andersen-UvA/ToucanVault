@@ -57,12 +57,12 @@
 	- Remove fingers
 	- Select current frame for these
 - [x] Foot slide
-- [ ] Auto focus when touching stuff in picker
+- [x] Auto focus when touching stuff in picker
 
-- [ ] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
-- [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc.
+- [x] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
+- [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc. <span class="blue">Zet dit in documentatie</span>
 
-- [ ] Willen we baked of kan het toch nog live?
+- [x] Willen we baked of kan het toch nog live?
 
 - [x] Decoupled session sequencer from midi
 
@@ -71,12 +71,12 @@
 	- [ ] Add these changes to Galya's and Jose's machines
 
 - [x] Copy paste last keyframe doesnt take into account current frame
-	- [ ] Test changes
-- [ ] meeting floris
+	- [x] Test changes
+- [x] meeting floris
 	- Vraag al iemand extra?
 	- Vraag of we deadline halen
 		- Willen we eerst alles opnemen en kunnen we later nog post processing afmaken?
-	- [ ] Volle dagen opnemen aantal keer met Jose
+	- [x] Volle dagen opnemen aantal keer met Jose
 	- Zal ik 10 per dag post processen? <span class="blue">Laten we dat doen met oog op developen tools. Wel laten nakijken natuurlijk.</span>
 	- Post processing face tool
 	- Contract, info vorige keer
