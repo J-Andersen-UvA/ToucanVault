@@ -76,6 +76,7 @@ Week 3 - 4 Aug
 - Post processing status in lifecycle file so we can rerun that part when everything is pp'ed.
 - SignIO presentatie in NGT
 - CV
+- Lees transition papers
 Verwachting gelden overzetten (7 sept  - 11 sept)
 
 Pickers:
