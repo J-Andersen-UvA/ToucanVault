@@ -59,9 +59,6 @@
 - [x] Foot slide
 - [x] Auto focus when touching stuff in picker
 
-Tongue
-- [ ] Key current
-- [ ] Updating values based on sequencer
 
 - [x] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc. <span class="blue">Zet dit in documentatie</span>
@@ -74,12 +71,20 @@ Tongue
 	- [ ] Get CC post processing blueprint changes into my git
 	- [ ] Add these changes to Galya's and Jose's machines
 
-Week 3 - 4
+Week 3 - 4 Aug
 - Galya can start working on BAK a little 
 - Post processing status in lifecycle file so we can rerun that part when everything is pp'ed.
 - SignIO presentatie in NGT
 - CV
 Verwachting gelden overzetten (7 sept  - 11 sept)
+
+Pickers:
+- [ ] Add singleassetselection to the pickers
+
+Tongue
+- [ ] Key current
+- [ ] Updating values based on sequencer
+
 
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [x] Test changes
