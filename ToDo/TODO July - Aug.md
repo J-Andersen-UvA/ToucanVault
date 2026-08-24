@@ -74,6 +74,13 @@ Tongue
 	- [ ] Get CC post processing blueprint changes into my git
 	- [ ] Add these changes to Galya's and Jose's machines
 
+Week 3 - 4
+- Galya can start working on BAK a little 
+- Post processing status in lifecycle file so we can rerun that part when everything is pp'ed.
+- SignIO presentatie in NGT
+- CV
+Verwachting gelden overzetten (7 sept  - 11 sept)
+
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [x] Test changes
 - [x] meeting floris
