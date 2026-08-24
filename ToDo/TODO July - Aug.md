@@ -59,6 +59,10 @@
 - [x] Foot slide
 - [x] Auto focus when touching stuff in picker
 
+Tongue
+- [ ] Key current
+- [ ] Updating values based on sequencer
+
 - [x] Turning off sequencer and starting it back up gets rid of the bone issue (or is it that a transaction not ended)
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc. <span class="blue">Zet dit in documentatie</span>
 
