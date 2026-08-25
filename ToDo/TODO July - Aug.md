@@ -80,8 +80,8 @@ Week 3 - 4 Aug
 Verwachting gelden overzetten (7 sept  - 11 sept)
 
 Pickers:
-- [ ] Add singleassetselection to the pickers
-- [ ] Auto focus
+- [x] Add singleassetselection to the main picker
+- [ ] Auto focus for all tools
 
 Tongue
 - [ ] Key current
