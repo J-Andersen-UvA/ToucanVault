@@ -81,6 +81,7 @@ Verwachting gelden overzetten (7 sept  - 11 sept)
 
 Pickers:
 - [ ] Add singleassetselection to the pickers
+- [ ] Auto focus
 
 Tongue
 - [ ] Key current
