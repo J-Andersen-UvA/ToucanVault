@@ -85,7 +85,7 @@ Pickers:
 
 Tongue
 - [ ] Key current broken
-- [ ] Updating values based on sequencer
+- [x] Updating values based on sequencer
 
 - [ ] New tool to check what has been post processed
 
