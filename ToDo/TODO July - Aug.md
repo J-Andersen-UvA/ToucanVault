@@ -87,6 +87,10 @@ Tongue
 - [x] Key current broken <span class="blue">Changed to copy paste last</span>
 - [x] Updating values based on sequencer
 
+Face:
+- [ ] Slider changes to aggresive for the ctrlz
+
+
 - [ ] New tool to check what has been post processed
 
 
