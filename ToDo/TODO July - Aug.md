@@ -84,7 +84,7 @@ Pickers:
 - [ ] Auto focus for all tools
 
 Tongue
-- [ ] Key current
+- [ ] Key current broken
 - [ ] Updating values based on sequencer
 
 - [ ] New tool to check what has been post processed
