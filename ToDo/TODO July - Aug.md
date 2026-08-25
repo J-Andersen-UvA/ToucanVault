@@ -84,7 +84,7 @@ Pickers:
 - [ ] Auto focus for all tools
 
 Tongue
-- [ ] Key current broken
+- [x] Key current broken <span class="blue">Changed to copy paste last</span>
 - [x] Updating values based on sequencer
 
 - [ ] New tool to check what has been post processed
