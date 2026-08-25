@@ -86,6 +86,8 @@ Tongue
 - [ ] Key current
 - [ ] Updating values based on sequencer
 
+- [ ] New tool to check what has been post processed
+
 
 - [x] Copy paste last keyframe doesnt take into account current frame
 	- [x] Test changes
