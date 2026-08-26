@@ -81,6 +81,7 @@ Verwachting gelden overzetten (7 sept  - 11 sept)
 
 Pickers:
 - [x] Add singleassetselection to the main picker
+- [ ] Scaling of show controls no good, wrap with scalebox and then set render transform to default
 - [ ] Refreshing rig not automatic? Issue with setting visual of body controls for example
 - [ ] Auto focus for all tools
 
