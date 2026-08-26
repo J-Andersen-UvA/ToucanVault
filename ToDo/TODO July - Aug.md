@@ -90,6 +90,7 @@ Tongue
 - [x] Updating values based on sequencer
 
 Face:
+- [ ] Focus not working
 - [ ] Slider changes to aggresive for the ctrlz
 
 
