@@ -1,4 +1,8 @@
 #PosePasting #PoseCaching
+
+## Notes
+Another route might be: Bake forward -> remove keyframes -> paste anim
+Issue with this route might be that we will need to save poses on the fk-rig
 ## Return to base Pose
 - [x] <span class="blue">NamedTransformCache Plugin</span> to save poses
 - [ ] Add Plugin to <span class="blue">rig</span>
