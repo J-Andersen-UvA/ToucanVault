@@ -27,12 +27,11 @@ flowchart TD
 	end
 	
 	subgraph C[Offsetting Rig controls]
-		C0[Get controls for blended bones]
-		C1[Unproject controls from bones]
-		C2[Save user offsets for controls]
-		C3[Project controls to bones]
-		C4[Apply user offsets to the controls]
-		C0 -->|Unproject required due to previous frame project| C1 --> C2 --> C3 --> C4
+		C0[Get userControls for blended bones]
+		C1[Save user offsets]
+		C2[Apply userControls offsets to the finalControls]
+		C3[Set userControls to finalControls transform]
+		C0 --> C1 --> C2 --> C3
 	end
 	
 	A -->|Using any animation and this rig as a layer we do the following| B
