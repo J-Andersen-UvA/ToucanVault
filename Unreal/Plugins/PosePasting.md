@@ -50,22 +50,20 @@ flowchart TD
     end
 
 	subgraph B[Backwards Solve]
-		B0[Get animated transform for bones]
-		B1[Get user supplied weight]
-		B2[Calculate and cache blend between rest- and animated pose]
-		B0 --> B2
-		B1 --> B2
+		B0[Cache bone transforms for animation]
 	end
 	
 	subgraph C[Forward Solve]
 		C0[Apply user controls]
-		C1[Apply cached blends as offset]
-		C0 --> C1
+		C1[Get user supplied weight]
+		C2[Calculate weighted differences between caches]
+		C3[Apply cached blends as offset]
+		C0 --> C1 --> C2 --> C3
 	end
 	
 	A -->|Using any animation and this rig as a layer we do the following| B
 	B -->|Following graph needed to keep rig controls functional| C
-	
+	A --> C	
 ```
 ## Return to base Pose
 - [x] <span class="blue">NamedTransformCache Plugin</span> to save poses
