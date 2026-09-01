@@ -37,6 +37,36 @@ flowchart TD
 	B -->|Following graph needed to keep rig controls functional| C
 	
 ```
+
+```mermaid
+---
+title: Rig flow for blending to base pose 2.0
+---
+flowchart TD
+
+
+    subgraph A[Construct Event]
+        A0[Cache bone transforms for resting pose]
+    end
+
+	subgraph B[Backwards Solve]
+		B0[Get animated transform for bones]
+		B1[Get user supplied weight]
+		B2[Calculate and cache blend between rest- and animated pose]
+		B0 --> B2
+		B1 --> B2
+	end
+	
+	subgraph C[Forward Solve]
+		C0[Apply user controls]
+		C1[Apply cached blends as offset]
+		C0 --> C1
+	end
+	
+	A -->|Using any animation and this rig as a layer we do the following| B
+	B -->|Following graph needed to keep rig controls functional| C
+	
+```
 ## Return to base Pose
 - [x] <span class="blue">NamedTransformCache Plugin</span> to save poses
 - [ ] Add Plugin to <span class="blue">rig</span>
