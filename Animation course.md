@@ -10,3 +10,4 @@ Recording with mocap / using markerless
 Cleaning data with filters / post processing
 Rigs and pickers
 Generative animations
+Eigen backwards en forwards solve maken?
