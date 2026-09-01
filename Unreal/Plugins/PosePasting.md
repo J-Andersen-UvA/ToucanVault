@@ -21,17 +21,16 @@ flowchart TD
 	subgraph B[Blending to base]
 		B0[Get current transform for bones]
 		B1[Get user supplied weight]
-		B2[Blend towards cached transform]
+		B2[Cache the Blend towards cached transform for later]
 		B0 --> B2
 		B1 --> B2
 	end
 	
 	subgraph C[Offsetting Rig controls]
-		C0[Get userControls for blended bones]
-		C1[Save user offsets]
-		C2[Apply userControls offsets to the finalControls]
-		C3[Set userControls to finalControls transform]
-		C0 --> C1 --> C2 --> C3
+		C0[Apply user controls]
+		C1[Apply cached blends]
+		C2[Display the controls on the new location]
+		C0 --> C1 --> C2
 	end
 	
 	A -->|Using any animation and this rig as a layer we do the following| B
