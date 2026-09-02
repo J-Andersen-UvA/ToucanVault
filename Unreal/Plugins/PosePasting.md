@@ -54,11 +54,22 @@ flowchart TD
 	end
 	
 	subgraph C[Forward Solve]
-		C0[Apply user controls]
-		C1[Get user supplied weight]
-		C2[Calculate weighted differences between caches]
-		C3[Apply cached blends as offset]
-		C0 --> C1 --> C2 --> C3
+		subgraph CA[Blend To Base]
+			CA0[Get user supplied weight]
+			CA1[Blend between transforms from caches]
+			CA2[Get relative transform of blend and animated transform]
+			CA3[Offset relevant bone]
+			CA0 --> CA1 --> CA2 --> CA3
+		end
+
+		subgraph CB[Apply User Control]
+			CB0[Get relative transform between animated and resting]
+			CB1[Get relative transform of control and relative animated]
+			CB2[Offset relevant bone]
+			CB0 --> CB1 --> CB2
+		end
+		
+		CA -->|Ordering not relevant| CB
 	end
 	
 	A -->|Using any animation and this rig as a layer we do the following| B
