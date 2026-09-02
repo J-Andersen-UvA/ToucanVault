@@ -6,7 +6,7 @@
 - [x] Test if timecodes are exporting in main pipeline.
 	- We had to save first in order to get the export to work. Such a stupid thing that we are forced to do. Why can we even export an unfinished asset???
 - [x] Renders maken voor Rob/Jart.
-- [ ] Viseme
+- [x] Viseme
 	- [x] Add tongue and Jaw control to the viseme sliders.
 	- [x] Add all visemes
 		- 6, 7, 8 (skip), 9, 10, 11 (skip), 13 (maybe use V_Affricate instead), 14, 15, 16, 17, 18 (skip), 19, 20, 21, 22, 23, 24, 25, 26 (skip), 27 (skip), 28 (skip), 29 (skip), 30, 31 (skip)

@@ -1,9 +1,5 @@
 #PosePasting #PoseCaching
 
-## Notes
-Another route might be: Bake forward -> remove keyframes -> paste anim
-Issue with this route might be that we will need to save poses on the fk-rig
-
 ```mermaid
 ---
 title: Rig flow for blending to base pose 2.0
@@ -53,7 +49,7 @@ flowchart TD
 		- [x] Make it keyable as a control
 		- [x] Test blend back
 - [ ] Rig changes to the <span class="blue">Picker</span>
-	- [ ] Add weight to the picker
+	- [ ] Add the weights to the picker
 - [ ] Make the splay control offset instead of set.
 - [ ] Free caches?
 ## Paste Pose
