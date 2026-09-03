@@ -1,5 +1,5 @@
 - [ ] CV
-
+- [ ] Paper alinea
 
 - [x] Rig selection method, change it to the faster method like in the forward picker
 - [ ] Get rid of throat wrinkles
