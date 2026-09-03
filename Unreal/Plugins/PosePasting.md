@@ -48,8 +48,8 @@ flowchart TD
 		- [x] How do we solve the above issue, and is it an issue? We should test on an actual animation
 		- [x] Make it keyable as a control
 		- [x] Test blend back
-- [ ] Rig changes to the <span class="blue">Picker</span>
-	- [ ] Add the weights to the picker
+- [x] Rig changes to the <span class="blue">Picker</span>
+	- [x] Add the weights to the picker
 - [ ] Make the splay control offset instead of set.
 - [ ] Free caches?
 ## Paste Pose
