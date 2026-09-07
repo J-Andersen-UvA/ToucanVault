@@ -1,5 +1,5 @@
 Today:
-- Pose library: test, leaks, offset splays, add figure to readme
+- Pose library: test, leaks, offset splays, add figure to readme, clicking avatar stalls?
 - Audio driven lip sync
 - 
 
