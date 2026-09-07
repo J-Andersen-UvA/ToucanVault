@@ -1,5 +1,4 @@
 Today:
-- Speed up the picker.
 - Pose library: test, leaks, offset splays, add figure to readme, clicking avatar stalls?
 - Audio driven lip sync
 - Papers lezen
@@ -8,6 +7,7 @@ Today:
 - [x] CV
 - [x] Paper alinea
 - [x] Rig selection method, change it to the faster method like in the forward picker
+- [x] Speed up the picker!
 - [ ] Get rid of throat wrinkles
 - [ ] Splay slider additive with offset instead of set
 - [ ] Update splay slider based on values in sequencer
