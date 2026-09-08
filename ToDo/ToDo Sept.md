@@ -1,8 +1,6 @@
-Today:
 - Pose library: test, leaks, offset splays, add figure to readme, clicking avatar stalls?
 - Audio driven lip sync
 - Papers lezen
-- ChatGPT Astra
 
 - [x] CV
 - [x] Paper alinea
@@ -26,7 +24,7 @@ Today:
 
 Pose library
 - [ ] [[PosePasting]]
-- [ ] Leaking?
+- [x] Leaking?
 
 Face:
 - [ ] Focus not working
