@@ -1,4 +1,8 @@
-- Pose library: test, leaks, offset splays, add figure to readme, clicking avatar stalls?
+- [x] Fix leaks in sequencer Abstraction
+- [x] Make Rig usage faster in Picker
+- [x] Make recording pipeline faster
+- [ ] Check Leaks in recording
+- [ ] Test recording pipeline once more
 - Audio driven lip sync
 - Papers lezen
 
@@ -25,6 +29,7 @@
 Pose library
 - [ ] [[PosePasting]]
 - [x] Leaking?
+- [x] Add figure about rig base to the readme
 
 Face:
 - [ ] Focus not working
