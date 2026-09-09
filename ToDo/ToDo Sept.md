@@ -3,7 +3,7 @@
 - [x] Make recording pipeline faster
 - [x] Check Leaks in recording
 - [x] Test recording pipeline once more
-- [ ] Splay slider additive with offset instead of set
+- [x] Splay slider additive with offset instead of set
 - [ ] Audio driven lip sync
 - [ ] Papers lezen
 
