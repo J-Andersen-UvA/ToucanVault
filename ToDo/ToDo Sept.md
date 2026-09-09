@@ -1,17 +1,17 @@
 - [x] Fix leaks in sequencer Abstraction
 - [x] Make Rig usage faster in Picker
 - [x] Make recording pipeline faster
-- [ ] Check Leaks in recording
-- [ ] Test recording pipeline once more
-- Audio driven lip sync
-- Papers lezen
+- [x] Check Leaks in recording
+- [x] Test recording pipeline once more
+- [ ] Splay slider additive with offset instead of set
+- [ ] Audio driven lip sync
+- [ ] Papers lezen
 
 - [x] CV
 - [x] Paper alinea
 - [x] Rig selection method, change it to the faster method like in the forward picker
 - [x] Speed up the picker!
 - [ ] Get rid of throat wrinkles
-- [ ] Splay slider additive with offset instead of set
 - [ ] Update splay slider based on values in sequencer
 - [ ] Checkpoint en next todo swappen van kant
 - [ ] says editing when not actuyally editing on load
