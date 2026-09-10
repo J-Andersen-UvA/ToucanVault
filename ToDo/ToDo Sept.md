@@ -31,6 +31,10 @@ Pose library
 - [x] Leaking?
 - [x] Add figure about rig base to the readme
 
+FK selection rig:
+- [ ] shift clicking not working for single frame selection method
+
+
 Face:
 - [ ] Focus not working
 - [ ] Slider changes to aggresive for the ctrlz
