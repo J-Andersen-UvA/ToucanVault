@@ -50,6 +50,6 @@ flowchart TD
 		- [x] Test blend back
 - [x] Rig changes to the <span class="blue">Picker</span>
 	- [x] Add the weights to the picker
-- [ ] Make the splay control offset instead of set.
-- [ ] Free caches?
+- [x] Make the splay control offset instead of set.
+- [x] Free caches?
 ## Paste Pose
