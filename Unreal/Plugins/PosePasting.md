@@ -53,3 +53,4 @@ flowchart TD
 - [x] Make the splay control offset instead of set.
 - [x] Free caches?
 ## Paste Pose
+Not much to do, just use the unreal engine method for this part together with returning to base pose.

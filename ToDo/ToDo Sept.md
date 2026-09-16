@@ -6,6 +6,8 @@
 - [x] Splay slider additive with offset instead of set
 - [ ] Audio driven lip sync
 - [ ] Papers lezen
+- [ ] Have to click replay actor and open details panel once during a recording session otherwise leaking???
+
 
 - [x] CV
 - [x] Paper alinea
