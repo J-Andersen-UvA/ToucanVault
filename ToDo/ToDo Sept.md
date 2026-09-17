@@ -9,7 +9,7 @@
 	- An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation
 	- Sign Language Production using Neural Machine Translation and Generative Adversarial Networks
 	- HamNoSys-based Motion Editing Method for Sign Language
-- [ ] Have to click replay actor and open details panel once during a recording session otherwise leaking???
+- [x] Have to click replay actor and open details panel once during a recording session otherwise leaking???
 	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
 - [x] Update splay slider based on values in sequencer
 	- Get the splay value by inversing one of the splay degrees.
@@ -20,10 +20,12 @@
 - [x] Rig selection method, change it to the faster method like in the forward picker
 - [x] Speed up the picker!
 - [ ] Get rid of throat wrinkles
-- [ ] Checkpoint en next todo swappen van kant
-- [ ] says editing when not actuyally editing on load
+- [x] Checkpoint en next todo swappen van kant
+- [x] says editing when not actuyally editing on load
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc. <span class="blue">Zet dit in documentatie</span>
 - [ ] Auto focus for all tools
+	- Splay
+	- What else needs it still?
 - [ ] New tool to check what has been post processed
 - [ ] avatar en anims meenemen naar huis voor testing
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?
