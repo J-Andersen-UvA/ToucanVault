@@ -7,6 +7,9 @@
 - [ ] Audio driven lip sync
 - [ ] Papers lezen
 - [ ] Have to click replay actor and open details panel once during a recording session otherwise leaking???
+	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
+- [ ] Update splay slider based on values in sequencer
+	- Get the splay value by inversing one of the splay degrees.
 
 
 - [x] CV
@@ -14,7 +17,6 @@
 - [x] Rig selection method, change it to the faster method like in the forward picker
 - [x] Speed up the picker!
 - [ ] Get rid of throat wrinkles
-- [ ] Update splay slider based on values in sequencer
 - [ ] Checkpoint en next todo swappen van kant
 - [ ] says editing when not actuyally editing on load
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc. <span class="blue">Zet dit in documentatie</span>
