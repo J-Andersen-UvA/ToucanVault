@@ -6,9 +6,12 @@
 - [x] Splay slider additive with offset instead of set
 - [ ] Audio driven lip sync
 - [ ] Papers lezen
+	- An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation
+	- Sign Language Production using Neural Machine Translation and Generative Adversarial Networks
+	- HamNoSys-based Motion Editing Method for Sign Language
 - [ ] Have to click replay actor and open details panel once during a recording session otherwise leaking???
 	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
-- [ ] Update splay slider based on values in sequencer
+- [x] Update splay slider based on values in sequencer
 	- Get the splay value by inversing one of the splay degrees.
 
 
