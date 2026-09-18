@@ -14,6 +14,10 @@
 - [x] Update splay slider based on values in sequencer
 	- Get the splay value by inversing one of the splay degrees.
 
+Vraag aan Mabel: Iris voor post processing?
+
+automatisch genereren, automatisch post processing
+
 
 - [x] CV
 - [x] Paper alinea
