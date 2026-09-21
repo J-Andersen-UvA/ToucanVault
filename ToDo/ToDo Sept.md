@@ -13,10 +13,9 @@
 	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
 - [x] Update splay slider based on values in sequencer
 	- Get the splay value by inversing one of the splay degrees.
+- [ ] Na locatie files, locale disk opschonen
 
-Vraag aan Mabel: Iris voor post processing?
-
-automatisch genereren, automatisch post processing
+automatisch genereren, automatische post processing
 
 
 - [x] CV
