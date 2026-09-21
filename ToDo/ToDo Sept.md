@@ -8,7 +8,10 @@
 - [ ] Papers lezen
 	- An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation
 	- Sign Language Production using Neural Machine Translation and Generative Adversarial Networks
-	- HamNoSys-based Motion Editing Method for Sign Language
+	- HamNoSys/Ham2Pose
+		- HamNoSys Representing Sign Language Data in Language Resources and Language Processing Contexts
+		- Ham2Pose: Animating Sign Language Notation into Pose Sequences
+		- HamNoSys-based Motion Editing Method for Sign Language
 - [x] Have to click replay actor and open details panel once during a recording session otherwise leaking???
 	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
 - [x] Update splay slider based on values in sequencer
