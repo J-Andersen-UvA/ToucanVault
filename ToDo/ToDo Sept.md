@@ -17,6 +17,7 @@
 - [x] Update splay slider based on values in sequencer
 	- Get the splay value by inversing one of the splay degrees.
 - [ ] Na locatie files, locale disk opschonen
+- [ ] Should we create a pass that repairs hand positioning, hand shape, maybe even face, on any avatar that has these areas defined? Like a specialized retarget for sign language?
 
 automatisch genereren, automatische post processing
 
