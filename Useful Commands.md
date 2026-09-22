@@ -10,7 +10,7 @@ $KeyFile = "$env:USERPROFILE\.ssh\id_ed25519_signcollect"
 
 ssh -p $SshPort -i $KeyFile "$SshUser@$SshHost"
 ```
-Mount on windows:
+Mount on windows and create a reusable config:
 ```bash
 rclone config create signCollectSSH sftp `
     host HOSTNAME `
@@ -19,6 +19,14 @@ rclone config create signCollectSSH sftp `
     key_file "$env:USERPROFILE\.ssh\id_ed25519_signcollect"
 ```
 
+```bash
+rclone mount `
+    'signCollectSSH:/web/gebarenoverleg_media/studioFiles/mocapFiles' `
+    'T:' `
+    --read-only `
+    --dir-cache-time 5m `
+    --log-level NOTICE
+```
 
 List file tree:
 ```bash
