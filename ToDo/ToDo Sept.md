@@ -6,19 +6,21 @@
 - [x] Splay slider additive with offset instead of set
 - [ ] Audio driven lip sync
 - [ ] Papers lezen
-	- An Open-Source Gloss-Based Baseline for Spoken to Signed Language Translation
-	- Sign Language Production using Neural Machine Translation and Generative Adversarial Networks
-	- HamNoSys/Ham2Pose
-		- HamNoSys Representing Sign Language Data in Language Resources and Language Processing Contexts
-		- Ham2Pose: Animating Sign Language Notation into Pose Sequences
-		- HamNoSys-based Motion Editing Method for Sign Language
+	- Papers over hamnosys
+	- Papers over sign language animation generation
+	- Over Transitions
+	- Over retargeting
 - [x] Have to click replay actor and open details panel once during a recording session otherwise leaking???
 	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
 - [x] Update splay slider based on values in sequencer
 	- Get the splay value by inversing one of the splay degrees.
+
+
 - [ ] Na locatie files, locale disk opschonen
 - [ ] Should we create a pass that repairs hand positioning, hand shape, maybe even face, on any avatar that has these areas defined? Like a specialized retarget for sign language?
 - [ ] Number recognition example for ai practice
+- [ ] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
+- [ ] ViconDashboard mist nog de blackmagic files locatie
 
 
 
