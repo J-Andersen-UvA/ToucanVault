@@ -13,3 +13,6 @@ Therefore it closely follows ReConForM
 
 # Blendshape recording system specific to sign language
 Perhaps we can train something to recognize the oral components on faces (or even specific persons face) and then we can pick the correct blendshapes ourselves instead of LLF.
+
+# HamNoSys Picker
+HamNoSys picker for sign language animation data.
