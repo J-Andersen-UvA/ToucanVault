@@ -23,7 +23,9 @@
 - [ ] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
 - [ ] ViconDashboard mist nog de blackmagic files locatie
 - [ ] Lijkt ook alsof er meerdere locaties zijn waar er backups zijn van de animaties? Want ik had al een mount van SignCollect voor blackmagic files, en daar zie ik mocap files tot 2026-01-29
-
+- [ ] Mss ook goed als ik een compilatie kan krijgen van je codebases?
+ls -la /mnt/bigstorage/fbx
+ls -la /web/gebarenoverleg_media/studioFiles/mocapFiles
 
 
 automatisch genereren, automatische post processing

@@ -1,6 +1,25 @@
 Automatically make structured plugin folder for unreal:
 [[Auto make plugin folder]]
 
+SSH
+```bash
+$SshHost = 'HOSTNAME'
+$SshUser = 'USERNAME'
+$SshPort = 22
+$KeyFile = "$env:USERPROFILE\.ssh\id_ed25519_signcollect"
+
+ssh -p $SshPort -i $KeyFile "$SshUser@$SshHost"
+```
+Mount on windows:
+```bash
+rclone config create signCollectSSH sftp `
+    host HOSTNAME `
+    user USERNAME `
+    port 22 `
+    key_file "$env:USERPROFILE\.ssh\id_ed25519_signcollect"
+```
+
+
 List file tree:
 ```bash
 tree /f
@@ -58,3 +77,4 @@ npm
 ```
 npm run dev
 ```
+
