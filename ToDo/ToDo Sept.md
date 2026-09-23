@@ -20,10 +20,12 @@
 - [ ] Should we create a pass that repairs hand positioning, hand shape, maybe even face, on any avatar that has these areas defined? Like a specialized retarget for sign language?
 - [ ] Number recognition example for ai practice
 - [ ] Zero is very slow in picker tool
+- [ ] Fix mesh elements on palmer: sleeve and button
 
-- [ ] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
+- [x] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
 - [ ] ViconDashboard mist nog de blackmagic files locatie
-- [ ] Lijkt ook alsof er meerdere locaties zijn waar er backups zijn van de animaties? Want ik had al een mount van SignCollect voor blackmagic files, en daar zie ik mocap files tot 2026-01-29
+- [ ] Is gebarenoverleg_media/studioFiles/mocapFiles/... een directe clone van de andere locatie of is het allemaal gecopypaste daar?
+- [ ] Zijn de EAF files gwn dezelfde namen als de mocap files bijv?
 - [ ] Mss ook goed als ik een compilatie kan krijgen van je codebases?
 ls -la /mnt/bigstorage/fbx
 ls -la /web/gebarenoverleg_media/studioFiles/mocapFiles
