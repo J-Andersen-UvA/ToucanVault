@@ -19,7 +19,9 @@
 - [ ] Na locatie files, locale disk opschonen
 - [ ] Should we create a pass that repairs hand positioning, hand shape, maybe even face, on any avatar that has these areas defined? Like a specialized retarget for sign language?
 - [ ] Number recognition example for ai practice
+
 - [ ] Zero is very slow in picker tool
+- [ ] Rig is not held by the picker, we have to refresh all the time still...
 - [ ] Fix mesh elements on palmer: sleeve and button
 
 - [x] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
