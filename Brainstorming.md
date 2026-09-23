@@ -16,3 +16,7 @@ Perhaps we can train something to recognize the oral components on faces (or eve
 
 # HamNoSys Picker
 HamNoSys picker for sign language animation data.
+
+# Signbank glosses + videos -> HamNoSys
+We could maybe combine videos and glosses to hamnosys.
+
