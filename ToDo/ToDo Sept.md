@@ -25,10 +25,14 @@
 - [ ] Fix mesh elements on palmer: sleeve and button
 
 - [x] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
-- [ ] ViconDashboard mist nog de blackmagic files locatie
-- [ ] Is gebarenoverleg_media/studioFiles/mocapFiles/... een directe clone van de andere locatie of is het allemaal gecopypaste daar?
-- [ ] Zijn de EAF files gwn dezelfde namen als de mocap files bijv?
-- [ ] Mss ook goed als ik een compilatie kan krijgen van je codebases?
+- [x] ViconDashboard mist nog de blackmagic files locatie
+- [x] Heb ik nu ook access naar andere files... yes
+- [x] Is gebarenoverleg_media/studioFiles/mocapFiles/... een directe clone van de andere locatie of is het allemaal gecopypaste daar? <span class="blue">Symlinks</span>
+- [x] Zijn de EAF files gwn dezelfde namen als de mocap files bijv?
+- [x] Mss ook goed als ik een compilatie kan krijgen van je codebases?
+- [ ] home/gomer/viconsync waarom niet auto remove.
+- [ ] Hoe publishen op figshare script checken.
+
 ls -la /mnt/bigstorage/fbx
 ls -la /web/gebarenoverleg_media/studioFiles/mocapFiles
 
