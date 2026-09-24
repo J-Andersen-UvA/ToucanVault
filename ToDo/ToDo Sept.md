@@ -26,10 +26,12 @@ Todo today:
 - [x] Zero is very slow in picker tool
 - [x] add bases to rekey and the copypaste.
 - [x] Rig is not held by the picker, we have to refresh all the time still...
-- [ ] Na locatie files, locale disk opschonen
+- [x] Na locatie files, locale disk opschonen
+- [ ] Moeten we nog die vvids bewaren of niet
+- [ ] Show Body control button not always working
 - [x] Setup cameras
 - [ ] Fix mesh elements on palmer: sleeve and button
-- [ ] home/gomer/viconsync waarom niet auto remove?
+- [x] home/gomer/viconsync waarom niet auto remove? <span class="blue">Jawel maar niet vvid</span>
 
 - [x] Volgens mij moet ik nog een account naam krijgen zodat ik signcollect kan mounten
 - [x] ViconDashboard mist nog de blackmagic files locatie
