@@ -21,7 +21,8 @@
 - [ ] Jose check email/teams Galya
 
 Todo today:
-- [ ] Zero is very slow in picker tool
+- [x] Zero is very slow in picker tool
+- [ ] add bases to rekey and the copypaste.
 - [ ] Rig is not held by the picker, we have to refresh all the time still...
 - [ ] Na locatie files, locale disk opschonen
 - [ ] Setup cameras
