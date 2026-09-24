@@ -10,6 +10,8 @@
 	- Papers over sign language animation generation
 	- Over Transitions
 	- Over retargeting
+	- Glosses
+	- Sociology
 - [x] Have to click replay actor and open details panel once during a recording session otherwise leaking???
 	- Its the take recorder panel, as soon as any source is added to it it starts climbing in the object count. Then if i switch to another tab it stops, and it grows again if i return...
 - [x] Update splay slider based on values in sequencer
@@ -25,7 +27,7 @@ Todo today:
 - [x] add bases to rekey and the copypaste.
 - [x] Rig is not held by the picker, we have to refresh all the time still...
 - [ ] Na locatie files, locale disk opschonen
-- [ ] Setup cameras
+- [x] Setup cameras
 - [ ] Fix mesh elements on palmer: sleeve and button
 - [ ] home/gomer/viconsync waarom niet auto remove?
 

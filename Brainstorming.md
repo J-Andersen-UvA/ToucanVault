@@ -10,7 +10,10 @@ How do you then decide on the face mimicry.
 Based on location areas, handshapes that you will have to redefine for the target avatar.
 Basically you define stuff on the target avatar and base avatar, and you retarget based on that instead of the rotations.
 Therefore it closely follows ReConForM
-
+Develop DLL separate from Unreal and then build layer in unreal? Maybe we can separate it into:
+**Math library:** "Give me numbers and gradients; I'll optimize them."
+**Context solver:** "These numbers happen to be joint rotations, and here's how they produce anchor positions and losses."
+**Unreal plugin:** "These joints happen to correspond to Unreal bones."
 # Blendshape recording system specific to sign language
 Perhaps we can train something to recognize the oral components on faces (or even specific persons face) and then we can pick the correct blendshapes ourselves instead of LLF.
 
