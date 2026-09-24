@@ -22,8 +22,8 @@
 
 Todo today:
 - [x] Zero is very slow in picker tool
-- [ ] add bases to rekey and the copypaste.
-- [ ] Rig is not held by the picker, we have to refresh all the time still...
+- [x] add bases to rekey and the copypaste.
+- [x] Rig is not held by the picker, we have to refresh all the time still...
 - [ ] Na locatie files, locale disk opschonen
 - [ ] Setup cameras
 - [ ] Fix mesh elements on palmer: sleeve and button
