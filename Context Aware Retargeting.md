@@ -78,3 +78,6 @@ This is called adaptive weighting, and is also a reason why adding context point
 
 One limitation in the paper’s evaluation is that it measures smoothness using the jerk of joint positions. A bone can twist visibly while its joint position barely changes, so their metric could miss exactly this kind of rotational jitter. They report smooth output, but they do not report a bone-orientation jerk metric or discuss twist ambiguity.
 
+normal or orientation only used by penetration currently.
+
+When only hands, face, shoulder context point i noticed a lot of jitter in neutral pose.
