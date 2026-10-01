@@ -76,3 +76,5 @@ flowchart TB
 When the source context point is far from other point, there is no reason to make the target reproduce that exact relationship. As the source point approaches the other point, the relationship gradually activates.
 This is called adaptive weighting, and is also a reason why adding context points in space and not only on the mesh is important.
 
+One limitation in the paper’s evaluation is that it measures smoothness using the jerk of joint positions. A bone can twist visibly while its joint position barely changes, so their metric could miss exactly this kind of rotational jitter. They report smooth output, but they do not report a bone-orientation jerk metric or discuss twist ambiguity.
+
