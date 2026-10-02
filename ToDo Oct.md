@@ -11,6 +11,7 @@
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?
 ### PP Pipeline
 _Body hands:_
+- [ ] Base posing on copy, rekey, zero, also on the fingers. 
 - [ ] Pose Pasting kleine paper? 
 - [ ] Curve sequencer heeft tools zoals mocap editing tools om curves minder noise te geven etc. <span class="blue">Zet dit in documentatie</span>
 - Post processing pipeline in unreal engine character creator fixes some eye related baking, so i changed my implementation to only alter the eye data in the post processing pipeline
