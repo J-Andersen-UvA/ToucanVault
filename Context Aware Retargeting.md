@@ -83,3 +83,5 @@ normal or orientation only used by penetration currently.
 When only hands, face, shoulder context point i noticed a lot of jitter in neutral pose. I solved it by adding more context points.
 
 Relationships on same bone context points are ignored.
+
+We bind context points to bones and not vertices.
