@@ -85,3 +85,9 @@ When only hands, face, shoulder context point i noticed a lot of jitter in neutr
 Relationships on same bone context points are ignored.
 
 We bind context points to bones and not vertices.
+
+Direction should not currently be used for permanently adjacent structural relationships such as:
+- chest ↔ upper arm
+- upper arm ↔ elbow
+- forearm ↔ wrist
+Those relationships are always close, so adaptive proximity treats them as important interactions even in the resting pose. Distance can remain enabled for them.
