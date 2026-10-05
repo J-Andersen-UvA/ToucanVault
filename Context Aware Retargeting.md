@@ -91,3 +91,11 @@ Direction should not currently be used for permanently adjacent structural relat
 - upper arm ↔ elbow
 - forearm ↔ wrist
 Those relationships are always close, so adaptive proximity treats them as important interactions even in the resting pose. Distance can remain enabled for them.
+
+note that frames are nearly independent except for the smoothness loss (also in reconform paper)
+
+The differences caused by windows are mainly:
+- Some jerk stencils are missing at window boundaries.
+- Overlap frames are solved more than once.
+- Independently solved corrections are blended through the overlap.
+- Adam’s state restarts for each window.
