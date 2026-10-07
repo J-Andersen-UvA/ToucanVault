@@ -86,3 +86,7 @@ npm
 npm run dev
 ```
 
+windows reset gpu drivers:
+```
+Win + Ctrl + Shift + B
+```
