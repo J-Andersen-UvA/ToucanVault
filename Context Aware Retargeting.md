@@ -99,3 +99,9 @@ The differences caused by windows are mainly:
 - Overlap frames are solved more than once.
 - Independently solved corrections are blended through the overlap.
 - Adam’s state restarts for each window.
+
+To fix jerk we:
+- stronger point-position regularization;
+- stronger jerk regularization;
+- smaller Adam learning rate;
+- more iterations.

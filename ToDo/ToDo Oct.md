@@ -1,5 +1,10 @@
 ### Context aware retargeting
-- [ ] Should we create a pass that repairs hand positioning, hand shape, maybe even face, on any avatar that has these areas defined? Like a specialized retarget for sign language?
+- [ ] Test penetration loss.
+- [ ] Should we create a <span class="blue">passes</span> that repairs hand positioning, hand shape, maybe even face, on any avatar that has these areas defined? Like a specialized retarget for sign language?
+- [ ] Create more avatars to test on.
+- [ ] Create difficult animations.
+- [ ] Git
+
 ### Data
 - [ ] Moeten we nog die vvids bewaren of niet
 - [ ] home/gomer/viconsync waarom niet auto remove.
