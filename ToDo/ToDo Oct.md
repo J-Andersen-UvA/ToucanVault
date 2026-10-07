@@ -5,9 +5,9 @@
 - [ ] Create difficult animations.
 - [x] Git
 ### Data
-- [ ] Moeten we nog die vvids bewaren of niet
-- [ ] home/gomer/viconsync waarom niet auto remove.
-- [ ] Hoe publishen op figshare script checken.
+- [x] Moeten we nog die vvids bewaren of niet
+- [x] home/gomer/viconsync waarom niet auto remove.
+- [x] Hoe publishen op figshare script checken.
 - [ ] avatar en anims meenemen naar huis voor testing
 ### Avatar
 - [ ] Fix mesh elements on palmer: sleeve and button
