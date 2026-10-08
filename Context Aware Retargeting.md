@@ -106,3 +106,4 @@ To fix jerk we:
 - smaller Adam learning rate;
 - more iterations.
 
+Face context ellipsoid?
