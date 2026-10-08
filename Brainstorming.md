@@ -23,3 +23,4 @@ HamNoSys picker for sign language animation data.
 # Signbank glosses + videos -> HamNoSys
 We could maybe combine videos and glosses to hamnosys.
 
+# Justin Brainstorming
