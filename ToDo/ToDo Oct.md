@@ -23,6 +23,7 @@ _Body hands:_
 	- [ ] Add these changes to Galya's and Jose's machines
 - [ ] Show Body control button not always working
 - [ ] New tool to check what has been post processed
+- [ ] Continue from checkpoint does not care about the video
 
 _FK selection rig:_
 - [ ] shift clicking not working for single frame selection method

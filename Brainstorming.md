@@ -27,3 +27,4 @@ We could maybe combine videos and glosses to hamnosys.
 Stretchsense.
 Waarom werkt handshape recognition niet voor mediapipe of single camera based approaches?
 Automatic segmentation based on finger rotation acceleration.
+paper for 3d skeletal handshape recognition?
