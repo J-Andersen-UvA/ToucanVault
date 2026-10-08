@@ -106,4 +106,4 @@ To fix jerk we:
 - smaller Adam learning rate;
 - more iterations.
 
-Face context ellipsoid?
+Face context ellipsoid, or mesh patches?
