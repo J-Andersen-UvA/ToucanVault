@@ -105,3 +105,4 @@ To fix jerk we:
 - stronger jerk regularization;
 - smaller Adam learning rate;
 - more iterations.
+
