@@ -24,3 +24,6 @@ HamNoSys picker for sign language animation data.
 We could maybe combine videos and glosses to hamnosys.
 
 # Justin Brainstorming
+Stretchsense.
+Waarom werkt handshape recognition niet voor mediapipe of single camera based approaches?
+Automatic segmentation based on finger rotation acceleration.
