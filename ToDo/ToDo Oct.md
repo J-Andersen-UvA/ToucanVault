@@ -10,9 +10,11 @@
 - [x] Hoe publishen op figshare script checken.
 - [ ] avatar en anims meenemen naar huis voor testing
 ### Avatar
-- [ ] Fix mesh elements on palmer: sleeve and button
+- [x] Fix mesh elements on palmer: sleeve and button
+	- [ ] Export to UE
 - [ ] Get rid of throat wrinkles
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?
+- [ ] Question animation tool?
 ### PP Pipeline
 _Body hands:_
 - [ ] Base posing on copy, rekey, zero, also on the fingers. 
