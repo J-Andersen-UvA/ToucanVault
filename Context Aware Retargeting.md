@@ -129,3 +129,12 @@ This method is what i do when i would correct by manually. I basically define 4 
 On timing 1 and 4 i zero key, on timing 2 and 3 i key the changes.
 If this issue is followed directly by another issue where i have to move the hand, i skip the zero on timing 4 because timing 2 will define where the hand has to be on the following movements.
 
+We have a new library made by a colleague to segment handshapes. But perhaps we can extend on that to segment on fingers but also on arm movement.
+Combining all these points we can do the following for fixing collision, using a layered animation approach (just like how we would do it in unreal engine):
+1. Find all penetration moments, combine penetration moments that are neighbouring frames in the animation and for each penetration moment:
+	1. Find worst penetration frame in moment and finger that causes it (usually the finger and arm movements are the lowest at that point due to the sign being held for a small time).
+	2. Find contact location point on source mesh for the finger and get same point on target avatar
+	3. Use IK to move hand to correct location based on the contact point and finger, using something like ADAM to find this. Keyframe that moment and use the same key-transform on the end of the penetration moment.
+	4. Find the start of the segment the penetration moment belongs to using my colleagues algorithm and place a zero keyframe. This makes the leading movement to the issue move to the new location.
+	5. If the following segment does not have a penetration moment:
+		1. 
