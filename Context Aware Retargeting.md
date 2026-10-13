@@ -107,3 +107,4 @@ To fix jerk we:
 - more iterations.
 
 Face context ellipsoid, or mesh patches?
+mesh patches, but they are kind of slow right now. So we are optimizing it.
