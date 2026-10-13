@@ -151,3 +151,5 @@ Combining all these points we can do the following for fixing collision, using a
 		   
 		   
 		   
+<span class="blue">We are basically searching for a method to find Key moments in the animations to map a finger point to. Penetration is an easy pointer, but what do we do when the key moment is outside of a a penetration. Do we even need to for those?
+</span>
