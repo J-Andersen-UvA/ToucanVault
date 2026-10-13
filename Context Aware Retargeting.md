@@ -108,3 +108,11 @@ To fix jerk we:
 
 Face context ellipsoid, or mesh patches?
 mesh patches, but they are kind of slow right now. So we are optimizing it.
+
+
+
+
+What about another approach:
+- We define many points on the face and we check for contact moments with these points, maybe if a finger falls between two points it just takes the position between.
+- On contact moment we force the retargeted motion to also contact its coinciding point by weighting hard?
+- We somehow need to smooth towards that position.
