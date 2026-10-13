@@ -110,7 +110,17 @@ Face context ellipsoid, or mesh patches?
 mesh patches, but they are kind of slow right now. So we are optimizing it.
 
 
+> The original penetration model represented each face context point as an infinite tangent plane. A curved face therefore required multiple planes, but these planes could overlap or conflict, making the penetration loss difficult to minimize consistently.
+> 
+> We replaced those planes with local face patches. The patch-based penetration loss worked when evaluated in isolation: it could move the sampled fingertip outside the face. However, collision avoidance alone does not preserve semantic contact, because many positions outside the face satisfy the penetration constraint.
+> 
+> When the patch loss was combined with the distance, direction, regularization, and temporal losses, no stable balance was found that both removed penetration and preserved the intended facial contact location. Changing the weights either left penetration, displaced the fingers to semantically incorrect facial locations, or introduced jitter. The optimizer therefore did not find a clean equilibrium between collision avoidance and semantic preservation.
+> 
+> The body pass was deliberately limited to rotations of the upper arms, forearms, and hands. Spine movement was excluded because it can change the posture and therefore the meaning of a sign. Finger movement was also excluded because changing the handshape can change meaning. This restriction means that some penetrations cannot be corrected locally: the optimizer must move the complete hand or arm, which also moves the intended contact location.
+> 
+> A separate finger pass produced some improvement over the original retargeted handshape, but the improvement was limited and did not solve the face-contact problem. Overall, the experiments show that sparse collision constraints and generic spatial relationships are insufficient to simultaneously guarantee collision-free motion and preserve semantically meaningful contact.
 
+> The missing element is not simply a stronger penetration loss. We need an explicit representation of semantic contact—what part of the hand should contact what region of the face—separate from the constraint that the hand must remain outside the face.
 
 What about another approach:
 - We define many points on the face and we check for contact moments with these points (maybe hitboxes).
@@ -137,4 +147,7 @@ Combining all these points we can do the following for fixing collision, using a
 	3. Use IK to move hand to correct location based on the contact point and finger, using something like ADAM to find this. Keyframe that moment and use the same key-transform on the end of the penetration moment.
 	4. Find the start of the segment the penetration moment belongs to using my colleagues algorithm and place a zero keyframe. This makes the leading movement to the issue move to the new location.
 	5. If the following segment does not have a penetration moment:
-		1. 
+		1. zero based on something ?
+		   
+		   
+		   
