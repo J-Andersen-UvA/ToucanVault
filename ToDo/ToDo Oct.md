@@ -9,6 +9,7 @@
 - [x] home/gomer/viconsync waarom niet auto remove.
 - [x] Hoe publishen op figshare script checken.
 - [ ] avatar en anims meenemen naar huis voor testing
+- [ ] Videos not compressed with timecodes anymore
 ### Avatar
 - [x] Fix mesh elements on palmer: sleeve and button
 	- [ ] Export to UE
