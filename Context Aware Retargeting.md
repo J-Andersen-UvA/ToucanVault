@@ -156,3 +156,12 @@ Combining all these points we can do the following for fixing collision, using a
 
 
 Jitter loss fuinction was nice, but if you keyframe only once additively you cannot jitter and therefore we have no need for the loss function in our approach
+
+
+
+
+
+
+
+
+What if we segment based on changes in context location: face, body, neutral? When we know we transition between these we know we want to target a new location?
