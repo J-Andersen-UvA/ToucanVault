@@ -165,3 +165,8 @@ Jitter loss fuinction was nice, but if you keyframe only once additively you can
 
 
 What if we segment based on changes in context location: face, body, neutral? When we know we transition between these we know we want to target a new location?
+
+
+
+
+<span class="red">HEY, Fix dat probleem dat \\VICON-bjasfkbjasond niet werkt</span>
