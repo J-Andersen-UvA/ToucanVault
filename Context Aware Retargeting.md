@@ -168,3 +168,7 @@ What if we segment based on changes in context location: face, body, neutral? Wh
 
 
 [[The Linguistics of Sign Language An introduction]]  talks about differences in articulation and how orientation can help with variation. Might be relevant to saying how the differences in orientation of a retargeted avatar are not big enough to make it look like a new sign completely.
+
+Auto segmenting and suggesting handforms to prevent "cold start"
+
+ 
