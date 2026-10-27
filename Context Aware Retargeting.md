@@ -167,6 +167,4 @@ Jitter loss fuinction was nice, but if you keyframe only once additively you can
 What if we segment based on changes in context location: face, body, neutral? When we know we transition between these we know we want to target a new location?
 
 
-
-
-<span class="red">HEY, Fix dat probleem dat \\VICON-bjasfkbjasond niet werkt</span>
+[[The Linguistics of Sign Language An introduction]]  talks about differences in articulation and how orientation can help with variation. Might be relevant to saying how the differences in orientation of a retargeted avatar are not big enough to make it look like a new sign completely.
