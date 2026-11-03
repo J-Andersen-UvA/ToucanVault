@@ -41,3 +41,8 @@ _Face:_
 - [ ] Cloth and hair physiics for demo?
 - [ ] Scene
 - [ ] Use mocapped camera
+
+
+
+
+- [ ] Send new avatar and animations
