@@ -13,7 +13,7 @@
 ### Avatar
 - [x] Fix mesh elements on palmer: sleeve and button
 	- [ ] Export to UE
-- [ ] Get rid of throat wrinkles
+- [x] Get rid of throat wrinkles (<span class="blue">nah</span>)
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?
 - [ ] Question animation tool?
 ### PP Pipeline
@@ -36,7 +36,7 @@ _Face:_
 - [ ] Slider changes to aggresive for the ctrlz
 - [ ] Not live updating anymore
 #### JamesDev
-- [ ] Test audio driven lip sync?
+- [x] Test audio driven lip sync? <span class="blue">Looks good</span>
 ### Demo render
 - [ ] Cloth and hair physiics for demo?
 - [ ] Scene
@@ -45,4 +45,4 @@ _Face:_
 
 
 
-- [ ] Send new avatar and animations
+- [x] Send new avatar and animations
