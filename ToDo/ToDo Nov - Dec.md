@@ -1,6 +1,6 @@
 ### Optimization pipelines
 _Hand poses:_
-- [ ] Add Beak snavel, H handform 
+- [x] Add Beak snavel, H handform 
 - [ ] Read handshape recognition using skeletal data
 _Semantic location:_
 - [ ] Add upper temple location
