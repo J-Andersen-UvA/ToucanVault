@@ -1,7 +1,7 @@
 ### Optimization pipelines
 _Hand poses:_
 - [x] Add Beak snavel, H handform 
-- [ ] Read handshape recognition using skeletal data
+- [ ] Read paper: handshape recognition using skeletal data
 _Semantic location:_
 - [x] Add upper temple location
 - [ ] Test Vicon to CC
