@@ -3,7 +3,7 @@ _Hand poses:_
 - [x] Add Beak snavel, H handform 
 - [ ] Read handshape recognition using skeletal data
 _Semantic location:_
-- [ ] Add upper temple location
+- [x] Add upper temple location
 - [ ] Test Vicon to CC
 	- [ ] If no work, think about: Calibration step and a post processing pipeline for location?
 _Face recording:_
