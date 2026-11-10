@@ -6,12 +6,17 @@ _Semantic location:_
 - [x] Add upper temple location
 - [ ] Test Vicon to CC
 	- [ ] If no work, think about: Calibration step and a post processing pipeline for location?
+	- [x] Make SemanticVicon
+	- [x] Get test animation
 _Face recording:_
 - [ ] Prototype mouthing using text to speech to blendshapes
 - [ ] Learned algorithm for recognizing mouth gestures
 ### Data
 - [ ] avatar en anims meenemen naar huis voor testing
 - [ ] Videos not compressed with timecodes anymore
+- [x] Add vicon download option to animmidi
+	- [x] Add button to the website
+	- [x] Add option to the sql db
 ### Avatar
 - [ ] Export fixed palmer to UE
 - [ ] Stylized avatar in CC? Voor signlab. Kopen?

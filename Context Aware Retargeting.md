@@ -171,4 +171,5 @@ What if we segment based on changes in context location: face, body, neutral? Wh
 
 Auto segmenting and suggesting handforms to prevent "cold start"
 
- 
+ ![[ViconFaceLocationThumb.png|400]]![[CCFaceLocationThumb.png|400]]
+Issue is that we cannot take source as truth, the face does not scale with Vicon recordings.
