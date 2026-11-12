@@ -1,3 +1,4 @@
+- [ ] Plan meeting Berit, verhuizing code (auto pushes?), github organisatie
 ### Optimization pipelines
 _Hand poses:_
 - [x] Add Beak snavel, H handform 
