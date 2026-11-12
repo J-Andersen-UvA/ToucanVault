@@ -2,6 +2,7 @@
 _Hand poses:_
 - [x] Add Beak snavel, H handform 
 - [ ] Read paper: handshape recognition using skeletal data
+- [ ] Date the automatic generation of handshape selections in HandposeTimeline 
 _Semantic location:_
 - [x] Add upper temple location
 - [ ] Test Vicon to CC
