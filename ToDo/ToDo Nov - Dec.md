@@ -1,6 +1,6 @@
 - [ ] Plan meeting Berit, verhuizing code (auto pushes?), github organisatie
 - [ ] Touching of fingers dont work on random moments, maybe not use the face semantic moment calculation, just use the moment we click it? Only on new machine?
-- [ ] Add functions pop up, like turn 180 (toggle?).
+- [ ] Add functions pop up, like turn 180 (toggle?), fix feet.
 ### Optimization pipelines
 _Hand poses:_
 - [x] Add Beak snavel, H handform 
