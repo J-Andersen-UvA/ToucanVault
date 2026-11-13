@@ -4,6 +4,7 @@
 - [ ] Turning movement is hard for location correction tool: 1638 (slim)
 - [ ] Fix feet / legs
 - [ ] Bake & finish not baking to correct location
+- [ ] hand form b, fingers tips not aligned well.
 ### Optimization pipelines
 _Hand poses:_
 - [x] Add Beak snavel, H handform 
