@@ -2,6 +2,7 @@
 - [ ] Touching of fingers dont work on random moments, maybe not use the face semantic moment calculation, just use the moment we click it? Only on new machine?
 - [ ] Add functions pop up, like turn 180 (toggle?), fix feet.
 - [ ] Turning movement is hard for location correction tool: 1638 (slim)
+- [ ] Fix feet / legs
 ### Optimization pipelines
 _Hand poses:_
 - [x] Add Beak snavel, H handform 
@@ -17,7 +18,7 @@ _Face recording:_
 - [ ] Prototype mouthing using text to speech to blendshapes
 - [ ] Learned algorithm for recognizing mouth gestures
 ### Data
-- [ ] avatar en anims meenemen naar huis voor testing
+- [x] avatar en anims meenemen naar huis voor testing
 - [ ] Videos not compressed with timecodes anymore
 - [x] Add vicon download option to animmidi
 	- [x] Add button to the website
